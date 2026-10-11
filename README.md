@@ -1,5 +1,7 @@
 # Convocarte · datos
 
+[Política de privacidad](PRIVACIDAD.md) · [Términos y condiciones](TERMINOS.md)
+
 Archivo público de convocatorias culturales que usa la app **Convocarte**. La app lo descarga al abrirse y una vez por día desde:
 
 https://raw.githubusercontent.com/fdecandia86/convocarte-datos/main/convocatorias.json
