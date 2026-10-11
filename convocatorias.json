@@ -14590,6 +14590,464 @@
         "SEGIB"
       ],
       "verificado": "2026-10-11"
+    },
+    {
+      "id": "bo-fitcruz-2027",
+      "titulo": "Festival Internacional de Teatro «Santa Cruz de la Sierra» 2027 – Convocatoria internacional",
+      "organizacion": "Asociación Pro Arte y Cultura (APAC)",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "BO",
+      "paisNombre": "Bolivia",
+      "ciudad": "Santa Cruz de la Sierra",
+      "provincia": "Santa Cruz",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -17.7833,
+      "lng": -63.1821,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "COLECTIVO",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es",
+        "en"
+      ],
+      "resumen": "Festival bienal de APAC en Santa Cruz de la Sierra, del 9 al 18 de abril de 2027. Recibe espectáculos de grupos de todo el mundo, de cualquier género teatral y de artes escénicas. La convocatoria cierra el 29 de noviembre de 2026 y las invitaciones salen hasta el 15 de enero de 2027.",
+      "requisitos": [
+        "Obra estrenada y presentada en cartelera antes del cierre.",
+        "Preferencia por elencos de menos de 5 personas, contando técnicos y productores.",
+        "Disponibilidad del 9 al 20 de abril de 2027.",
+        "Si la obra no es en castellano, el grupo entrega la traducción para el subtitulado."
+      ],
+      "documentacion": [
+        "Postulación según la convocatoria publicada en festivalesapac.com.",
+        "Requerimientos técnicos (modificaciones hasta el 8 de febrero de 2027)."
+      ],
+      "beneficios": [
+        "Participación en la programación del festival.",
+        "Entradas de cortesía y con descuento según el origen del grupo."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-29",
+      "fechasEstimadas": false,
+      "periodicidad": "BIENAL",
+      "url": "https://festivalesapac.com/convocatoria-festival-internacional-de-teatro-santa-cruz-de-la-sierra-2027/",
+      "urlBases": "https://festivalesapac.com/open-call-intenational-theater-festival-2027/",
+      "palabrasClave": [
+        "FITCRUZ",
+        "APAC",
+        "Bolivia",
+        "festival de teatro",
+        "convocatoria internacional"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "cr-shorts-costa-rica-2027",
+      "titulo": "Shorts Costa Rica 2027 – Convocatoria de cortometrajes",
+      "organizacion": "Shorts Costa Rica International Film Festival",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "CR",
+      "paisNombre": "Costa Rica",
+      "ciudad": "San José",
+      "provincia": "San José",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": 9.9281,
+      "lng": -84.0907,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es",
+        "en"
+      ],
+      "resumen": "Quinta edición del festival de cortometrajes, del 14 al 24 de abril de 2027. Tiene tres competencias: nacional, centroamericana e internacional, con ficción, animación, documental, videoclip y experimental. La ficha del festival en Festhome indica cierre el 31 de enero de 2027; confirmá tarifas en la convocatoria.",
+      "requisitos": [
+        "Cortometrajes de ficción, animación, documental, videoclip o experimental.",
+        "Para la competencia nacional, dirección o producción costarricense."
+      ],
+      "documentacion": [
+        "Inscripción en Festhome.",
+        "Enlace de visionado y ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las tres competencias."
+      ],
+      "apertura": null,
+      "cierre": "2027-01-31",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://filmmakers.festhome.com/festival/7867",
+      "urlBases": null,
+      "palabrasClave": [
+        "Shorts Costa Rica",
+        "cortometrajes",
+        "Centroamérica",
+        "festival de cine"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "cr-crfic-15-competencias",
+      "titulo": "Costa Rica Festival Internacional de Cine (CRFIC 15) – Competencias de cine centroamericano y caribeño",
+      "organizacion": "Centro Costarricense de Cine y Audiovisual – Ministerio de Cultura y Juventud",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "CR",
+      "paisNombre": "Costa Rica",
+      "ciudad": "San José",
+      "provincia": "San José",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": 9.9281,
+      "lng": -84.0907,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "CR",
+        "GT",
+        "SV",
+        "HN",
+        "NI",
+        "PA",
+        "BZ",
+        "CU",
+        "DO",
+        "PR",
+        "HT",
+        "JM",
+        "TT"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Competencias de largometrajes y cortometrajes costarricenses, centroamericanos y caribeños del CRFIC. En 2026 la convocatoria cerró el 6 de marzo y el festival se hizo del 23 de julio al 1 de agosto. Las fechas de 2027 están proyectadas desde ese ciclo.",
+      "requisitos": [
+        "Obras costarricenses, centroamericanas o caribeñas.",
+        "Condiciones de terminación y estreno según bases de cada año."
+      ],
+      "documentacion": [
+        "Formulario en línea en los sitios del festival y del Centro de Cine.",
+        "Enlace de visionado."
+      ],
+      "beneficios": [
+        "Exhibición gratuita en el CRFIC.",
+        "Premios de las competencias oficiales."
+      ],
+      "apertura": "2027-01-30",
+      "cierre": "2027-03-06",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.costaricacinefest.go.cr",
+      "urlBases": null,
+      "palabrasClave": [
+        "CRFIC",
+        "Centro de Cine",
+        "Costa Rica",
+        "cine centroamericano",
+        "Caribe"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "cl-ficvaldivia-competencias-2027",
+      "titulo": "FICValdivia – Convocatoria a competencias (edición 2027)",
+      "organizacion": "Festival Internacional de Cine de Valdivia",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Valdivia",
+      "provincia": "Los Ríos",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -39.8142,
+      "lng": -73.2459,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es",
+        "en"
+      ],
+      "resumen": "Convocatoria a las competencias de FICValdivia: largometraje, largometraje juvenil, cortometraje latinoamericano y caribeño, cortometraje infantil y cortometraje de estudiantes chilenos. En 2026 se inscribía del 9 de marzo al 24 de abril por Festhome; las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Obras terminadas dentro del plazo que fijen las bases (en 2026, desde el 1 de marzo de 2025).",
+        "Estreno en Chile en FICValdivia."
+      ],
+      "documentacion": [
+        "Inscripción en Festhome.",
+        "Enlace de visionado."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de cada competencia."
+      ],
+      "apertura": "2027-03-09",
+      "cierre": "2027-04-24",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.ficvaldivia.cl",
+      "urlBases": null,
+      "palabrasClave": [
+        "FICValdivia",
+        "Valdivia",
+        "festival de cine",
+        "Chile",
+        "cortometraje"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "co-ficcali-cortometrajes-nacionales",
+      "titulo": "Festival Internacional de Cine de Cali (FICCALI) – Convocatoria de cortometrajes nacionales",
+      "organizacion": "Secretaría de Cultura de Santiago de Cali",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "CO",
+      "paisNombre": "Colombia",
+      "ciudad": "Cali",
+      "provincia": "Valle del Cauca",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": 3.4516,
+      "lng": -76.532,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "CO"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Convocatoria de cortometrajes colombianos del FICCALI, con Competencia Oficial de Cortometraje Nacional, Vanguardias Afro, Vanguardias Indígenas, Plano Sonoro y Muestra Infantil. En 2026 estuvo abierta del 29 de julio al 20 de agosto; las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Cortometrajes colombianos terminados dentro del período que fijen las bases (en 2026, después del 1 de julio de 2025)."
+      ],
+      "documentacion": [
+        "Formulario de inscripción.",
+        "Enlace de visionado."
+      ],
+      "beneficios": [
+        "Exhibición en el FICCALI.",
+        "Premios de la competencia."
+      ],
+      "apertura": "2027-07-29",
+      "cierre": "2027-08-20",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.cali.gov.co/cultura/publicaciones/193447/festival-de-cine-2026-abre-convocatoria-para-cortometrajes-nacionales/",
+      "urlBases": null,
+      "palabrasClave": [
+        "FICCALI",
+        "Cali",
+        "cortometraje",
+        "Vanguardias Afro",
+        "Vanguardias Indígenas"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "ec-festival-cine-guayaquil-xiii",
+      "titulo": "Festival Internacional de Cine de Guayaquil – Convocatoria XIII edición (2027)",
+      "organizacion": "Festival Internacional de Cine de Guayaquil",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "EC",
+      "paisNombre": "Ecuador",
+      "ciudad": "Guayaquil",
+      "provincia": "Guayas",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -2.1894,
+      "lng": -79.8891,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival que recibe cortometrajes de 5'30\" a 30' y largometrajes de 50' a 120', con tarifa de inscripción. Para la XII edición (2026) la convocatoria abrió el 26 de septiembre de 2025 y tuvo cierre final el 15 de abril de 2026; las fechas de la XIII están proyectadas.",
+      "requisitos": [
+        "Cortometrajes de 5'30\" a 30' o largometrajes de 50' a 120'.",
+        "Estreno en Guayaquil para la selección oficial."
+      ],
+      "documentacion": [
+        "Inscripción en Festhome.",
+        "Enlace de visionado."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de la selección oficial."
+      ],
+      "apertura": "2026-09-26",
+      "cierre": "2027-04-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://filmmakers.festhome.com/festival/2956",
+      "urlBases": null,
+      "palabrasClave": [
+        "Guayaquil",
+        "Ecuador",
+        "festival de cine",
+        "cortometraje",
+        "largometraje"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "br-festival-gramado-mostras-brasileiras",
+      "titulo": "Festival de Cinema de Gramado – Inscripción para las muestras brasileñas de largos y cortos",
+      "organizacion": "Festival de Cinema de Gramado",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "BR",
+      "paisNombre": "Brasil",
+      "ciudad": "Gramado",
+      "provincia": "Rio Grande do Sul",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -29.3787,
+      "lng": -50.8739,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "BR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "pt"
+      ],
+      "resumen": "Muestras competitivas brasileñas del Festival de Gramado: hasta ocho largos de ficción, cinco largos documentales y catorce cortos. En 2026 la inscripción abrió en marzo y cerró el 31 de marzo; la Mostra de Longas Gaúchos cerró el 20 de junio. Las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Películas brasileñas de productoras independientes.",
+        "Terminadas dentro del período que fijen las bases (en 2026, desde mayo de 2025)."
+      ],
+      "documentacion": [
+        "Ficha de inscripción en inscricoescinema.com.br.",
+        "Enlace de visionado."
+      ],
+      "beneficios": [
+        "Exhibición en el Festival de Gramado.",
+        "Kikitos y premios de las muestras."
+      ],
+      "apertura": null,
+      "cierre": "2027-03-31",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://festivaldecinemadegramado.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "Gramado",
+        "Kikito",
+        "cine brasileño",
+        "festival de cine"
+      ],
+      "verificado": "2026-10-11"
     }
   ]
 }
