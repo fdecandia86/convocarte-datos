@@ -1,0 +1,6131 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-11",
+  "convocatorias": [
+    {
+      "id": "int-subsidios-ventanilla-permanente",
+      "titulo": "Subsidios del Instituto Nacional del Teatro (líneas de financiamiento 2026)",
+      "organizacion": "Instituto Nacional del Teatro (INT)",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "TEATRO",
+        "TITERES",
+        "CIRCO",
+        "DRAMATURGIA"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "PRODUCCION",
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "El INT financia a grupos, artistas y salas de teatro independiente de todo el país. En 2026 abrió seis líneas con adjudicación mensual y algunas ventanillas permanentes. Las solicitudes se hacen en línea en la web del INT.",
+      "requisitos": [
+        "Ser grupo, artista o sala de teatro independiente con domicilio en Argentina.",
+        "Estar inscripto en el registro del INT que corresponda (grupos o salas).",
+        "Cumplir las condiciones de cada línea."
+      ],
+      "documentacion": [
+        "Formulario en línea del INT.",
+        "Proyecto y presupuesto.",
+        "Antecedentes del grupo o sala.",
+        "Documentación del responsable (DNI, CUIT)."
+      ],
+      "beneficios": [
+        "Aporte económico para producción, actividad de grupo, salas o eventos, según la línea."
+      ],
+      "apertura": "2026-06-01",
+      "cierre": null,
+      "fechasEstimadas": false,
+      "periodicidad": "PERMANENTE",
+      "url": "https://inteatro.gob.ar",
+      "urlBases": null,
+      "palabrasClave": [
+        "teatro independiente",
+        "salas",
+        "grupos de teatro",
+        "producción",
+        "subsidio",
+        "federal"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "int-concurso-nacional-obras-de-teatro",
+      "titulo": "Concurso Nacional de Obras de Teatro",
+      "organizacion": "Instituto Nacional del Teatro (INT)",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso de textos teatrales inéditos del INT. Un jurado elige obras que luego se publican en la editorial INTeatro. La última edición registrada (24ª, 2023) cerró a fines de septiembre y tuvo un eje temático.",
+      "requisitos": [
+        "Autoras y autores argentinos o residentes en el país.",
+        "Obra original e inédita.",
+        "Respetar el tema de la edición si lo hay."
+      ],
+      "documentacion": [
+        "Texto de la obra.",
+        "Datos del autor o autora.",
+        "Formulario de inscripción."
+      ],
+      "beneficios": [
+        "Publicación de la obra por la editorial INTeatro.",
+        "Premio económico según las bases de cada edición."
+      ],
+      "apertura": null,
+      "cierre": "2027-09-29",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://inteatro.gob.ar",
+      "urlBases": null,
+      "palabrasClave": [
+        "dramaturgia",
+        "texto teatral",
+        "obra inédita",
+        "publicación",
+        "concurso"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "incaa-opera-prima-segundas-peliculas-regional",
+      "titulo": "Concurso Ópera Prima y Segundas Películas Regional",
+      "organizacion": "Instituto Nacional de Cine y Artes Audiovisuales (INCAA)",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": 18,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso federal del INCAA para primeras y segundas películas de ficción o animación hechas en las regiones del país. Lo presentan productoras mayores de 18 años junto con un director o directora. En 2026 estuvo abierto del 15 de junio al 15 de julio.",
+      "requisitos": [
+        "Productor mayor de 18 años con domicilio en Argentina.",
+        "Director o directora que haga su primera o segunda película.",
+        "Rodar o producir en la región por la que se postula.",
+        "Proyecto de ficción o animación."
+      ],
+      "documentacion": [
+        "Guion.",
+        "Plan de producción y presupuesto.",
+        "Antecedentes de productor y director.",
+        "Formulario en INCAA en Línea."
+      ],
+      "beneficios": [
+        "Premio para producir el largometraje (hasta 12 premios repartidos entre 6 regiones en 2026)."
+      ],
+      "apertura": "2027-06-15",
+      "cierre": "2027-07-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.incaa.gob.ar",
+      "urlBases": "https://www.incaa.gob.ar/wp-content/uploads/2026/05/IF-2026-56175366-APN-SGPINCAA-ANEXO-I-Concurso-Opera-Prima-y-Segundas-Peliculas-Regional-2026.pdf",
+      "palabrasClave": [
+        "ópera prima",
+        "segunda película",
+        "cine regional",
+        "largometraje",
+        "ficción",
+        "animación",
+        "federal"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "incaa-concurso-largometrajes-ficcion-documental",
+      "titulo": "Concurso de Largometrajes: Ficción y Documental",
+      "organizacion": "Instituto Nacional de Cine y Artes Audiovisuales (INCAA)",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso de fomento del INCAA para producir largometrajes de ficción y documental. En 2026 hubo dos llamados: 17 de marzo al 17 de abril y 14 de julio al 14 de agosto. Los proyectos se presentan antes del rodaje.",
+      "requisitos": [
+        "Empresa productora registrada en el INCAA.",
+        "Proyecto inédito u original, o basado en una obra con derechos.",
+        "No haber empezado el rodaje.",
+        "No haber recibido antes fondos del INCAA para producir ese proyecto."
+      ],
+      "documentacion": [
+        "Guion o tratamiento.",
+        "Presupuesto y plan financiero.",
+        "Cesión de derechos.",
+        "Antecedentes del equipo."
+      ],
+      "beneficios": [
+        "Apoyo económico para la producción del largometraje."
+      ],
+      "apertura": "2027-03-17",
+      "cierre": "2027-04-17",
+      "fechasEstimadas": true,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://www.incaa.gob.ar",
+      "urlBases": "https://www.incaa.gob.ar/wp-content/uploads/2026/07/Anexo_1-Bases-y-Condiciones-RESOL-2026-256-APN-INCAASC.pdf",
+      "palabrasClave": [
+        "largometraje",
+        "documental",
+        "ficción",
+        "producción",
+        "fomento"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "fna-becas-movilidad",
+      "titulo": "Becas Movilidad del Fondo Nacional de las Artes (segunda convocatoria 2026)",
+      "organizacion": "Fondo Nacional de las Artes (FNA)",
+      "tipo": "BECA",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "CINE",
+        "MUSICA",
+        "ARTES_VISUALES"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "GESTOR"
+      ],
+      "etapas": [
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Ayuda del FNA para viajar a festivales, residencias, encuentros o capacitaciones en el país o el exterior. Esta convocatoria cubre actividades que ocurren entre el 1 de enero y el 1 de junio de 2027.",
+      "requisitos": [
+        "Ser artista o gestor cultural argentino o residente en el país.",
+        "Tener una invitación o aceptación a la actividad.",
+        "La actividad debe ocurrir entre el 1/1/2027 y el 1/6/2027."
+      ],
+      "documentacion": [
+        "Formulario en la plataforma del FNA.",
+        "Carta de invitación.",
+        "CV.",
+        "Presupuesto de pasajes y estadía."
+      ],
+      "beneficios": [
+        "Aporte para pasajes y gastos de viaje."
+      ],
+      "apertura": "2026-10-02",
+      "cierre": "2026-11-04",
+      "fechasEstimadas": false,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://fnartes.gob.ar",
+      "urlBases": null,
+      "palabrasClave": [
+        "movilidad",
+        "viaje",
+        "festival",
+        "residencia",
+        "circulación internacional"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "fna-concurso-dramaturgia",
+      "titulo": "Concurso de Dramaturgia del Fondo Nacional de las Artes",
+      "organizacion": "Fondo Nacional de las Artes (FNA)",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": 18,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso anual del FNA que premia obras dramáticas escritas en el país. Pueden participar dramaturgos argentinos y extranjeros residentes. La edición 2026 cerró el 21 de mayo.",
+      "requisitos": [
+        "Ser mayor de 18 años.",
+        "Ser argentino o extranjero con residencia legal en Argentina.",
+        "No haber ganado ediciones anteriores ni becas o premios del FNA el año previo."
+      ],
+      "documentacion": [
+        "Obra teatral inédita.",
+        "Formulario en la plataforma del FNA.",
+        "Datos personales y DNI."
+      ],
+      "beneficios": [
+        "Premio económico (monto según bases anuales)."
+      ],
+      "apertura": "2027-05-01",
+      "cierre": "2027-05-21",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://fnartes.gob.ar",
+      "urlBases": null,
+      "palabrasClave": [
+        "dramaturgia",
+        "obra de teatro",
+        "texto dramático",
+        "premio"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "fna-concurso-puesta-en-escena-teatro-danza",
+      "titulo": "Concurso de Puesta en Escena de Obras de Teatro y Danza",
+      "organizacion": "Fondo Nacional de las Artes (FNA)",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "PRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": 3000000,
+      "moneda": "ARS",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso del FNA para grupos de teatro y danza que presentan una obra terminada para ponerla en escena. En 2026 entregó hasta 3 millones de pesos por categoría y cerró el 10 de septiembre.",
+      "requisitos": [
+        "Grupo de al menos tres personas (no se aceptan unipersonales).",
+        "Una sola obra terminada por grupo.",
+        "Integrantes residentes en Argentina."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Registro audiovisual de la obra.",
+        "Ficha artística y técnica.",
+        "Presupuesto."
+      ],
+      "beneficios": [
+        "Premio de hasta 3.000.000 ARS por categoría (edición 2026)."
+      ],
+      "apertura": null,
+      "cierre": "2027-09-10",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://fnartes.gob.ar",
+      "urlBases": null,
+      "palabrasClave": [
+        "puesta en escena",
+        "teatro",
+        "danza",
+        "grupos",
+        "premio"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "mecenazgo-cultural-caba",
+      "titulo": "Participación Cultural / Mecenazgo",
+      "organizacion": "Ministerio de Cultura de la Ciudad de Buenos Aires",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "CINE",
+        "MUSICA",
+        "ARTES_VISUALES"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "GESTOR",
+        "COMPANIA",
+        "COLECTIVO",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Régimen de la Ciudad de Buenos Aires: un proyecto cultural aprobado puede recibir aportes de contribuyentes de Ingresos Brutos, que los descuentan de su impuesto. Hay una sola convocatoria por año y se presenta por TAD.",
+      "requisitos": [
+        "Persona humana o jurídica sin fines de lucro.",
+        "Domicilio legal en la Ciudad o proyecto realizado en la Ciudad.",
+        "No ser funcionario alcanzado por las incompatibilidades del reglamento."
+      ],
+      "documentacion": [
+        "Formulario de datos y de proyecto (anexos del reglamento).",
+        "Presupuesto.",
+        "Antecedentes.",
+        "Usuario miBA para TAD."
+      ],
+      "beneficios": [
+        "Habilitación para recibir aportes de empresas y contribuyentes para financiar el proyecto."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://buenosaires.gob.ar/cultura/impulso-cultural/mecenazgo/como-participo",
+      "urlBases": "https://static.buenosaires.gob.ar/sites/default/files/2026-02/Reglamento%20general%20Mecenazgo%202026.pdf",
+      "palabrasClave": [
+        "mecenazgo",
+        "financiamiento privado",
+        "CABA",
+        "proyecto cultural",
+        "patrocinio"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "proteatro-subsidios",
+      "titulo": "Subsidios Proteatro (primer llamado anual)",
+      "organizacion": "Proteatro – Ministerio de Cultura de la Ciudad de Buenos Aires",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "TEATRO",
+        "DRAMATURGIA"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "COLECTIVO",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "PRODUCCION",
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Régimen de fomento al teatro independiente porteño. El primer llamado incluye salas, grupos estables, comunitarios, eventuales y proyectos especiales. En 2026 fue del 19 de marzo al 7 de abril; un segundo llamado (28/7 al 10/8) fue solo para grupos eventuales y proyectos especiales.",
+      "requisitos": [
+        "Actividad teatral independiente en la Ciudad de Buenos Aires.",
+        "Inscripción en el Registro Proteatro.",
+        "Cuenta miBA y un responsable administrativo."
+      ],
+      "documentacion": [
+        "Formulario por TAD.",
+        "Proyecto y presupuesto.",
+        "Antecedentes del grupo o sala."
+      ],
+      "beneficios": [
+        "Subsidio para producción, investigación, equipamiento o funcionamiento de salas."
+      ],
+      "apertura": "2027-03-19",
+      "cierre": "2027-04-07",
+      "fechasEstimadas": true,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://buenosaires.gob.ar/proteatro",
+      "urlBases": "https://static.buenosaires.gob.ar/sites/default/files/2026-04/Proteatro.pdf",
+      "palabrasClave": [
+        "teatro independiente",
+        "salas",
+        "grupos estables",
+        "teatro comunitario",
+        "CABA"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "prodanza-subsidios",
+      "titulo": "Subsidios Prodanza",
+      "organizacion": "Prodanza – Ministerio de Cultura de la Ciudad de Buenos Aires",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "DANZA",
+        "PERFORMANCE"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "PRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Programa de fomento de la danza no oficial de la Ciudad. Entrega subsidios anuales para crear o reponer obras, a compañías estables y eventuales y a salas. La convocatoria 2026 ya cerró.",
+      "requisitos": [
+        "Inscripción en el Registro Prodanza.",
+        "Compañías estables: al menos dos años de actividad continua.",
+        "Hacer al menos cuatro funciones abiertas al público."
+      ],
+      "documentacion": [
+        "Formulario y proyecto según el Reglamento General.",
+        "Presupuesto.",
+        "Antecedentes."
+      ],
+      "beneficios": [
+        "Subsidio para creación o reposición de obras de danza."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://buenosaires.gob.ar/prodanza/recursos/subsidios",
+      "urlBases": null,
+      "palabrasClave": [
+        "danza",
+        "coreografía",
+        "compañías",
+        "CABA",
+        "reposición"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "bienal-arte-joven-buenos-aires",
+      "titulo": "Bienal Arte Joven Buenos Aires",
+      "organizacion": "Ministerio de Cultura de la Ciudad de Buenos Aires",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "PERFORMANCE",
+        "CINE",
+        "ARTES_VISUALES",
+        "MUSICA"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": 18,
+      "edadMax": 32,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO",
+        "ESTUDIANTE"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Programa de la Ciudad para artistas jóvenes de 18 a 32 años, con convocatorias en artes escénicas, audiovisuales, visuales, música y literatura. Ofrece formación, producción y exhibición. No hay fecha publicada para la próxima edición.",
+      "requisitos": [
+        "Tener entre 18 y 32 años.",
+        "Residir en Argentina (ver bases de cada edición)."
+      ],
+      "documentacion": [
+        "Proyecto o portfolio.",
+        "Formulario en bienal.buenosaires.gob.ar."
+      ],
+      "beneficios": [
+        "Clínicas y tutorías.",
+        "Apoyo a la producción.",
+        "Exhibición en el festival de la Bienal."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "BIENAL",
+      "url": "https://bienal.buenosaires.gob.ar",
+      "urlBases": null,
+      "palabrasClave": [
+        "arte joven",
+        "emergentes",
+        "artes escénicas",
+        "bienal"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "fiba-convocatoria-proyectos",
+      "titulo": "Convocatorias del Festival Internacional de Buenos Aires (FIBA)",
+      "organizacion": "Ministerio de Cultura de la Ciudad de Buenos Aires",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "PERFORMANCE",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "El FIBA es el festival de artes escénicas de la Ciudad (edición 2026: 9 al 20 de septiembre). En ediciones anteriores abrió convocatorias para obras estrenadas, proyectos a estrenar y coproducciones de creadores residentes en Argentina. No hay convocatoria publicada para la próxima edición.",
+      "requisitos": [
+        "Creadores residentes en Argentina.",
+        "Obras estrenadas dentro del período que fijan las bases, o proyectos a estrenar."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Registro audiovisual.",
+        "Dossier y ficha técnica."
+      ],
+      "beneficios": [
+        "Programación en el FIBA con cachet.",
+        "En algunas ediciones, apoyo a la producción o coproducción."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "BIENAL",
+      "url": "https://www.buenosaires.gob.ar/festivalesba/convocatoriafiba/",
+      "urlBases": null,
+      "palabrasClave": [
+        "festival",
+        "artes escénicas",
+        "programación",
+        "estreno",
+        "coproducción"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "bafici-inscripcion-peliculas",
+      "titulo": "BAFICI – Inscripción de películas",
+      "organizacion": "Buenos Aires Festival Internacional de Cine Independiente",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es",
+        "en"
+      ],
+      "resumen": "Festival de cine independiente de Buenos Aires (edición 2026: 15 al 26 de abril). La inscripción es gratuita y en línea. En la edición pasada estuvo abierta del 1 de octubre al 18 de diciembre.",
+      "requisitos": [
+        "Películas terminadas de cualquier país.",
+        "Cumplir los requisitos de estreno de cada sección.",
+        "Inscripción en línea antes del cierre."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Enlace de visionado.",
+        "Ficha técnica y sinopsis."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Competencias con premios."
+      ],
+      "apertura": "2026-10-01",
+      "cierre": "2026-12-18",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://bafici.org",
+      "urlBases": "https://bafici.org/wp-content/uploads/ESPANOL-REGLAMENTO-OFICIAL-27°-BAFICI.pdf",
+      "palabrasClave": [
+        "cine independiente",
+        "festival",
+        "cortometraje",
+        "largometraje",
+        "estreno"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "festival-cine-mar-del-plata-inscripcion",
+      "titulo": "Festival Internacional de Cine de Mar del Plata – Inscripción de obras",
+      "organizacion": "INCAA – Festival Internacional de Cine de Mar del Plata",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Mar del Plata",
+      "continente": "AMERICA_LATINA",
+      "lat": -38.0055,
+      "lng": -57.5426,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": "USD",
+      "costoInscripcion": 60,
+      "idiomas": [
+        "es",
+        "en"
+      ],
+      "resumen": "Único festival de categoría A de Latinoamérica (41ª edición: 5 al 15 de noviembre de 2026). En 2026 la inscripción fue del 4 de mayo al 15 de julio (con prórroga) y tuvo arancel.",
+      "requisitos": [
+        "Obras terminadas en el período que fijan las bases.",
+        "Sin exhibición pública previa en Argentina.",
+        "Enlace de descarga con contraseña."
+      ],
+      "documentacion": [
+        "Formulario en mardelplatafilmfest.com.",
+        "Enlace de descarga (máx. 2 GB).",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición y competencias con premios."
+      ],
+      "apertura": "2027-05-04",
+      "cierre": "2027-06-30",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://mardelplatafilmfest.com",
+      "urlBases": "https://mardelplatafilmfest.com/41/wp-content/uploads/2026/04/REGLAMENTO-OFICIAL-41FESTIVAL-INTERNACIONAL-DE-CINE-DE-MAR-DEL-PLATA.pdf",
+      "palabrasClave": [
+        "festival clase A",
+        "largometraje",
+        "cortometraje",
+        "estreno",
+        "competencia"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "ventana-sur-primer-corte-copia-final",
+      "titulo": "Ventana Sur – Primer Corte y Copia Final",
+      "organizacion": "Ventana Sur (INCAA y Marché du Film – Festival de Cannes)",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "UY",
+      "paisNombre": "Uruguay",
+      "ciudad": "Montevideo",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.9011,
+      "lng": -56.1645,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "DO",
+        "EC",
+        "SV",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "UY",
+        "VE"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "POSTPRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es",
+        "en"
+      ],
+      "resumen": "Mercado de cine latinoamericano. Primer Corte y Copia Final muestran largometrajes en postproducción a agentes de venta, festivales y fondos. La edición 2026 es en Montevideo (30/11 al 4/12) y la convocatoria cerró el 6 de septiembre.",
+      "requisitos": [
+        "Largometraje latinoamericano en postproducción (Primer Corte) o casi terminado (Copia Final).",
+        "Sin estreno previo."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Corte del film con subtítulos en inglés.",
+        "Ficha y plan de financiación."
+      ],
+      "beneficios": [
+        "Proyección ante profesionales de la industria.",
+        "Premios en servicios de postproducción y distribución."
+      ],
+      "apertura": null,
+      "cierre": "2027-09-06",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://ventana-sur.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "mercado",
+        "work in progress",
+        "postproducción",
+        "agente de ventas",
+        "latinoamérica"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "argentores-del-texto-a-la-escena",
+      "titulo": "Concurso Nacional Argentores Del Texto a la Escena",
+      "organizacion": "Argentores – Sociedad General de Autores de la Argentina",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": 500000,
+      "moneda": "ARS",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso para autores teatrales socios de Argentores. Premia textos originales de al menos 45 minutos. La 4ª edición (2026) dio 500.000 pesos y cerró el 30 de septiembre.",
+      "requisitos": [
+        "Ser socio de Argentores (antes del 31 de diciembre del año previo).",
+        "Texto original, no adaptación.",
+        "Duración mínima de 45 minutos."
+      ],
+      "documentacion": [
+        "Texto de la obra.",
+        "Formulario de inscripción."
+      ],
+      "beneficios": [
+        "Premio de 500.000 ARS (edición 2026)."
+      ],
+      "apertura": null,
+      "cierre": "2027-09-30",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://argentores.org.ar",
+      "urlBases": null,
+      "palabrasClave": [
+        "dramaturgia",
+        "autores",
+        "texto teatral",
+        "premio"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "iberescena-ayudas",
+      "titulo": "Convocatoria de Ayudas IBERESCENA",
+      "organizacion": "Programa IBERESCENA (SEGIB)",
+      "tipo": "COPRODUCCION",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "TITERES",
+        "PERFORMANCE",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Madrid",
+      "continente": "AMERICA_LATINA",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "GT",
+        "MX",
+        "PA",
+        "PY",
+        "PE",
+        "PT",
+        "DO",
+        "UY"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "PRODUCTOR",
+        "GESTOR",
+        "INSTITUCION",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "CIRCULACION"
+      ],
+      "montoMax": 20000,
+      "moneda": "EUR",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es",
+        "pt"
+      ],
+      "resumen": "Fondo iberoamericano de artes escénicas. Tiene tres líneas: Creación en Residencia (hasta 10.000 EUR), Coproducción de Espectáculos (hasta 15.000 EUR) y Programación de espacios, festivales y mercados (hasta 20.000 EUR). La convocatoria 2026-2027 cerró el 23 de julio de 2026.",
+      "requisitos": [
+        "Personas o entidades con sede en un país miembro.",
+        "Coproducción y residencia: socios de al menos dos países miembros.",
+        "Proyecto a ejecutar en el año siguiente."
+      ],
+      "documentacion": [
+        "Formulario en la plataforma de Iberescena.",
+        "Proyecto artístico y presupuesto.",
+        "Cartas de compromiso de los socios.",
+        "Antecedentes."
+      ],
+      "beneficios": [
+        "Hasta 10.000 EUR (residencia), 15.000 EUR (coproducción) o 20.000 EUR (programación)."
+      ],
+      "apertura": "2027-05-22",
+      "cierre": "2027-07-23",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.iberescena.org",
+      "urlBases": null,
+      "palabrasClave": [
+        "iberoamérica",
+        "coproducción",
+        "residencia",
+        "festivales",
+        "artes escénicas",
+        "circulación"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "ibermedia-ayudas",
+      "titulo": "Convocatorias de Ayudas IBERMEDIA (desarrollo, coproducción y formación)",
+      "organizacion": "Programa IBERMEDIA (SEGIB)",
+      "tipo": "COPRODUCCION",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Madrid",
+      "continente": "AMERICA_LATINA",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "ES",
+        "GT",
+        "IT",
+        "MX",
+        "PA",
+        "PY",
+        "PE",
+        "PT",
+        "PR",
+        "DO",
+        "UY"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es",
+        "pt"
+      ],
+      "resumen": "Fondo iberoamericano de cine. Apoya el desarrollo de proyectos de cine y TV, la coproducción de películas y una línea para documentales. En 2026 la convocatoria abrió el 2 de febrero y cerró el 23 de abril.",
+      "requisitos": [
+        "Productora independiente registrada en un país miembro.",
+        "Coproducción: al menos dos productoras de países miembros.",
+        "Proyecto de largometraje de ficción, documental o animación."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Guion o tratamiento.",
+        "Presupuesto y plan financiero.",
+        "Contrato de coproducción (si aplica)."
+      ],
+      "beneficios": [
+        "Préstamo o ayuda para desarrollo o coproducción, según la línea."
+      ],
+      "apertura": "2027-02-02",
+      "cierre": "2027-04-23",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.programaibermedia.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "coproducción",
+        "desarrollo",
+        "documental",
+        "iberoamérica",
+        "largometraje"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "chile-fondo-artes-escenicas-creacion-produccion",
+      "titulo": "Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas – Creación y/o Producción de Montajes (convocatoria 2027)",
+      "organizacion": "Ministerio de las Culturas, las Artes y el Patrimonio de Chile",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "TITERES",
+        "PERFORMANCE"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Valparaíso",
+      "continente": "AMERICA_LATINA",
+      "lat": -33.0472,
+      "lng": -71.6127,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "CL"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Fondo concursable chileno para crear y producir montajes escénicos. Las bases de la convocatoria 2027 se aprobaron en julio de 2026 junto con las líneas de Circulación Nacional y Programas Formativos. Los recursos dependen de la Ley de Presupuesto 2027.",
+      "requisitos": [
+        "Personas naturales chilenas o extranjeras con residencia, o personas jurídicas chilenas.",
+        "Proyecto escénico según la modalidad elegida."
+      ],
+      "documentacion": [
+        "Formulario en fondosdecultura.cl.",
+        "Proyecto y presupuesto.",
+        "Currículos del equipo.",
+        "Cartas de compromiso."
+      ],
+      "beneficios": [
+        "Financiamiento total o parcial del montaje."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.fondosdecultura.cl",
+      "urlBases": "https://www.fondosdecultura.cl/wp-content/uploads/2026/07/REX2185-CreacionProduccion-aaee2027.pdf",
+      "palabrasClave": [
+        "fondos concursables",
+        "montaje",
+        "artes escénicas",
+        "chile",
+        "producción"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "teatro-a-mil-convocatoria-nacional",
+      "titulo": "Festival Teatro a Mil – Convocatoria nacional",
+      "organizacion": "Fundación Teatro a Mil",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "PERFORMANCE",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Santiago",
+      "continente": "AMERICA_LATINA",
+      "lat": -33.4489,
+      "lng": -70.6693,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "CL"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "COLECTIVO",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "El festival Santiago a Mil elige parte de su programación nacional por convocatoria abierta. Para la edición de enero de 2027 un jurado revisó 150 obras y eligió 15. No hay convocatoria abierta para obras internacionales.",
+      "requisitos": [
+        "Obras de teatro, danza, circo contemporáneo, performance o interdisciplina (no musicales ni conciertos).",
+        "Estrenadas en el período que fijan las bases y en las ciudades indicadas."
+      ],
+      "documentacion": [
+        "Formulario de postulación.",
+        "Registro audiovisual completo.",
+        "Dossier y ficha técnica."
+      ],
+      "beneficios": [
+        "Programación en el festival.",
+        "Visibilidad ante programadores internacionales (Platea)."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://teatroamil.cl",
+      "urlBases": "https://teatroamil.cl/static/2028/docs/BASES-DE-POSTULACION-2028.pdf",
+      "palabrasClave": [
+        "festival",
+        "teatro chileno",
+        "programación",
+        "circulación"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "platea-santiago-a-mil",
+      "titulo": "Platea – Semana de programadores de Santiago a Mil",
+      "organizacion": "Fundación Teatro a Mil",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "PERFORMANCE"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Santiago",
+      "continente": "AMERICA_LATINA",
+      "lat": -33.4489,
+      "lng": -70.6693,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "GESTOR",
+        "INSTITUCION",
+        "COMPANIA"
+      ],
+      "etapas": [
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es",
+        "en"
+      ],
+      "resumen": "Encuentro de programadores internacionales durante el festival Santiago a Mil (enero). Las bases de Platea 27 dan 200 cupos para programadores y 60 para compañías programadas. Hubo preventa con 50% de descuento hasta el 1 de diciembre de 2026.",
+      "requisitos": [
+        "Programadores con experiencia en programación internacional.",
+        "Compañías: tener obra en la programación oficial."
+      ],
+      "documentacion": [
+        "Formulario de acreditación.",
+        "Antecedentes profesionales."
+      ],
+      "beneficios": [
+        "Acceso a funciones y actividades profesionales.",
+        "Encuentros de negocio y networking."
+      ],
+      "apertura": null,
+      "cierre": "2026-12-01",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://teatroamil.cl",
+      "urlBases": "https://teatroamil.cl/static/platea2025/docs/Bases-Platea27.pdf",
+      "palabrasClave": [
+        "mercado",
+        "programadores",
+        "circulación internacional",
+        "gira",
+        "showcase"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "gam-convocatoria-nacional-2027-2028",
+      "titulo": "GAM – Convocatoria Nacional de Programación 2027-2028",
+      "organizacion": "Centro Cultural Gabriela Mistral (GAM)",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "MUSICA",
+        "ARTES_VISUALES",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Santiago",
+      "continente": "AMERICA_LATINA",
+      "lat": -33.4489,
+      "lng": -70.6693,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "CL"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "El GAM invita a artistas, compañías y colectivos chilenos a proponer proyectos para su programación de 2027 y 2028. Incluye teatro, danza, nueva ópera, circo, música, artes visuales y artes mediales. Ver plazos en las bases.",
+      "requisitos": [
+        "Artistas, compañías o colectivos nacionales.",
+        "Proyecto para alguna de las disciplinas de la convocatoria."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Dossier del proyecto.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Programación en salas del GAM durante 2027-2028."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "BIENAL",
+      "url": "https://gam.cl",
+      "urlBases": "https://gam.cl/documents/1545/CONVOCATORIA_NACIONAL_.pdf",
+      "palabrasClave": [
+        "programación",
+        "sala",
+        "temporada",
+        "chile",
+        "artes mediales"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "tnch-concurso-dramaturgia-pedro-de-la-barra",
+      "titulo": "Concurso de Dramaturgia «Pedro de la Barra»",
+      "organizacion": "Teatro Nacional Chileno – Universidad de Chile",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Santiago",
+      "continente": "AMERICA_LATINA",
+      "lat": -33.4489,
+      "lng": -70.6693,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "CL"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso del Teatro Nacional Chileno para textos inéditos de dramaturgos chilenos. La 4ª edición recibió obras hasta el 27 de marzo de 2026.",
+      "requisitos": [
+        "Dramaturgas y dramaturgos chilenos.",
+        "Texto inédito."
+      ],
+      "documentacion": [
+        "Texto de la obra.",
+        "Formulario de inscripción."
+      ],
+      "beneficios": [
+        "Premio y posibilidad de montaje o lectura por el Teatro Nacional Chileno (según bases)."
+      ],
+      "apertura": null,
+      "cierre": "2027-03-27",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://tnch.uchile.cl",
+      "urlBases": null,
+      "palabrasClave": [
+        "dramaturgia",
+        "texto inédito",
+        "chile",
+        "teatro nacional"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "fonca-jovenes-creadores",
+      "titulo": "Jóvenes Creadores – Sistema de Apoyos a la Creación y Proyectos Culturales",
+      "organizacion": "Secretaría de Cultura de México (SACPC, antes FONCA)",
+      "tipo": "BECA",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CINE",
+        "DRAMATURGIA",
+        "ARTES_VISUALES",
+        "MUSICA",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "MX",
+      "paisNombre": "México",
+      "ciudad": "Ciudad de México",
+      "continente": "AMERICA_LATINA",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "MX"
+      ],
+      "edadMin": 18,
+      "edadMax": 34,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": 120000,
+      "moneda": "MXN",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Beca de un año para artistas mexicanos de 18 a 34 años. Paga 12 mensualidades de 10.000 pesos mientras desarrollan un proyecto. En 2026 el registro fue del 4 de marzo al 8-10 de abril, según disciplina.",
+      "requisitos": [
+        "Tener entre 18 y 34 años.",
+        "Nacionalidad mexicana o residencia en México según las bases.",
+        "Cuenta Llave MX."
+      ],
+      "documentacion": [
+        "Registro en Foncaenlinea.",
+        "Proyecto y cronograma.",
+        "Muestras de obra.",
+        "Identificación oficial."
+      ],
+      "beneficios": [
+        "120.000 MXN en 12 pagos mensuales.",
+        "Encuentros de creadores y tutorías."
+      ],
+      "apertura": "2027-03-04",
+      "cierre": "2027-04-08",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://foncaenlinea.cultura.gob.mx",
+      "urlBases": null,
+      "palabrasClave": [
+        "jóvenes creadores",
+        "beca",
+        "méxico",
+        "creación",
+        "emergentes"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "imcine-focine",
+      "titulo": "FOCINE – Fomento al Cine Mexicano",
+      "organizacion": "Instituto Mexicano de Cinematografía (IMCINE)",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "MX",
+      "paisNombre": "México",
+      "ciudad": "Ciudad de México",
+      "continente": "AMERICA_LATINA",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "MX"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "POSTPRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Programa anual del IMCINE con unas 12 modalidades: largometraje de ficción y documental, animación, cortometraje, cine para las infancias, óperas primas de escuelas, cine experimental y postproducción. En 2026 la convocatoria cerró el 30 de enero.",
+      "requisitos": [
+        "Personas físicas o morales mexicanas.",
+        "Cumplir los requisitos de la modalidad elegida."
+      ],
+      "documentacion": [
+        "Registro en la plataforma FOCINE.",
+        "Carpeta del proyecto.",
+        "Presupuesto y ruta crítica.",
+        "Derechos de autor."
+      ],
+      "beneficios": [
+        "Apoyo económico para la etapa del proyecto."
+      ],
+      "apertura": null,
+      "cierre": "2027-01-30",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://focine.imcine.gob.mx",
+      "urlBases": "https://focine.imcine.gob.mx/focine/postproduccion/anexos/2026/ANEXO_2_Bases_Postproduccion_2026.pdf",
+      "palabrasClave": [
+        "cine mexicano",
+        "ópera prima",
+        "documental",
+        "animación",
+        "postproducción"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "colombia-programa-nacional-estimulos",
+      "titulo": "Programa Nacional de Estímulos",
+      "organizacion": "Ministerio de las Culturas, las Artes y los Saberes de Colombia",
+      "tipo": "BECA",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "CINE",
+        "DRAMATURGIA",
+        "MUSICA",
+        "ARTES_VISUALES",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "CO",
+      "paisNombre": "Colombia",
+      "ciudad": "Bogotá",
+      "continente": "AMERICA_LATINA",
+      "lat": 4.711,
+      "lng": -74.0721,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "CO"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO",
+        "COMPANIA",
+        "GESTOR",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO",
+        "PRODUCCION",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Programa anual de becas, premios, residencias y pasantías para artistas colombianos. Ojo: en septiembre de 2026 el Ministerio suspendió los premios nacionales del año por falta de presupuesto. Las becas ya adjudicadas siguieron. La convocatoria 2027 depende del presupuesto.",
+      "requisitos": [
+        "Personas naturales, grupos o entidades colombianas o residentes en Colombia.",
+        "Requisitos según cada convocatoria."
+      ],
+      "documentacion": [
+        "Formulario en la plataforma de estímulos.",
+        "Propuesta y presupuesto.",
+        "Documento de identidad y RUT."
+      ],
+      "beneficios": [
+        "Becas, premios, residencias y pasantías con estímulo económico."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.mincultura.gov.co",
+      "urlBases": null,
+      "palabrasClave": [
+        "estímulos",
+        "becas",
+        "colombia",
+        "residencias",
+        "premios"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "uruguay-fondo-concursable-cultura",
+      "titulo": "Fondo Concursable para la Cultura",
+      "organizacion": "Ministerio de Educación y Cultura de Uruguay – Dirección Nacional de Cultura",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "CINE",
+        "MUSICA",
+        "ARTES_VISUALES"
+      ],
+      "pais": "UY",
+      "paisNombre": "Uruguay",
+      "ciudad": "Montevideo",
+      "continente": "AMERICA_LATINA",
+      "lat": -34.9011,
+      "lng": -56.1645,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "UY"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO",
+        "COMPANIA",
+        "GESTOR",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "CIRCULACION"
+      ],
+      "montoMax": 400000,
+      "moneda": "UYU",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Fondo anual del MEC para proyectos artísticos de todo Uruguay. En 2025 dio hasta 400.000 pesos uruguayos (perfil profesional) y 200.000 (emergente). Las bases 2026 suman acciones afirmativas y se postula en culturaenlinea.uy.",
+      "requisitos": [
+        "Personas o colectivos con residencia en Uruguay.",
+        "Elegir perfil profesional o emergente."
+      ],
+      "documentacion": [
+        "Formulario en culturaenlinea.uy.",
+        "Proyecto y presupuesto.",
+        "Antecedentes."
+      ],
+      "beneficios": [
+        "Hasta 400.000 UYU (perfil profesional, edición 2025)."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.gub.uy/ministerio-educacion-cultura",
+      "urlBases": "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/documentos/noticias/Anexo%20Bases%202026.pdf",
+      "palabrasClave": [
+        "fondos concursables",
+        "uruguay",
+        "emergentes",
+        "proyecto cultural"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "funarte-aberta-ocupacao",
+      "titulo": "Programa Funarte Aberta – Ocupação dos espaços culturais",
+      "organizacion": "Fundação Nacional de Artes (Funarte)",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "MUSICA",
+        "ARTES_VISUALES"
+      ],
+      "pais": "BR",
+      "paisNombre": "Brasil",
+      "ciudad": "Río de Janeiro",
+      "continente": "AMERICA_LATINA",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "BR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "pt"
+      ],
+      "resumen": "Programa de la Funarte para ocupar sus teatros y espacios en Río de Janeiro, São Paulo y Minas Gerais con temporadas, ensayos y actividades. En 2026 funciona con inscripción permanente (flujo continuo).",
+      "requisitos": [
+        "Artistas, grupos o productoras con domicilio en Brasil.",
+        "Propuesta acorde al espacio solicitado."
+      ],
+      "documentacion": [
+        "Formulario de inscripción.",
+        "Proyecto artístico.",
+        "Ficha técnica y portfolio."
+      ],
+      "beneficios": [
+        "Cesión de uso del espacio de la Funarte."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": false,
+      "periodicidad": "PERMANENTE",
+      "url": "https://www.gov.br/funarte/pt-br/editais-1/2026/programa-funarte-aberta",
+      "urlBases": "https://www.gov.br/funarte/pt-br/editais-1/2026/programa-funarte-aberta/programa-funarte-aberta-2026-2013-ocupacao-dos-espacos-culturais-da-funarte-centro-de-teatro/regulamento-funarte-aberta-ceteatro-1.pdf",
+      "palabrasClave": [
+        "ocupação",
+        "teatro",
+        "espacio de ensayo",
+        "temporada",
+        "brasil"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "peru-estimulos-economicos-artes",
+      "titulo": "Estímulos Económicos para las Artes Escénicas, Visuales y Música",
+      "organizacion": "Ministerio de Cultura del Perú",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "TITERES",
+        "MUSICA",
+        "ARTES_VISUALES"
+      ],
+      "pais": "PE",
+      "paisNombre": "Perú",
+      "ciudad": "Lima",
+      "continente": "AMERICA_LATINA",
+      "lat": -12.0464,
+      "lng": -77.0428,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "PE"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO",
+        "COMPANIA",
+        "GESTOR",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concursos anuales del Ministerio de Cultura (Ley 29565). El plan 2026 tiene hasta 5.150.000 soles para artes escénicas, visuales y música. En 2025 los concursos se abrieron entre junio y octubre.",
+      "requisitos": [
+        "Personas naturales o jurídicas peruanas o con residencia en Perú.",
+        "Requisitos según cada línea de concurso."
+      ],
+      "documentacion": [
+        "Formulario en la plataforma de estímulos.",
+        "Proyecto y presupuesto.",
+        "Documentos de identidad y RUC."
+      ],
+      "beneficios": [
+        "Estímulo económico no reembolsable."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.gob.pe/cultura",
+      "urlBases": null,
+      "palabrasClave": [
+        "estímulos económicos",
+        "perú",
+        "artes escénicas",
+        "concurso"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "costa-rica-concurso-dramaturgia-inedita",
+      "titulo": "Concurso Nacional de Dramaturgia Inédita para teatro de cámara",
+      "organizacion": "Teatro Nacional de Costa Rica",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "CR",
+      "paisNombre": "Costa Rica",
+      "ciudad": "San José",
+      "continente": "AMERICA_LATINA",
+      "lat": 9.9281,
+      "lng": -84.0907,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "CR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso anual del Teatro Nacional de Costa Rica para textos inéditos de autoría costarricense. La edición XXI (2026) recibió obras del 3 de julio al 14 de agosto.",
+      "requisitos": [
+        "Autoría costarricense (o residencia según bases).",
+        "Texto inédito para teatro de cámara."
+      ],
+      "documentacion": [
+        "Texto de la obra.",
+        "Formulario y datos personales."
+      ],
+      "beneficios": [
+        "Premio y visibilidad de la obra (según bases)."
+      ],
+      "apertura": "2027-07-03",
+      "cierre": "2027-08-14",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.teatronacional.go.cr",
+      "urlBases": "https://www.teatronacional.go.cr/repositorio/detail/29-8865_basesconvotaroria_concursonacionaldramaturgiainedita_2025.pdf",
+      "palabrasClave": [
+        "dramaturgia",
+        "costa rica",
+        "texto inédito",
+        "teatro de cámara"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "casa-de-las-americas-premio-teatro",
+      "titulo": "Premio Literario Casa de las Américas – Teatro",
+      "organizacion": "Casa de las Américas",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "CU",
+      "paisNombre": "Cuba",
+      "ciudad": "La Habana",
+      "continente": "AMERICA_LATINA",
+      "lat": 23.1136,
+      "lng": -82.3666,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "DO",
+        "EC",
+        "SV",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "UY",
+        "VE"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es",
+        "pt"
+      ],
+      "resumen": "Uno de los premios literarios más antiguos de la región. Los géneros rotan cada año: teatro estuvo en 2024 y 2026 (cierre 31 de enero). Si sigue la alternancia, teatro vuelve en 2028.",
+      "requisitos": [
+        "Autoras y autores latinoamericanos, nativos o naturalizados.",
+        "Obra inédita."
+      ],
+      "documentacion": [
+        "Texto de la obra.",
+        "Datos del autor."
+      ],
+      "beneficios": [
+        "Premio en metálico y publicación por la editorial Casa de las Américas."
+      ],
+      "apertura": null,
+      "cierre": "2028-01-31",
+      "fechasEstimadas": true,
+      "periodicidad": "BIENAL",
+      "url": "https://casadelasamericas.org",
+      "urlBases": null,
+      "palabrasClave": [
+        "dramaturgia",
+        "premio literario",
+        "latinoamérica",
+        "obra inédita",
+        "publicación"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "micsur-mercado-industrias-culturales-sur",
+      "titulo": "MICSUR – Mercado de Industrias Culturales del Sur",
+      "organizacion": "Ministerios de cultura de Sudamérica (edición 2026: Paraguay)",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CINE",
+        "MUSICA",
+        "ARTES_DIGITALES",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "PY",
+      "paisNombre": "Paraguay",
+      "ciudad": "Asunción",
+      "continente": "AMERICA_LATINA",
+      "lat": -25.2637,
+      "lng": -57.5759,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "EC",
+        "PY",
+        "PE",
+        "UY",
+        "VE"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "GESTOR",
+        "COMPANIA",
+        "COLECTIVO",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es",
+        "pt"
+      ],
+      "resumen": "Mercado regional de industrias culturales que se hace cada dos años. La edición 2026 es en Asunción del 19 al 22 de noviembre. Cada país arma su delegación con su propia convocatoria (por ejemplo, la ventanilla abierta de Uruguay).",
+      "requisitos": [
+        "Profesionales, empresas o colectivos de los países participantes.",
+        "Postular por la convocatoria de delegación de tu país."
+      ],
+      "documentacion": [
+        "Formulario de la convocatoria nacional.",
+        "Portfolio o catálogo.",
+        "Plan de internacionalización."
+      ],
+      "beneficios": [
+        "Ruedas de negocio, showcases y networking.",
+        "Apoyo para viajar según cada país."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "BIENAL",
+      "url": "https://www.gub.uy/ministerio-educacion-cultura/comunicacion/noticias/uruguay-prepara-su-participacion-micsur-2026",
+      "urlBases": null,
+      "palabrasClave": [
+        "mercado",
+        "industrias culturales",
+        "rondas de negocio",
+        "sudamérica",
+        "showcase"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "inaem-ayudas-teatro-circo",
+      "titulo": "Ayudas a la actividad teatral y circense del INAEM",
+      "organizacion": "Instituto Nacional de las Artes Escénicas y de la Música (INAEM)",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "TEATRO",
+        "CIRCO",
+        "TITERES",
+        "DRAMATURGIA"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Madrid",
+      "continente": "EUROPA",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "ES"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "PRODUCTOR",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "PRODUCCION",
+        "CIRCULACION"
+      ],
+      "montoMax": 250000,
+      "moneda": "EUR",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Ayudas estatales de España para giras, circuitos, festivales, programación e infraestructuras de teatro y circo. Se convocan cada año en el BOE y el plazo es de 15 días hábiles. En 2025 la convocatoria salió el 26 de febrero.",
+      "requisitos": [
+        "Personas físicas o jurídicas con domicilio fiscal en España.",
+        "Actividad profesional de teatro o circo.",
+        "Cumplir con obligaciones tributarias y de Seguridad Social."
+      ],
+      "documentacion": [
+        "Solicitud electrónica en la sede del Ministerio de Cultura.",
+        "Memoria de actividades.",
+        "Presupuesto.",
+        "Certificados de estar al corriente."
+      ],
+      "beneficios": [
+        "Ayuda económica según modalidad (en 2025, hasta 250.000 EUR en algunas modalidades)."
+      ],
+      "apertura": "2027-02-26",
+      "cierre": "2027-03-19",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.cultura.gob.es",
+      "urlBases": null,
+      "palabrasClave": [
+        "giras",
+        "circo",
+        "festivales",
+        "ayudas estatales",
+        "españa"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "premio-lope-de-vega-teatro",
+      "titulo": "Premio de Teatro Lope de Vega",
+      "organizacion": "Ayuntamiento de Madrid",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Madrid",
+      "continente": "EUROPA",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": 18,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": 12000,
+      "moneda": "EUR",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "El certamen teatral más antiguo de España. Premia un texto dramático original e inédito en castellano, de tema libre, con 12.000 euros. La edición 2026 se publicó en el BOCM el 18 de mayo; la de 2025 cerró el 26 de mayo.",
+      "requisitos": [
+        "Ser mayor de edad, de cualquier nacionalidad.",
+        "Una sola obra por persona.",
+        "Obra original, inédita, en castellano, no premiada ni estrenada comercialmente."
+      ],
+      "documentacion": [
+        "Texto de la obra.",
+        "Solicitud según las bases del BOCM."
+      ],
+      "beneficios": [
+        "12.000 EUR (sujeto a retención de IRPF)."
+      ],
+      "apertura": "2027-05-18",
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://diario.madrid.es/blog/notas-de-prensa/el-premio-lope-de-vega-abre-una-nueva-convocatoria-para-impulsar-la-dramaturgia-contemporanea/",
+      "urlBases": "https://bocm.es/boletin/CM_Orden_BOCM/2026/05/18/BOCM-20260518-87.PDF",
+      "palabrasClave": [
+        "dramaturgia",
+        "premio",
+        "texto inédito",
+        "castellano"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "premio-calderon-de-la-barca",
+      "titulo": "Premio de Teatro para Autores Noveles «Calderón de la Barca»",
+      "organizacion": "Ministerio de Cultura de España – Dirección General de Artes Escénicas y Música",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Madrid",
+      "continente": "EUROPA",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "ES"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Premio estatal para autoras y autores teatrales que empiezan. La convocatoria 2026 salió en el BOE el 11 de junio con 15 días hábiles de plazo (hasta inicios de julio).",
+      "requisitos": [
+        "Ser autor novel: no haber estrenado públicamente más de una obra en circuitos con taquilla.",
+        "Obra original e inédita."
+      ],
+      "documentacion": [
+        "Solicitud electrónica.",
+        "Texto de la obra."
+      ],
+      "beneficios": [
+        "Premio en metálico (monto según la resolución anual)."
+      ],
+      "apertura": "2027-06-11",
+      "cierre": "2027-07-02",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.cultura.gob.es",
+      "urlBases": null,
+      "palabrasClave": [
+        "autores noveles",
+        "dramaturgia",
+        "premio",
+        "españa"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "premio-sgae-teatro-jardiel-poncela",
+      "titulo": "Premio SGAE de Teatro Jardiel Poncela",
+      "organizacion": "Fundación SGAE",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Madrid",
+      "continente": "EUROPA",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Premio de la Fundación SGAE para textos teatrales inéditos. La edición 2025 recibió obras del 4 de marzo al 4 de abril. La Fundación también convoca el Premio SGAE de Teatro Infantil (2026: 26 de enero al 16 de marzo).",
+      "requisitos": [
+        "Obra original e inédita en castellano.",
+        "No estrenada ni premiada."
+      ],
+      "documentacion": [
+        "Texto de la obra.",
+        "Formulario en la web de la Fundación SGAE."
+      ],
+      "beneficios": [
+        "Premio en metálico y difusión del texto (según bases)."
+      ],
+      "apertura": "2027-03-04",
+      "cierre": "2027-04-04",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.fundacionsgae.org",
+      "urlBases": null,
+      "palabrasClave": [
+        "dramaturgia",
+        "premio",
+        "SGAE",
+        "texto inédito"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "premios-max-inscripcion",
+      "titulo": "Premios Max de las Artes Escénicas – Inscripción de espectáculos",
+      "organizacion": "Fundación SGAE",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "TITERES",
+        "DRAMATURGIA",
+        "MUSICA"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Madrid",
+      "continente": "EUROPA",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "ES"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Principales premios de las artes escénicas en España. Las compañías profesionales inscriben espectáculos estrenados o en gira durante el año. La 30ª edición tendrá su gala el 3 de mayo de 2027 en Vigo; la edición anterior cerró la inscripción el 21 de noviembre.",
+      "requisitos": [
+        "Compañía o productora profesional.",
+        "Espectáculo estrenado o en gira en el período que fijan las bases."
+      ],
+      "documentacion": [
+        "Formulario en premiosmax.com.",
+        "Ficha artística y técnica.",
+        "Registro audiovisual."
+      ],
+      "beneficios": [
+        "Candidatura a los Premios Max (22 categorías).",
+        "Visibilidad ante programadores."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-21",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.premiosmax.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "premios",
+        "artes escénicas",
+        "españa",
+        "danza",
+        "circo"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "fira-tarrega-programa-oficial",
+      "titulo": "FiraTàrrega – Convocatoria del Programa Oficial y apoyo a la creación",
+      "organizacion": "FiraTàrrega – Fira de Teatre al Carrer",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "CIRCO",
+        "DANZA",
+        "PERFORMANCE",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Tàrrega",
+      "continente": "EUROPA",
+      "lat": 41.6466,
+      "lng": 1.1398,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "COLECTIVO",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "ca",
+        "es",
+        "en"
+      ],
+      "resumen": "Mercado de artes escénicas de calle y espacio público (2026: 10 al 13 de septiembre). Recibe propuestas para su programa oficial y para programas de apoyo a la creación (Hivernem, Suport a la Creació). La convocatoria para 2025 cerró el 30 de septiembre de 2024.",
+      "requisitos": [
+        "Compañías con espectáculos o proyectos de artes de calle o de sala.",
+        "Cumplir los requisitos de cada línea."
+      ],
+      "documentacion": [
+        "Formulario en firatarrega.com.",
+        "Dossier y vídeo.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Programación en la feria con cachet.",
+        "Residencias y coproducción en programas de apoyo.",
+        "Contacto con programadores."
+      ],
+      "apertura": null,
+      "cierre": "2027-09-30",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.firatarrega.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "artes de calle",
+        "mercado",
+        "espacio público",
+        "circo",
+        "coproducción",
+        "gira"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "festival-almagro-convocatorias",
+      "titulo": "Festival Internacional de Teatro Clásico de Almagro – Convocatoria Oficial y Almagro Off",
+      "organizacion": "Festival Internacional de Teatro Clásico de Almagro",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DRAMATURGIA"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Almagro",
+      "continente": "EUROPA",
+      "lat": 38.8888,
+      "lng": -3.712,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival de teatro clásico (Siglo de Oro). Convoca propuestas para su programa oficial (para 2026: 20 de octubre de 2025 al 15 de enero de 2026) y el certamen Almagro Off para nuevas miradas de dirección sobre textos clásicos.",
+      "requisitos": [
+        "Espectáculos basados en teatro clásico, sobre todo del Siglo de Oro.",
+        "Almagro Off: directores de cualquier nacionalidad con trayectoria limitada (pocos estrenos profesionales)."
+      ],
+      "documentacion": [
+        "Formulario.",
+        "Dossier y vídeo.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Programación en el festival.",
+        "Premio del certamen Almagro Off (según bases)."
+      ],
+      "apertura": "2026-10-20",
+      "cierre": "2027-01-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.festivaldealmagro.com",
+      "urlBases": "https://www.festivaldealmagro.com/wp-content/uploads/2025/10/Almagro49_Bases-Convocatoria-Oficial.pdf",
+      "palabrasClave": [
+        "teatro clásico",
+        "siglo de oro",
+        "festival",
+        "dirección escénica"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "festival-de-malaga-inscripcion",
+      "titulo": "Festival de Málaga – Inscripción de películas (30ª edición)",
+      "organizacion": "Festival de Málaga",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Málaga",
+      "continente": "EUROPA",
+      "lat": 36.7213,
+      "lng": -4.4214,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival de cine en español (30ª edición: 26 de febrero al 7 de marzo de 2027). Inscripción por Festhome. Cierre el 8 de noviembre de 2026 para documentales, cortos y Cinema Cocina; y el 2 de diciembre de 2026 para Sección Oficial, ZonaZine y América, América.",
+      "requisitos": [
+        "Películas en español (o de Iberoamérica según sección).",
+        "Cumplir requisitos de estreno de cada sección.",
+        "Completar el envío en Festhome (no basta con subir la película)."
+      ],
+      "documentacion": [
+        "Inscripción en Festhome.",
+        "Película o enlace de visionado.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición y premios Biznaga."
+      ],
+      "apertura": null,
+      "cierre": "2026-12-02",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://festivaldemalaga.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "cine en español",
+        "festival",
+        "documental",
+        "cortometraje",
+        "iberoamérica"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "ikusmira-berriak",
+      "titulo": "Ikusmira Berriak – Residencias de desarrollo de proyectos",
+      "organizacion": "Festival de San Sebastián, Tabakalera y Elías Querejeta Zine Eskola",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "San Sebastián",
+      "continente": "EUROPA",
+      "lat": 43.3183,
+      "lng": -1.9812,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es",
+        "en",
+        "eu"
+      ],
+      "resumen": "Programa de residencias para desarrollar proyectos de cine innovadores. Tiene una estadía de seis semanas en marzo-abril en Tabakalera y una vuelta durante el Festival de San Sebastián en septiembre. La 13ª convocatoria estuvo abierta del 1 de julio al 1 de septiembre de 2026.",
+      "requisitos": [
+        "Cineastas del País Vasco, España o de otros países.",
+        "Proyecto audiovisual en fase de desarrollo."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Dossier del proyecto.",
+        "Trabajos previos."
+      ],
+      "beneficios": [
+        "Residencia en Tabakalera con alojamiento.",
+        "Tutorías.",
+        "Presentación ante la industria en el Festival de San Sebastián."
+      ],
+      "apertura": "2027-07-01",
+      "cierre": "2027-09-01",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://ikusmiraberriak.eu/en/convocatoria",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia",
+        "desarrollo",
+        "cine de autor",
+        "san sebastián"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "sitges-festival-inscripcion",
+      "titulo": "Sitges – Festival Internacional de Cine Fantástico de Cataluña – Inscripción",
+      "organizacion": "Fundació Sitges Festival Internacional de Cinema Fantàstic de Catalunya",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Sitges",
+      "continente": "EUROPA",
+      "lat": 41.2372,
+      "lng": 1.8059,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": "EUR",
+      "costoInscripcion": 80,
+      "idiomas": [
+        "es",
+        "ca",
+        "en"
+      ],
+      "resumen": "Festival líder en cine fantástico y de género. En 2026 la inscripción fue del 23 de febrero al 16 de julio, con tarifa anticipada. No acepta obras hechas totalmente o en lo esencial con IA en las secciones a competición.",
+      "requisitos": [
+        "Películas de género fantástico, terror o afines.",
+        "Inscripción solo por FilmFreeway o Festhome."
+      ],
+      "documentacion": [
+        "Inscripción en plataforma.",
+        "Película para visionado.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición y premios del festival."
+      ],
+      "apertura": "2027-02-23",
+      "cierre": "2027-07-16",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://sitgesfilmfestival.com/en/film-submission/faqs",
+      "urlBases": "https://sitgesfilmfestival.com/sites/default/files/2026-02/SIFFFC%202026_Rules_ENG.pdf",
+      "palabrasClave": [
+        "cine fantástico",
+        "terror",
+        "género",
+        "festival"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "culture-moves-europe-movilidad-individual",
+      "titulo": "Culture Moves Europe – Movilidad individual",
+      "organizacion": "Comisión Europea (Europa Creativa) y Goethe-Institut",
+      "tipo": "BECA",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "MUSICA",
+        "ARTES_VISUALES",
+        "PERFORMANCE",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "BE",
+      "paisNombre": "Bélgica",
+      "ciudad": "Bruselas",
+      "continente": "EUROPA",
+      "lat": 50.8503,
+      "lng": 4.3517,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AT",
+        "BE",
+        "BG",
+        "HR",
+        "CY",
+        "CZ",
+        "DK",
+        "EE",
+        "FI",
+        "FR",
+        "DE",
+        "GR",
+        "HU",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MT",
+        "NL",
+        "PL",
+        "PT",
+        "RO",
+        "SK",
+        "SI",
+        "ES",
+        "SE",
+        "IS",
+        "LI",
+        "NO",
+        "AL",
+        "BA",
+        "GE",
+        "ME",
+        "MK",
+        "RS",
+        "TN",
+        "UA",
+        "AM",
+        "MD"
+      ],
+      "edadMin": 18,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "fr",
+        "de"
+      ],
+      "resumen": "Beca de movilidad de la UE para artistas que viven en países de Europa Creativa. Cubre viajes de 7 a 60 días (individual) o de 7 a 21 días (grupos de hasta cinco). Evalúa al final de cada mes; la nueva convocatoria abre en otoño de 2026 y, según una fuente, dura hasta el 30 de abril de 2027.",
+      "requisitos": [
+        "Ser mayor de 18 años y residir legalmente en un país de Europa Creativa.",
+        "Trabajar en artes escénicas, música, artes visuales, literatura, patrimonio, arquitectura o diseño.",
+        "Tener un anfitrión en otro país participante."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Descripción del proyecto.",
+        "Carta del anfitrión."
+      ],
+      "beneficios": [
+        "Asignación por viaje y viáticos diarios.",
+        "Apoyos extra para accesibilidad, visado o cuidado de hijos."
+      ],
+      "apertura": "2026-10-01",
+      "cierre": "2027-04-30",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.goethe.de/ins/be/en/kul/eur/cme.html",
+      "urlBases": null,
+      "palabrasClave": [
+        "movilidad",
+        "residencia",
+        "europa",
+        "viaje",
+        "colaboración internacional"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "creative-europe-media-european-slate-development",
+      "titulo": "Europa Creativa MEDIA – European Slate Development",
+      "organizacion": "Comisión Europea – EACEA",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "BE",
+      "paisNombre": "Bélgica",
+      "ciudad": "Bruselas",
+      "continente": "EUROPA",
+      "lat": 50.8503,
+      "lng": 4.3517,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AT",
+        "BE",
+        "BG",
+        "HR",
+        "CY",
+        "CZ",
+        "DK",
+        "EE",
+        "FI",
+        "FR",
+        "DE",
+        "GR",
+        "HU",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MT",
+        "NL",
+        "PL",
+        "PT",
+        "RO",
+        "SK",
+        "SI",
+        "ES",
+        "SE",
+        "IS",
+        "LI",
+        "NO",
+        "AL",
+        "BA",
+        "GE",
+        "ME",
+        "MK",
+        "RS",
+        "TN",
+        "UA",
+        "AM",
+        "MD"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it"
+      ],
+      "resumen": "Fondo de la UE para que productoras independientes europeas desarrollen una cartera de 3 a 5 obras audiovisuales y, opcionalmente, un corto de talento emergente. Convocatoria CREA-MEDIA-2027-DEVSLATE: abre el 30 de septiembre y cierra el 1 de diciembre de 2026 (presupuesto total 22,4 millones de euros).",
+      "requisitos": [
+        "Productora audiovisual independiente con sede en un país de Europa Creativa MEDIA.",
+        "Experiencia previa demostrable (obra distribuida internacionalmente)."
+      ],
+      "documentacion": [
+        "Solicitud en el portal Funding & Tenders.",
+        "Descripción de la cartera de proyectos.",
+        "Presupuesto (lump sum).",
+        "Documentos legales de la empresa."
+      ],
+      "beneficios": [
+        "Subvención a tanto alzado para desarrollo de la cartera."
+      ],
+      "apertura": "2026-09-30",
+      "cierre": "2026-12-01",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal",
+      "urlBases": null,
+      "palabrasClave": [
+        "slate",
+        "desarrollo",
+        "productoras",
+        "europa creativa",
+        "media"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "creative-europe-media-co-development",
+      "titulo": "Europa Creativa MEDIA – European Co-development",
+      "organizacion": "Comisión Europea – EACEA",
+      "tipo": "COPRODUCCION",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "BE",
+      "paisNombre": "Bélgica",
+      "ciudad": "Bruselas",
+      "continente": "EUROPA",
+      "lat": 50.8503,
+      "lng": 4.3517,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AT",
+        "BE",
+        "BG",
+        "HR",
+        "CY",
+        "CZ",
+        "DK",
+        "EE",
+        "FI",
+        "FR",
+        "DE",
+        "GR",
+        "HU",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MT",
+        "NL",
+        "PL",
+        "PT",
+        "RO",
+        "SK",
+        "SI",
+        "ES",
+        "SE",
+        "IS",
+        "LI",
+        "NO",
+        "AL",
+        "BA",
+        "GE",
+        "ME",
+        "MK",
+        "RS",
+        "TN",
+        "UA",
+        "AM",
+        "MD"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it"
+      ],
+      "resumen": "Línea MEDIA para que dos o más productoras de distintos países europeos desarrollen juntas una obra para el mercado internacional. La convocatoria 2027 cierra el 2 de marzo de 2027, con 12,5 millones de euros en total.",
+      "requisitos": [
+        "Al menos dos productoras independientes de países MEDIA distintos.",
+        "Proyecto de ficción, animación o documental de creación."
+      ],
+      "documentacion": [
+        "Solicitud en el portal Funding & Tenders.",
+        "Acuerdo de codesarrollo.",
+        "Presupuesto."
+      ],
+      "beneficios": [
+        "Subvención a tanto alzado para el codesarrollo."
+      ],
+      "apertura": null,
+      "cierre": "2027-03-02",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal",
+      "urlBases": null,
+      "palabrasClave": [
+        "codesarrollo",
+        "coproducción",
+        "europa creativa",
+        "media"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "berlinale-talents",
+      "titulo": "Berlinale Talents",
+      "organizacion": "Internationale Filmfestspiele Berlin",
+      "tipo": "LABORATORIO",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "DE",
+      "paisNombre": "Alemania",
+      "ciudad": "Berlín",
+      "continente": "EUROPA",
+      "lat": 52.52,
+      "lng": 13.405,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": "EUR",
+      "costoInscripcion": 15,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Encuentro de 200 cineastas emergentes durante la Berlinale (12 al 17 de febrero de 2027). La convocatoria para 2027 cerró el 2 de septiembre de 2026, con un arancel de 15 euros. Se exige trayectoria: por ejemplo, un largo, dos cortos o una serie con circulación en festivales.",
+      "requisitos": [
+        "Profesionales de cine con trabajos previos exhibidos en festivales o plataformas.",
+        "Requisitos según el oficio (dirección, producción, guion, actuación, etc.)."
+      ],
+      "documentacion": [
+        "Formulario en línea en inglés.",
+        "CV y filmografía.",
+        "Enlaces a trabajos previos.",
+        "Carta de motivación."
+      ],
+      "beneficios": [
+        "Participación en talleres, charlas y encuentros de la Berlinale.",
+        "Sin costo de participación si te seleccionan."
+      ],
+      "apertura": "2027-07-01",
+      "cierre": "2027-09-02",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.berlinale-talents.de",
+      "urlBases": null,
+      "palabrasClave": [
+        "talentos emergentes",
+        "networking",
+        "berlinale",
+        "laboratorio"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "cannes-la-residence",
+      "titulo": "La Résidence del Festival de Cannes",
+      "organizacion": "Festival de Cannes – Cinéma de Demain",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "París",
+      "continente": "EUROPA",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": 34,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "fr"
+      ],
+      "resumen": "Residencia de escritura de cuatro meses y medio en París para seis cineastas por sesión que preparan su primer o segundo largo. La sesión de marzo a julio de 2027 cerró el 30 de septiembre de 2026.",
+      "requisitos": [
+        "Menos de 35 años al inicio de la sesión.",
+        "No ser residente ni ciudadano de Francia.",
+        "Corto o primer largo seleccionado antes en un festival de categoría A."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Guion o tratamiento del proyecto.",
+        "Filmografía y enlaces."
+      ],
+      "beneficios": [
+        "Alojamiento en París y beca mensual.",
+        "Acompañamiento de guion y encuentros con profesionales."
+      ],
+      "apertura": null,
+      "cierre": "2027-09-30",
+      "fechasEstimadas": true,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://cinemadedemain.festival-cannes.com/en/take-part/register-to-the-residence/",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia de escritura",
+        "guion",
+        "primer largometraje",
+        "cannes"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "biennale-college-cinema",
+      "titulo": "Biennale College Cinema (convocatoria internacional)",
+      "organizacion": "La Biennale di Venezia",
+      "tipo": "LABORATORIO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Venecia",
+      "continente": "EUROPA",
+      "lat": 45.4408,
+      "lng": 12.3155,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Laboratorio para equipos de dirección y producción con su primer o segundo largo de muy bajo presupuesto. Algunos proyectos reciben financiación para producirse y estrenarse en la Mostra de Venecia. La convocatoria 2026-2027 cerró el 6 de julio de 2026.",
+      "requisitos": [
+        "Equipo de director/a y productor/a.",
+        "Primer o segundo largometraje.",
+        "Proyecto de micro presupuesto."
+      ],
+      "documentacion": [
+        "Formulario en línea en inglés.",
+        "Tratamiento o guion.",
+        "Presupuesto y plan de producción.",
+        "Trabajos previos."
+      ],
+      "beneficios": [
+        "Taller de desarrollo en Venecia.",
+        "Beca de producción para los proyectos elegidos.",
+        "Estreno en la Mostra."
+      ],
+      "apertura": "2027-05-12",
+      "cierre": "2027-07-06",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.labiennale.org/en/biennale-college",
+      "urlBases": null,
+      "palabrasClave": [
+        "micro presupuesto",
+        "ópera prima",
+        "laboratorio",
+        "venecia"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "biennale-college-cinema-immersive",
+      "titulo": "Biennale College Cinema – Immersive",
+      "organizacion": "La Biennale di Venezia",
+      "tipo": "LABORATORIO",
+      "disciplinas": [
+        "INMERSIVO",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Venecia",
+      "continente": "EUROPA",
+      "lat": 45.4408,
+      "lng": 12.3155,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Laboratorio para 12 conceptos inmersivos (VR, AR, XR) de todo el mundo. Hasta 3 se financian para presentarse en Venice Immersive. La convocatoria BCC 11 corrió del 12 de mayo al 6 de julio de 2026.",
+      "requisitos": [
+        "Equipos de creador/a y productor/a.",
+        "Proyecto inmersivo en etapa de concepto o desarrollo."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Descripción del concepto.",
+        "Presupuesto preliminar.",
+        "Portfolio."
+      ],
+      "beneficios": [
+        "Taller de desarrollo.",
+        "Financiación de producción para hasta 3 proyectos.",
+        "Exhibición en Venice Immersive."
+      ],
+      "apertura": "2027-05-12",
+      "cierre": "2027-07-06",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.labiennale.org/en/cinema/2026/bcc-11-immersive-call",
+      "urlBases": null,
+      "palabrasClave": [
+        "xr",
+        "realidad virtual",
+        "inmersivo",
+        "laboratorio",
+        "venecia"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "venice-immersive-inscripcion",
+      "titulo": "Venice Immersive – Inscripción de obras",
+      "organizacion": "La Biennale di Venezia – Mostra Internazionale d'Arte Cinematografica",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "INMERSIVO",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Venecia",
+      "continente": "EUROPA",
+      "lat": 45.4408,
+      "lng": 12.3155,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en",
+        "it"
+      ],
+      "resumen": "Sección competitiva de obras inmersivas (VR, AR, instalaciones XR, mundos virtuales) de la Mostra de Venecia. En 2026 el plazo fue el 29 de abril, con plazo tardío el 7 de mayo.",
+      "requisitos": [
+        "Obra inmersiva terminada o en etapa final.",
+        "Requisitos de estreno según el reglamento."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Acceso a la obra o tráiler.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición en la isla del Lazzaretto Vecchio.",
+        "Premios de la competencia."
+      ],
+      "apertura": null,
+      "cierre": "2027-04-29",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.labiennale.org",
+      "urlBases": "https://static.labiennale.org/files/cinema/2026/Documenti/dates-deadlines-2026a.pdf",
+      "palabrasClave": [
+        "xr",
+        "vr",
+        "inmersivo",
+        "festival",
+        "competencia"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "biennale-danza-2027-creaciones-coreograficas",
+      "titulo": "Biennale Danza 2027 – Convocatoria de nuevas creaciones coreográficas",
+      "organizacion": "La Biennale di Venezia",
+      "tipo": "COPRODUCCION",
+      "disciplinas": [
+        "DANZA"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Venecia",
+      "continente": "EUROPA",
+      "lat": 45.4408,
+      "lng": 12.3155,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": 30000,
+      "moneda": "EUR",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "it"
+      ],
+      "resumen": "Convocatoria italiana e internacional para dos obras coreográficas nuevas que se estrenarán en la Biennale Danza 2027. Cada proyecto elegido recibe hasta 30.000 euros. Abierta del 15 de septiembre al 20 de octubre de 2026.",
+      "requisitos": [
+        "Coreógrafas, coreógrafos o compañías de danza.",
+        "Obra sin estreno previo."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Proyecto artístico.",
+        "Presupuesto.",
+        "Videos de trabajos previos."
+      ],
+      "beneficios": [
+        "Hasta 30.000 EUR de producción.",
+        "Estreno en la Biennale Danza 2027."
+      ],
+      "apertura": "2026-09-15",
+      "cierre": "2026-10-20",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://www.labiennale.org/en/news/national-and-international-calls-two-new-choreographic-works-1",
+      "urlBases": null,
+      "palabrasClave": [
+        "coreografía",
+        "estreno",
+        "producción",
+        "venecia",
+        "danza contemporánea"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "biennale-college-teatro-regia-drammaturgia",
+      "titulo": "Biennale College Teatro – Dirección y Dramaturgia Under 30",
+      "organizacion": "La Biennale di Venezia",
+      "tipo": "LABORATORIO",
+      "disciplinas": [
+        "TEATRO",
+        "DRAMATURGIA"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Venecia",
+      "continente": "EUROPA",
+      "lat": 45.4408,
+      "lng": 12.3155,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "IT"
+      ],
+      "edadMin": 18,
+      "edadMax": 30,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "it"
+      ],
+      "resumen": "Convocatorias para directores y dramaturgos italianos menores de 31 años. El proyecto elegido se produce y estrena en la Biennale Teatro. El ciclo 2026-2027 se publicó el 12 de noviembre de 2025 y cerró el 14 de diciembre de 2025. Hay también convocatorias internacionales para actores.",
+      "requisitos": [
+        "Ciudadanía italiana.",
+        "Mayor de edad y menos de 31 años al cierre.",
+        "Obra no estrenada; textos inéditos, clásicos o adaptaciones con derechos."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Proyecto escénico o texto.",
+        "CV."
+      ],
+      "beneficios": [
+        "Producción y estreno en la Biennale Teatro.",
+        "Acompañamiento artístico."
+      ],
+      "apertura": "2026-11-12",
+      "cierre": "2026-12-14",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.labiennale.org/it/news/biennale-college-teatro-i-nuovi-bandi-il-2026-2027",
+      "urlBases": null,
+      "palabrasClave": [
+        "dirección",
+        "dramaturgia",
+        "jóvenes",
+        "venecia",
+        "biennale college"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "biennale-college-danza",
+      "titulo": "Biennale College Danza",
+      "organizacion": "La Biennale di Venezia",
+      "tipo": "LABORATORIO",
+      "disciplinas": [
+        "DANZA"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Venecia",
+      "continente": "EUROPA",
+      "lat": 45.4408,
+      "lng": 12.3155,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": 18,
+      "edadMax": 30,
+      "perfiles": [
+        "ARTISTA",
+        "ESTUDIANTE"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "it"
+      ],
+      "resumen": "Programa de formación intensiva en Venecia para 16 bailarines de 18 a 28 años y 2 coreógrafos menores de 30. La edición 2026 cerró el 26 de enero de 2026.",
+      "requisitos": [
+        "Bailarines de 18 a 28 años o coreógrafos menores de 30.",
+        "Formación y experiencia en danza contemporánea."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Video de audición.",
+        "CV."
+      ],
+      "beneficios": [
+        "Formación en Venecia con alojamiento.",
+        "Presentación en la Biennale Danza."
+      ],
+      "apertura": null,
+      "cierre": "2027-01-26",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.labiennale.org/en/news/biennale-college-danza-new-call-applications-2026",
+      "urlBases": null,
+      "palabrasClave": [
+        "bailarines",
+        "coreógrafos",
+        "formación",
+        "jóvenes",
+        "venecia"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "edinburgh-festival-fringe-registro",
+      "titulo": "Edinburgh Festival Fringe – Registro de espectáculos",
+      "organizacion": "Edinburgh Festival Fringe Society",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "PERFORMANCE",
+        "TITERES",
+        "MUSICA",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "GB",
+      "paisNombre": "Reino Unido",
+      "ciudad": "Edimburgo",
+      "continente": "EUROPA",
+      "lat": 55.9533,
+      "lng": -3.1883,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "El festival de artes más grande del mundo, de acceso abierto: cualquier artista que consiga una sala puede registrar su espectáculo. La edición 2027 (80ª) será del 6 al 30 de agosto. Para 2026 el registro abrió el 12 de enero; aún no hay fechas de registro 2027.",
+      "requisitos": [
+        "Conseguir sala (venue) en Edimburgo.",
+        "Pagar la tasa de registro del Fringe."
+      ],
+      "documentacion": [
+        "Registro en línea.",
+        "Texto y foto para el programa.",
+        "Datos de la sala y funciones."
+      ],
+      "beneficios": [
+        "Inclusión en el programa oficial y venta de entradas.",
+        "Acceso a programadores y prensa (Arts Industry)."
+      ],
+      "apertura": "2027-01-12",
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.edfringe.com/take-part/putting-on-a-show/registration",
+      "urlBases": null,
+      "palabrasClave": [
+        "fringe",
+        "festival abierto",
+        "gira",
+        "escocia",
+        "comedia"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "festival-off-avignon-inscripcion",
+      "titulo": "Festival Off de Aviñón – Inscripción de compañías",
+      "organizacion": "Avignon Festival & Compagnies (AF&C)",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "TITERES",
+        "PERFORMANCE",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "Aviñón",
+      "continente": "EUROPA",
+      "lat": 43.9493,
+      "lng": 4.8055,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "PRODUCTOR",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "fr",
+        "en"
+      ],
+      "resumen": "El Off de Aviñón es de inscripción abierta: las compañías alquilan su sala y se inscriben en el programa. La 60ª edición (2026) fue del 4 al 25 de julio con unos 1.780 espectáculos. Fechas de inscripción 2027 sin publicar.",
+      "requisitos": [
+        "Contrato con una sala (théâtre) del Off.",
+        "Pagar la inscripción al programa."
+      ],
+      "documentacion": [
+        "Inscripción en línea.",
+        "Texto y foto para el catálogo.",
+        "Datos de la sala."
+      ],
+      "beneficios": [
+        "Inclusión en el catálogo del Off.",
+        "Acceso a programadores franceses e internacionales.",
+        "Posible fondo de apoyo del Off."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.festivaloffavignon.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "off",
+        "festival abierto",
+        "gira",
+        "francia",
+        "programadores"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "aerowaves-convocatoria",
+      "titulo": "Aerowaves – Convocatoria para artistas de danza",
+      "organizacion": "Aerowaves",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "DANZA"
+      ],
+      "pais": "IE",
+      "paisNombre": "Irlanda",
+      "ciudad": "Limerick",
+      "continente": "EUROPA",
+      "lat": 52.6638,
+      "lng": -8.6267,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Red europea que elige cada año 20 coreógrafos emergentes con base en Europa para girar por sus festivales asociados. La convocatoria Twenty27 cerró el 15 de julio de 2026; los elegidos se presentan en Spring Forward (Limerick, 14 al 17 de abril de 2027).",
+      "requisitos": [
+        "Coreógrafa/o emergente con base en Europa (amplia, incluye Cáucaso y Mediterráneo).",
+        "Obra de danza ya estrenada."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Video completo de la obra.",
+        "Descripción y ficha técnica."
+      ],
+      "beneficios": [
+        "Presentación en Spring Forward.",
+        "Giras por la red Aerowaves.",
+        "Visibilidad ante programadores europeos."
+      ],
+      "apertura": "2027-06-01",
+      "cierre": "2027-07-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://aerowaves.org",
+      "urlBases": null,
+      "palabrasClave": [
+        "danza emergente",
+        "red europea",
+        "gira",
+        "coreografía"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "hubert-bals-fund-desarrollo",
+      "titulo": "Hubert Bals Fund – Apoyo al desarrollo de guion y proyecto",
+      "organizacion": "International Film Festival Rotterdam (IFFR)",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "NL",
+      "paisNombre": "Países Bajos",
+      "ciudad": "Róterdam",
+      "continente": "EUROPA",
+      "lat": 51.9244,
+      "lng": 4.4777,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": 10000,
+      "moneda": "EUR",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Fondo del Festival de Rotterdam para largos de autor de América Latina, África, Asia, Medio Oriente y Europa del Este. Da hasta 10.000 euros para desarrollar guion o presentar el proyecto. En 2025 el plazo fue el 13 de marzo y el formulario estuvo abierto solo una semana.",
+      "requisitos": [
+        "Cineastas de países elegibles (lista DAC: América Latina, África, Asia, Medio Oriente, Europa del Este).",
+        "Largometraje de ficción o documental creativo (no cortos ni TV)."
+      ],
+      "documentacion": [
+        "Formulario en inglés.",
+        "Guion o tratamiento.",
+        "Nota de dirección.",
+        "Presupuesto de desarrollo."
+      ],
+      "beneficios": [
+        "Hasta 10.000 EUR para desarrollo."
+      ],
+      "apertura": null,
+      "cierre": "2027-03-13",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://iffr.com/en/hbf-practical-info-deadlines",
+      "urlBases": null,
+      "palabrasClave": [
+        "desarrollo de guion",
+        "cine de autor",
+        "sur global",
+        "fondo"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "iffr-cinemart",
+      "titulo": "CineMart – Mercado de coproducción de Rotterdam",
+      "organizacion": "International Film Festival Rotterdam (IFFR)",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "NL",
+      "paisNombre": "Países Bajos",
+      "ciudad": "Róterdam",
+      "continente": "EUROPA",
+      "lat": 51.9244,
+      "lng": 4.4777,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Mercado de coproducción del IFFR (edición 44: 31 de enero al 3 de febrero de 2027). Elige proyectos de largometraje para reuniones con financiadores y coproductores. La convocatoria para 2027 cerró el 1 de septiembre de 2026, con tarifa reducida hasta el 7 de julio.",
+      "requisitos": [
+        "Productor/a y director/a con proyecto de largometraje en desarrollo.",
+        "Parte de la financiación ya conseguida."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Sinopsis y nota de dirección.",
+        "Plan de financiación.",
+        "Filmografías."
+      ],
+      "beneficios": [
+        "Reuniones de coproducción organizadas.",
+        "Acreditación al IFFR Pro.",
+        "Premios de CineMart."
+      ],
+      "apertura": "2027-06-01",
+      "cierre": "2027-09-01",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://iffr.com/en/iffr-pro/cinemart/cinemart-faq",
+      "urlBases": null,
+      "palabrasClave": [
+        "coproducción",
+        "mercado",
+        "financiación",
+        "rotterdam"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "idfa-bertha-fund-classic",
+      "titulo": "IDFA Bertha Fund – IBF Classic",
+      "organizacion": "International Documentary Film Festival Amsterdam (IDFA)",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "NL",
+      "paisNombre": "Países Bajos",
+      "ciudad": "Ámsterdam",
+      "continente": "EUROPA",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "POSTPRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Fondo de IDFA para documentales de creación de América Latina, África, Asia, Medio Oriente y Europa del Este. IBF Classic cierra el 10 de febrero de 2027 (abre a fines de diciembre de 2026). IBF Europe cierra el 15 de enero de 2027.",
+      "requisitos": [
+        "Cineastas de países elegibles del Sur Global y Europa del Este.",
+        "Documental de creación (largometraje)."
+      ],
+      "documentacion": [
+        "Formulario en inglés.",
+        "Tratamiento y nota de dirección.",
+        "Presupuesto y plan de financiación.",
+        "Material visual."
+      ],
+      "beneficios": [
+        "Ayuda para desarrollo, producción o postproducción del documental."
+      ],
+      "apertura": "2026-12-20",
+      "cierre": "2027-02-10",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://professionals.idfa.nl/training-funding/funding/about-the-idfa-bertha-fund/",
+      "urlBases": null,
+      "palabrasClave": [
+        "documental",
+        "sur global",
+        "fondo",
+        "idfa"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "idfa-doclab-inscripcion",
+      "titulo": "IDFA DocLab – Inscripción de obras de nuevos medios",
+      "organizacion": "International Documentary Film Festival Amsterdam (IDFA)",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "INMERSIVO",
+        "ARTES_DIGITALES",
+        "CINE"
+      ],
+      "pais": "NL",
+      "paisNombre": "Países Bajos",
+      "ciudad": "Ámsterdam",
+      "continente": "EUROPA",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Sección de IDFA para documental interactivo, XR, instalaciones, IA y arte digital de no ficción (edición 2026: 12 al 22 de noviembre). En 2026 el plazo temprano fue el 14 de abril y el final el 16 de junio.",
+      "requisitos": [
+        "Obra digital, interactiva o inmersiva con relación a la realidad.",
+        "Requisitos de estreno según el reglamento."
+      ],
+      "documentacion": [
+        "Formulario de inscripción.",
+        "Acceso a la obra o documentación.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición en IDFA DocLab.",
+        "Premios DocLab."
+      ],
+      "apertura": "2027-03-01",
+      "cierre": "2027-06-16",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://professionals.idfa.nl/program/festival-entries/festival-entry-regulations/",
+      "urlBases": null,
+      "palabrasClave": [
+        "documental interactivo",
+        "xr",
+        "nuevos medios",
+        "no ficción",
+        "idfa"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "annecy-festival-inscripcion",
+      "titulo": "Festival Internacional de Cine de Animación de Annecy – Inscripción de películas",
+      "organizacion": "CITIA – Annecy Festival",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "Annecy",
+      "continente": "EUROPA",
+      "lat": 45.8992,
+      "lng": 6.1294,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "ESTUDIANTE"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en",
+        "fr"
+      ],
+      "resumen": "El festival de animación más importante del mundo. La inscripción para 2027 abre en noviembre de 2026. En 2026 los plazos fueron el 15 de febrero (cortos, películas de egreso, TV y encargos) y el 15 de marzo (largos y obras inmersivas). Tiene tasas de inscripción.",
+      "requisitos": [
+        "Obras de animación terminadas en el período que fijan las bases."
+      ],
+      "documentacion": [
+        "Inscripción en línea.",
+        "Enlace de visionado.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición y premios Cristal.",
+        "Acceso al mercado MIFA."
+      ],
+      "apertura": "2026-11-01",
+      "cierre": "2027-03-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.annecyfestival.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "animación",
+        "cortometraje",
+        "largometraje",
+        "inmersivo",
+        "festival"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "mifa-pitches-annecy",
+      "titulo": "MIFA Pitches – Annecy",
+      "organizacion": "CITIA – Annecy Festival / MIFA",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "Annecy",
+      "continente": "EUROPA",
+      "lat": 45.8992,
+      "lng": 6.1294,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en",
+        "fr"
+      ],
+      "resumen": "Sesiones de pitch del mercado de animación MIFA para proyectos de largos, series, especiales y obras inmersivas. En 2026 el plazo fue el 22 de enero y en 2025 el 31 de enero.",
+      "requisitos": [
+        "Proyecto de animación en desarrollo.",
+        "Equipo con productor/a."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Dossier gráfico.",
+        "Presupuesto y plan de financiación."
+      ],
+      "beneficios": [
+        "Pitch ante compradores y financiadores.",
+        "Premios en efectivo o servicios."
+      ],
+      "apertura": "2026-11-01",
+      "cierre": "2027-01-22",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.annecyfestival.com/en/the-mifa/mifa-business/mifa-pitches/mifa-pitches-presentation",
+      "urlBases": null,
+      "palabrasClave": [
+        "pitch",
+        "animación",
+        "mercado",
+        "desarrollo"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "clermont-ferrand-inscripcion",
+      "titulo": "Festival Internacional de Cortometraje de Clermont-Ferrand – Inscripción",
+      "organizacion": "Sauve qui peut le court métrage",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "Clermont-Ferrand",
+      "continente": "EUROPA",
+      "lat": 45.7772,
+      "lng": 3.087,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "ESTUDIANTE"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": "EUR",
+      "costoInscripcion": 13,
+      "idiomas": [
+        "en",
+        "fr"
+      ],
+      "resumen": "El festival de cortometrajes más grande del mundo (49ª edición: 29 de enero al 6 de febrero de 2027). Acepta ficción, animación, documental y experimental de hasta 40 minutos. Para 2027 los plazos fueron el 9 de julio y el 24 de septiembre de 2026.",
+      "requisitos": [
+        "Cortometraje de hasta 40 minutos.",
+        "Producido en el período que fijan las bases."
+      ],
+      "documentacion": [
+        "Inscripción en ShortFilmDepot.",
+        "Copia de visionado.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición y premios (algunos califican al Óscar)."
+      ],
+      "apertura": "2027-04-15",
+      "cierre": "2027-09-24",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.lecourt-clermont.org",
+      "urlBases": "https://www.lecourt-clermont.org/wp-content/uploads/2026/06/EN-Reglement-international-2027.pdf",
+      "palabrasClave": [
+        "cortometraje",
+        "festival",
+        "animación",
+        "documental"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "prix-ars-electronica",
+      "titulo": "Prix Ars Electronica",
+      "organizacion": "Ars Electronica Linz",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "ARTES_DIGITALES",
+        "INMERSIVO",
+        "PERFORMANCE",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "AT",
+      "paisNombre": "Austria",
+      "ciudad": "Linz",
+      "continente": "EUROPA",
+      "lat": 48.3069,
+      "lng": 14.2858,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en",
+        "de"
+      ],
+      "resumen": "Uno de los premios de arte digital y nuevos medios más importantes del mundo. La convocatoria suele abrir en enero y cerrar a inicios de marzo (2026: 4 de marzo). Los ganadores se presentan en el Ars Electronica Festival de septiembre.",
+      "requisitos": [
+        "Obras de arte digital, medios, tecnología o ciencia, según las categorías del año."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Descripción y documentación de la obra.",
+        "Imágenes y video."
+      ],
+      "beneficios": [
+        "Premio Golden Nica con dotación económica.",
+        "Exhibición en el Ars Electronica Festival."
+      ],
+      "apertura": "2027-01-07",
+      "cierre": "2027-03-04",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://ars.electronica.art/prix/",
+      "urlBases": null,
+      "palabrasClave": [
+        "arte digital",
+        "nuevos medios",
+        "arte y tecnología",
+        "ia",
+        "premio"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "akademie-schloss-solitude-becas",
+      "titulo": "Becas Solitude (Solitude Fellowships)",
+      "organizacion": "Akademie Schloss Solitude",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "PERFORMANCE",
+        "ARTES_DIGITALES",
+        "ARTES_VISUALES",
+        "CINE",
+        "MUSICA"
+      ],
+      "pais": "DE",
+      "paisNombre": "Alemania",
+      "ciudad": "Stuttgart",
+      "continente": "EUROPA",
+      "lat": 48.7758,
+      "lng": 9.1829,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "de"
+      ],
+      "resumen": "Residencias con beca en Stuttgart para artistas e investigadores de todas las disciplinas. Las convocatorias son cada dos años; la de 2026-2028 tuvo una primera etapa del 15 de octubre al 14 de noviembre de 2025.",
+      "requisitos": [
+        "Artistas o investigadores de cualquier país.",
+        "Requisitos de trayectoria o edad según la convocatoria."
+      ],
+      "documentacion": [
+        "Primera etapa: formulario breve en línea.",
+        "Segunda etapa: proyecto completo y portfolio."
+      ],
+      "beneficios": [
+        "Estadía con estudio-vivienda en Stuttgart.",
+        "Beca mensual."
+      ],
+      "apertura": "2027-10-15",
+      "cierre": "2027-11-14",
+      "fechasEstimadas": true,
+      "periodicidad": "BIENAL",
+      "url": "https://www.akademie-solitude.de",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia",
+        "beca",
+        "alemania",
+        "interdisciplina",
+        "investigación"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "cite-internationale-des-arts-2-12",
+      "titulo": "Programa de residencias 2—12 de la Cité internationale des arts",
+      "organizacion": "Cité internationale des arts",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "PERFORMANCE",
+        "ARTES_VISUALES",
+        "MUSICA"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "París",
+      "continente": "EUROPA",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "fr",
+        "en"
+      ],
+      "resumen": "Residencias de 2 a 12 meses en París para artistas visuales, de artes vivas, música y escritura. La convocatoria 2026 (residencias de septiembre 2026 a agosto 2027) cerró el 18 de enero de 2026. Los ateliers tienen un costo mensual a cargo del residente.",
+      "requisitos": [
+        "Artistas profesionales de cualquier país.",
+        "Proyecto a desarrollar en París."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Proyecto de residencia.",
+        "Portfolio y CV."
+      ],
+      "beneficios": [
+        "Taller-vivienda en el Marais o Montmartre.",
+        "Acompañamiento y red profesional."
+      ],
+      "apertura": "2026-11-15",
+      "cierre": "2027-01-18",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.citeinternationaledesarts.fr",
+      "urlBases": "https://www.citeinternationaledesarts.fr/app/uploads/2025/11/Appel-a-candidatures-2026_EN-1.pdf",
+      "palabrasClave": [
+        "residencia",
+        "parís",
+        "atelier",
+        "artes vivas"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "pro-helvetia-residencias",
+      "titulo": "Residencias de Pro Helvetia",
+      "organizacion": "Pro Helvetia – Fundación Suiza para la Cultura",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "ARTES_VISUALES",
+        "ARTES_DIGITALES",
+        "MUSICA"
+      ],
+      "pais": "CH",
+      "paisNombre": "Suiza",
+      "ciudad": "Zúrich",
+      "continente": "EUROPA",
+      "lat": 47.3769,
+      "lng": 8.5417,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "GESTOR"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "de",
+        "fr",
+        "es"
+      ],
+      "resumen": "Residencias para artistas de América del Sur, África, Asia y región árabe en Suiza, y para artistas de Suiza en esas regiones. Hay una convocatoria al año, del 1 de enero al 1 de marzo, para residencias del año siguiente.",
+      "requisitos": [
+        "Artistas de las regiones de las oficinas de enlace de Pro Helvetia (incluye América del Sur) o con base en Suiza.",
+        "Proyecto de investigación o creación."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Proyecto de residencia.",
+        "Portfolio."
+      ],
+      "beneficios": [
+        "Viaje, alojamiento y viáticos durante la residencia."
+      ],
+      "apertura": "2027-01-01",
+      "cierre": "2027-03-01",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://prohelvetia.ch/en/residencies/",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia",
+        "suiza",
+        "sur global",
+        "investigación"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "goethe-institut-fondo-coproduccion-internacional",
+      "titulo": "Fondo Internacional de Coproducción del Goethe-Institut (IKF)",
+      "organizacion": "Goethe-Institut",
+      "tipo": "COPRODUCCION",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "MUSICA",
+        "PERFORMANCE",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "DE",
+      "paisNombre": "Alemania",
+      "ciudad": "Múnich",
+      "continente": "EUROPA",
+      "lat": 48.1351,
+      "lng": 11.582,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "de"
+      ],
+      "resumen": "Fondo para coproducciones de teatro, danza, música y performance entre artistas de Alemania y de otros países. La segunda ronda cierra el 12 de octubre de 2026 (23:59 CET) para proyectos de enero a diciembre de 2027.",
+      "requisitos": [
+        "Coproducción entre socios de al menos dos países, con contraparte fuera de Alemania.",
+        "Trabajo colaborativo de creación conjunta."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Descripción del proyecto.",
+        "Presupuesto y plan de financiación.",
+        "Cartas de los socios."
+      ],
+      "beneficios": [
+        "Apoyo económico a la coproducción."
+      ],
+      "apertura": null,
+      "cierre": "2026-10-12",
+      "fechasEstimadas": false,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://www.goethe.de/ikf",
+      "urlBases": null,
+      "palabrasClave": [
+        "coproducción internacional",
+        "alemania",
+        "colaboración",
+        "artes escénicas"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "newimages-festival-competencia-xr",
+      "titulo": "NewImages Festival – Competencia XR",
+      "organizacion": "Forum des images",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "INMERSIVO",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "París",
+      "continente": "EUROPA",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": "EUR",
+      "costoInscripcion": 48,
+      "idiomas": [
+        "en",
+        "fr"
+      ],
+      "resumen": "Festival de creación inmersiva de París (10ª edición: 21 al 25 de abril de 2027, Forum des images). Su competencia XR recibe obras VR, AR y de domo. Para 2025 la convocatoria cerró el 31 de diciembre de 2024 (prorrogada al 15 de enero) con tasa de 48 euros.",
+      "requisitos": [
+        "Obra XR terminada.",
+        "Requisitos de estreno según reglamento."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Acceso a la obra.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Exhibición en París.",
+        "Premios de la competencia XR."
+      ],
+      "apertura": "2026-09-01",
+      "cierre": "2026-12-31",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://newimages-hub.com/en",
+      "urlBases": null,
+      "palabrasClave": [
+        "xr",
+        "vr",
+        "ar",
+        "inmersivo",
+        "festival",
+        "domo"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "tadam-off-charleville-2027",
+      "titulo": "TADAM 2027 – Espacio colectivo OFF del Festival Mundial de Teatros de Marionetas",
+      "organizacion": "Colectivo TADAM (OFF del Festival Mondial des Théâtres de Marionnettes)",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TITERES",
+        "TEATRO"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "Charleville-Mézières",
+      "continente": "EUROPA",
+      "lat": 49.7621,
+      "lng": 4.7263,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "FR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "fr"
+      ],
+      "resumen": "Espacio OFF colectivo durante el Festival Mundial de Marionetas de Charleville-Mézières (24ª edición: 17 al 26 de septiembre de 2027). Es para compañías de la región Hauts-de-France con espectáculos de títeres. Cierra el 31 de octubre de 2026. El festival oficial dejó de tener convocatoria abierta desde 2027.",
+      "requisitos": [
+        "Compañía con sede en la región Hauts-de-France.",
+        "Espectáculo con títeres u objetos."
+      ],
+      "documentacion": [
+        "Formulario de candidatura.",
+        "Dossier y vídeo.",
+        "Ficha técnica."
+      ],
+      "beneficios": [
+        "Funciones en el OFF del festival (13 al 29 de septiembre de 2027)."
+      ],
+      "apertura": null,
+      "cierre": "2026-10-31",
+      "fechasEstimadas": false,
+      "periodicidad": "BIENAL",
+      "url": "https://www.artcena.fr/annonces/appels-a-projets/appel-a-candidature-tadam-2027-espace-collectif-off-sur-le-festival",
+      "urlBases": null,
+      "palabrasClave": [
+        "títeres",
+        "marionetas",
+        "off",
+        "festival mundial"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "bogliasco-fellowships",
+      "titulo": "Becas de la Fundación Bogliasco",
+      "organizacion": "Bogliasco Foundation",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CINE",
+        "DRAMATURGIA",
+        "MUSICA",
+        "ARTES_VISUALES",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Bogliasco",
+      "continente": "EUROPA",
+      "lat": 44.378,
+      "lng": 9.07,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": "USD",
+      "costoInscripcion": 45,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Residencias de unas cinco semanas en la costa de Liguria, Italia, para artistas y humanistas. Plazos: 1 de diciembre de 2026 (otoño 2027) y 11 de marzo de 2027 (primavera 2028). Hay tasa de solicitud.",
+      "requisitos": [
+        "Trayectoria profesional demostrable.",
+        "No estar cursando un programa de grado.",
+        "Hablar inglés a nivel conversacional."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Proyecto.",
+        "Muestras de trabajo.",
+        "Cartas de referencia."
+      ],
+      "beneficios": [
+        "Alojamiento, comidas y estudio sin costo durante la residencia."
+      ],
+      "apertura": null,
+      "cierre": "2026-12-01",
+      "fechasEstimadas": false,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://www.bfny.org",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia",
+        "italia",
+        "escritura",
+        "creación"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "bellagio-center-residencia",
+      "titulo": "Residencia del Centro Bellagio de la Fundación Rockefeller",
+      "organizacion": "The Rockefeller Foundation",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "CINE",
+        "DRAMATURGIA",
+        "MUSICA",
+        "ARTES_VISUALES"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Bellagio",
+      "continente": "EUROPA",
+      "lat": 45.987,
+      "lng": 9.261,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Residencia de 26 días junto al lago de Como para artistas, escritores, académicos y profesionales. La convocatoria para residencias 2027 cerró el 20 de marzo de 2026.",
+      "requisitos": [
+        "Trayectoria destacada en su campo.",
+        "Proyecto con impacto social o artístico."
+      ],
+      "documentacion": [
+        "Cuestionario de preaplicación.",
+        "Proyecto.",
+        "CV y muestras de trabajo."
+      ],
+      "beneficios": [
+        "Alojamiento, comidas y estudio.",
+        "Apoyo para el viaje."
+      ],
+      "apertura": null,
+      "cierre": "2027-03-20",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.rockefellerfoundation.org/bellagio-center/residency-program/",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia",
+        "italia",
+        "rockefeller",
+        "pensamiento"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "sundance-screenwriters-lab",
+      "titulo": "Sundance Institute – Screenwriters Lab (Development Track)",
+      "organizacion": "Sundance Institute",
+      "tipo": "LABORATORIO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "US",
+      "paisNombre": "Estados Unidos",
+      "ciudad": "Los Ángeles",
+      "continente": "AMERICA_NORTE",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Laboratorio de guion para autores de primer o segundo largo de ficción. Para el ciclo 2027 las solicitudes se recibieron del 14 de abril al 12 de mayo de 2026; la selección final se comunica en diciembre.",
+      "requisitos": [
+        "Guionistas o guionistas-directores con su primer o segundo largo de ficción.",
+        "Guion o proyecto en inglés."
+      ],
+      "documentacion": [
+        "Formulario en apply.sundance.org.",
+        "Páginas de guion.",
+        "Sinopsis y declaración del autor."
+      ],
+      "beneficios": [
+        "Laboratorio con asesores.",
+        "Acompañamiento continuo del Sundance Institute."
+      ],
+      "apertura": "2027-04-14",
+      "cierre": "2027-05-12",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://apply.sundance.org/res/p/2027dtfaq",
+      "urlBases": null,
+      "palabrasClave": [
+        "guion",
+        "laboratorio",
+        "ficción",
+        "sundance"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "sxsw-xr-experience",
+      "titulo": "SXSW – XR Experience",
+      "organizacion": "South by Southwest (SXSW)",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "INMERSIVO",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "US",
+      "paisNombre": "Estados Unidos",
+      "ciudad": "Austin",
+      "continente": "AMERICA_NORTE",
+      "lat": 30.2672,
+      "lng": -97.7431,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Exhibición competitiva de obras de realidad virtual, aumentada y mixta en SXSW (15 al 21 de marzo de 2027). Para 2027 la inscripción estuvo abierta de julio al 1 de octubre de 2026; las respuestas llegan el 9 de febrero de 2027.",
+      "requisitos": [
+        "Proyecto VR, AR o MR.",
+        "Enlace de recorrido (playthrough) 360 o 2D disponible hasta marzo."
+      ],
+      "documentacion": [
+        "Formulario de inscripción.",
+        "Video de recorrido.",
+        "Build descargable (opcional)."
+      ],
+      "beneficios": [
+        "Exhibición en SXSW y premios del jurado."
+      ],
+      "apertura": "2027-07-01",
+      "cierre": "2027-10-01",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.sxsw.com/festivals/film/",
+      "urlBases": null,
+      "palabrasClave": [
+        "xr",
+        "vr",
+        "ar",
+        "festival",
+        "austin"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "tribeca-festival-2027-convocatoria",
+      "titulo": "Tribeca Festival 2027 – Convocatoria de obras",
+      "organizacion": "Tribeca Enterprises",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "US",
+      "paisNombre": "Estados Unidos",
+      "ciudad": "Nueva York",
+      "continente": "AMERICA_NORTE",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "El Tribeca Festival (26ª edición: 3 al 12 de junio de 2027, Nueva York) abrió inscripciones para largos, cortos, videoclips, TV, creadores digitales, juegos, podcasts y Tribeca X. La sección Immersive no figura en el anuncio 2027.",
+      "requisitos": [
+        "Obras terminadas según cada categoría.",
+        "Requisitos de estreno según el reglamento."
+      ],
+      "documentacion": [
+        "Inscripción en línea.",
+        "Enlace de visionado.",
+        "Pago de la tasa."
+      ],
+      "beneficios": [
+        "Exhibición y premios del festival."
+      ],
+      "apertura": "2026-10-01",
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://tribecafilm.com/press-center/press-releases/tribeca-festival-announces-2027-dates-and-calls-for-submissions",
+      "urlBases": null,
+      "palabrasClave": [
+        "festival",
+        "nueva york",
+        "juegos",
+        "largometraje",
+        "cortometraje"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "macdowell-fellowship",
+      "titulo": "Becas de residencia MacDowell",
+      "organizacion": "MacDowell",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "TEATRO",
+        "CINE",
+        "DRAMATURGIA",
+        "MUSICA",
+        "ARTES_VISUALES",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "US",
+      "paisNombre": "Estados Unidos",
+      "ciudad": "Peterborough",
+      "continente": "AMERICA_NORTE",
+      "lat": 42.8781,
+      "lng": -71.9512,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": 1500,
+      "moneda": "USD",
+      "costoInscripcion": 30,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Residencias de 2 a 8 semanas en New Hampshire (EE. UU.) para artistas de cualquier país en teatro, cine, interdisciplina, literatura, música, artes visuales y arquitectura. El ciclo primavera-verano 2027 cerró el 10 de septiembre de 2026. Tasa de 30 dólares.",
+      "requisitos": [
+        "Artistas de cualquier país con trayectoria profesional.",
+        "Una solicitud cada 24 meses."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Proyecto y muestras de trabajo.",
+        "Cinco logros artísticos relevantes."
+      ],
+      "beneficios": [
+        "Estudio privado, alojamiento y comidas.",
+        "Estipendio de hasta 1.500 USD y ayuda de viaje según necesidad."
+      ],
+      "apertura": "2027-01-15",
+      "cierre": "2027-02-10",
+      "fechasEstimadas": true,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://www.macdowell.org/apply/apply-for-fellowship",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia",
+        "estados unidos",
+        "teatro",
+        "cine",
+        "interdisciplina"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "banff-musical-theatre-dancers-intensive",
+      "titulo": "Banff Centre – Musical Theatre Dancers Intensive",
+      "organizacion": "Banff Centre for Arts and Creativity",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "DANZA",
+        "TEATRO"
+      ],
+      "pais": "CA",
+      "paisNombre": "Canadá",
+      "ciudad": "Banff",
+      "continente": "AMERICA_NORTE",
+      "lat": 51.1784,
+      "lng": -115.5708,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Residencia intensiva de dos semanas en Banff (Canadá) para bailarines de teatro musical y coreógrafos emergentes. La edición de enero de 2027 cerró el 12 de agosto de 2026. Banff también ofrece residencias independientes de teatro y danza.",
+      "requisitos": [
+        "Bailarines profesionales o en formación avanzada.",
+        "Coreógrafos emergentes."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Video de audición.",
+        "CV."
+      ],
+      "beneficios": [
+        "Entrenamiento con docentes invitados.",
+        "Posibles becas de ayuda financiera."
+      ],
+      "apertura": null,
+      "cierre": "2027-08-12",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.banffcentre.ca/dance",
+      "urlBases": null,
+      "palabrasClave": [
+        "teatro musical",
+        "danza",
+        "residencia",
+        "canadá"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "kaohsiung-film-festival-xr",
+      "titulo": "Kaohsiung Film Festival – Competencia XR Dreamland",
+      "organizacion": "Kaohsiung Film Archive – Kaohsiung Film Festival",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "INMERSIVO",
+        "ARTES_DIGITALES",
+        "CINE"
+      ],
+      "pais": "TW",
+      "paisNombre": "Taiwán",
+      "ciudad": "Kaohsiung",
+      "continente": "ASIA",
+      "lat": 22.6273,
+      "lng": 120.3014,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en",
+        "zh"
+      ],
+      "resumen": "La mayor competencia XR de Asia (2026: 9 al 26 de octubre, 29 obras de 16 países). En 2026 la inscripción fue del 1 de abril al 10 de junio por FilmFreeway más un formulario de Google obligatorio.",
+      "requisitos": [
+        "Obra XR terminada en el período que fijan las bases."
+      ],
+      "documentacion": [
+        "Inscripción en FilmFreeway.",
+        "Formulario de Google del festival.",
+        "Acceso a la obra."
+      ],
+      "beneficios": [
+        "Exhibición en Kaohsiung y premios de la competencia XR."
+      ],
+      "apertura": "2027-04-01",
+      "cierre": "2027-06-10",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://kff.tw/en/content/XR_SECTION",
+      "urlBases": null,
+      "palabrasClave": [
+        "xr",
+        "vr",
+        "asia",
+        "taiwán",
+        "festival"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "tokas-international-creator-residency",
+      "titulo": "Tokyo Arts and Space – Programa de residencias internacionales",
+      "organizacion": "Tokyo Arts and Space (TOKAS)",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "ARTES_VISUALES",
+        "ARTES_DIGITALES",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "JP",
+      "paisNombre": "Japón",
+      "ciudad": "Tokio",
+      "continente": "ASIA",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "GESTOR"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "ja"
+      ],
+      "resumen": "Residencias de 3 meses en Tokio para creadores de artes visuales, diseño, arquitectura y medios, más residencias de curaduría e investigación. La convocatoria para 2027 cerró el 16 de junio de 2026.",
+      "requisitos": [
+        "Creadores o curadores de cualquier país.",
+        "Proyecto a desarrollar en Tokio."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Plan de residencia.",
+        "Portfolio y CV."
+      ],
+      "beneficios": [
+        "Alojamiento y estudio.",
+        "Pasajes y apoyo para producción y vida."
+      ],
+      "apertura": "2027-05-01",
+      "cierre": "2027-06-16",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.tokyoartsandspace.jp/en/",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia",
+        "japón",
+        "tokio",
+        "medios",
+        "investigación"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "busan-asian-project-market",
+      "titulo": "Asian Project Market (APM) – Busan",
+      "organizacion": "Busan International Film Festival",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "KR",
+      "paisNombre": "Corea del Sur",
+      "ciudad": "Busan",
+      "continente": "ASIA",
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Mercado de coproducción del Festival de Busan para largos de ficción asiáticos en desarrollo. En 2026 el plazo fue el 18 de mayo. Los proyectos que se terminen antes del mercado no son elegibles.",
+      "requisitos": [
+        "Largometraje de ficción asiático (director/a o tema de Asia según bases).",
+        "Proyecto en desarrollo o financiación."
+      ],
+      "documentacion": [
+        "Formulario en apm.biff.kr.",
+        "Sinopsis y nota de dirección.",
+        "Plan de financiación."
+      ],
+      "beneficios": [
+        "Reuniones con coproductores y financiadores.",
+        "Premios del APM."
+      ],
+      "apertura": null,
+      "cierre": "2027-05-18",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://apm.biff.kr",
+      "urlBases": null,
+      "palabrasClave": [
+        "mercado",
+        "coproducción",
+        "asia",
+        "busan"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "doha-film-institute-grants",
+      "titulo": "Doha Film Institute – Programa de subvenciones",
+      "organizacion": "Doha Film Institute (DFI)",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "QA",
+      "paisNombre": "Catar",
+      "ciudad": "Doha",
+      "continente": "MEDIO_ORIENTE",
+      "lat": 25.2854,
+      "lng": 51.531,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION",
+        "POSTPRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "ar"
+      ],
+      "resumen": "Subvenciones de desarrollo, producción y postproducción para cineastas de la región MENA y de otros países, dos veces por año. El ciclo de otoño 2026 cerró el 2 de julio; el de primavera suele abrir a fines de diciembre (2026: hasta el 8 de enero).",
+      "requisitos": [
+        "Cineastas de MENA (y de otros países según la categoría).",
+        "Primer o segundo largometraje en muchos casos."
+      ],
+      "documentacion": [
+        "Formulario en línea (no se aceptan solicitudes por correo).",
+        "Guion o tratamiento.",
+        "Presupuesto y plan financiero."
+      ],
+      "beneficios": [
+        "Subvención para la etapa del proyecto.",
+        "Acompañamiento del DFI."
+      ],
+      "apertura": "2026-12-29",
+      "cierre": "2027-01-08",
+      "fechasEstimadas": true,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://www.dohafilm.com/funding-industry/funding/grants",
+      "urlBases": null,
+      "palabrasClave": [
+        "mena",
+        "mundo árabe",
+        "ópera prima",
+        "desarrollo",
+        "postproducción"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "red-sea-fund-postproduccion",
+      "titulo": "Red Sea Fund – Apoyo a la postproducción",
+      "organizacion": "Red Sea Film Foundation",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "SA",
+      "paisNombre": "Arabia Saudita",
+      "ciudad": "Yeda",
+      "continente": "MEDIO_ORIENTE",
+      "lat": 21.4858,
+      "lng": 39.1925,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "POSTPRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "ar"
+      ],
+      "resumen": "Fondo para películas de cineastas árabes, africanos y asiáticos. El ciclo 1 de 2026 de postproducción estuvo abierto del 6 al 27 de enero para ficción, documental y animación de largo ya rodados.",
+      "requisitos": [
+        "Cineastas del mundo árabe, África o Asia según las bases.",
+        "Largometraje con rodaje terminado."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Corte del film.",
+        "Presupuesto de postproducción."
+      ],
+      "beneficios": [
+        "Subvención para postproducción."
+      ],
+      "apertura": "2027-01-06",
+      "cierre": "2027-01-27",
+      "fechasEstimadas": true,
+      "periodicidad": "SEMESTRAL",
+      "url": "https://redseafilmfest.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "postproducción",
+        "mundo árabe",
+        "áfrica",
+        "asia",
+        "fondo"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "afac-performing-arts-grant",
+      "titulo": "AFAC – Subvención para Artes Escénicas",
+      "organizacion": "Arab Fund for Arts and Culture (AFAC)",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "PERFORMANCE",
+        "CIRCO"
+      ],
+      "pais": "LB",
+      "paisNombre": "Líbano",
+      "ciudad": "Beirut",
+      "continente": "MEDIO_ORIENTE",
+      "lat": 33.8938,
+      "lng": 35.5018,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO",
+        "INSTITUCION"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": 35000,
+      "moneda": "USD",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "ar"
+      ],
+      "resumen": "Subvención anual para proyectos de artes escénicas de artistas e instituciones de la región árabe o vinculados a ella. Hasta 25.000 USD para personas y equipos y 35.000 USD para colectivos e instituciones. En 2026 cerró el 2 de abril.",
+      "requisitos": [
+        "Artistas o instituciones de países árabes, o proyectos relacionados con la región.",
+        "Completar el proyecto en dos años."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Proyecto y presupuesto.",
+        "Muestras de trabajo."
+      ],
+      "beneficios": [
+        "Hasta 35.000 USD según el tipo de solicitante."
+      ],
+      "apertura": null,
+      "cierre": "2027-04-02",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.arabculturefund.org",
+      "urlBases": null,
+      "palabrasClave": [
+        "mundo árabe",
+        "artes escénicas",
+        "subvención",
+        "danza"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "durban-filmmart-convocatoria",
+      "titulo": "Durban FilmMart – Convocatoria de proyectos",
+      "organizacion": "Durban FilmMart Institute",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "ZA",
+      "paisNombre": "Sudáfrica",
+      "ciudad": "Durban",
+      "continente": "AFRICA",
+      "lat": -29.8587,
+      "lng": 31.0218,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Principal mercado de coproducción de África. Selecciona proyectos africanos de ficción y documental para mentorías, clases y pitch. En 2026 el plazo fue el 1 de febrero; suele abrir en noviembre.",
+      "requisitos": [
+        "Productor/a y director/a africanos o de la diáspora según bases.",
+        "Proyecto de largo en desarrollo."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Sinopsis y tratamiento.",
+        "Presupuesto y plan de financiación."
+      ],
+      "beneficios": [
+        "Mentorías y clases.",
+        "Pitch ante financiadores.",
+        "Premios del mercado."
+      ],
+      "apertura": "2026-11-06",
+      "cierre": "2027-02-01",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://durbanfilmmart.co.za",
+      "urlBases": null,
+      "palabrasClave": [
+        "áfrica",
+        "mercado",
+        "coproducción",
+        "documental",
+        "pitch"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "national-arts-festival-makhanda-curated",
+      "titulo": "National Arts Festival – Programa curado",
+      "organizacion": "National Arts Festival (Sudáfrica)",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "PERFORMANCE",
+        "MUSICA",
+        "ARTES_VISUALES",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "ZA",
+      "paisNombre": "Sudáfrica",
+      "ciudad": "Makhanda",
+      "continente": "AFRICA",
+      "lat": -33.3106,
+      "lng": 26.5256,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Festival de artes más grande de África, en Makhanda. La convocatoria del programa curado 2027 corrió del 6 de agosto al 27 de septiembre de 2026; los no seleccionados pueden postular al Fringe en una ventana de siete días.",
+      "requisitos": [
+        "Artistas o compañías con propuestas escénicas o multidisciplinarias.",
+        "Máximo dos solicitudes por persona."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Dossier y video.",
+        "Ficha técnica y presupuesto."
+      ],
+      "beneficios": [
+        "Programación con cachet en el festival.",
+        "Acceso al Fringe si no se es seleccionado."
+      ],
+      "apertura": "2027-08-06",
+      "cierre": "2027-09-27",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.nationalartsfestival.co.za",
+      "urlBases": null,
+      "palabrasClave": [
+        "festival",
+        "sudáfrica",
+        "fringe",
+        "artes escénicas",
+        "áfrica"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "prince-claus-seed-awards",
+      "titulo": "Prince Claus Seed Awards",
+      "organizacion": "Prince Claus Fund",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "CINE",
+        "ARTES_VISUALES",
+        "MUSICA",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "NL",
+      "paisNombre": "Países Bajos",
+      "ciudad": "Ámsterdam",
+      "continente": "GLOBAL",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "fr",
+        "es"
+      ],
+      "resumen": "Premios para artistas y practicantes culturales emergentes de África, Asia, América Latina, el Caribe y Europa del Este. En 2026 el plazo fue el 8 de enero. El fondo también tiene programas de mentoría (como Building Beyond para África).",
+      "requisitos": [
+        "Artistas emergentes de países elegibles.",
+        "Práctica artística con compromiso social."
+      ],
+      "documentacion": [
+        "Formulario en línea.",
+        "Portfolio.",
+        "Declaración de práctica."
+      ],
+      "beneficios": [
+        "Premio en efectivo.",
+        "Red y visibilidad internacional."
+      ],
+      "apertura": "2026-11-15",
+      "cierre": "2027-01-08",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://princeclausfund.org",
+      "urlBases": null,
+      "palabrasClave": [
+        "emergentes",
+        "sur global",
+        "premio",
+        "arte y sociedad"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "ouaga-stories-lab",
+      "titulo": "Ouaga Stories Lab (antes Ouaga Film Lab)",
+      "organizacion": "Ouaga Film Lab",
+      "tipo": "LABORATORIO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "BF",
+      "paisNombre": "Burkina Faso",
+      "ciudad": "Uagadugú",
+      "continente": "AFRICA",
+      "lat": 12.3714,
+      "lng": -1.5197,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "fr",
+        "en"
+      ],
+      "resumen": "Laboratorio de incubación para proyectos de cine africanos en Uagadugú. Selecciona ocho autores-directores para una residencia (2026: 24 al 31 de octubre). La convocatoria 2026 cerró el 1 de mayo.",
+      "requisitos": [
+        "Autores-directores africanos.",
+        "Proyecto en etapa de escritura o desarrollo."
+      ],
+      "documentacion": [
+        "Formulario de inscripción.",
+        "Proyecto (sinopsis, tratamiento).",
+        "Filmografía."
+      ],
+      "beneficios": [
+        "Residencia de incubación con tutores.",
+        "Presentación ante profesionales."
+      ],
+      "apertura": null,
+      "cierre": "2027-05-01",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://ouagafilmlab.net",
+      "urlBases": null,
+      "palabrasClave": [
+        "áfrica",
+        "laboratorio",
+        "incubación",
+        "guion",
+        "burkina faso"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "adelaide-fringe-2027-registro",
+      "titulo": "Adelaide Fringe 2027 – Registro de artistas",
+      "organizacion": "Adelaide Fringe",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "PERFORMANCE",
+        "TITERES",
+        "MUSICA",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "AU",
+      "paisNombre": "Australia",
+      "ciudad": "Adelaida",
+      "continente": "OCEANIA",
+      "lat": -34.9285,
+      "lng": 138.6007,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Segundo fringe más grande del mundo (19 de febrero al 21 de marzo de 2027). El registro de artistas de todas las disciplinas ya está abierto. Quien se registre hasta el 30 de octubre de 2026 entra en la guía impresa oficial.",
+      "requisitos": [
+        "Conseguir sala o espacio registrado.",
+        "Registrar el evento en la plataforma AVR."
+      ],
+      "documentacion": [
+        "Registro en la plataforma AVR.",
+        "Texto, imágenes y datos de funciones."
+      ],
+      "beneficios": [
+        "Inclusión en la guía y venta de entradas.",
+        "Programa de giras y contacto con delegados de la industria."
+      ],
+      "apertura": null,
+      "cierre": "2026-10-30",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://adelaidefringe.com.au",
+      "urlBases": null,
+      "palabrasClave": [
+        "fringe",
+        "australia",
+        "gira",
+        "festival abierto"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "melbourne-fringe-registro",
+      "titulo": "Melbourne Fringe – Registro de artistas",
+      "organizacion": "Melbourne Fringe",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO",
+        "PERFORMANCE",
+        "MUSICA",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "AU",
+      "paisNombre": "Australia",
+      "ciudad": "Melbourne",
+      "continente": "OCEANIA",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Festival abierto de artes independientes en Melbourne (2026: 29 de septiembre al 18 de octubre). En 2025 el registro de artistas cerró el 6 de junio.",
+      "requisitos": [
+        "Artistas independientes de cualquier disciplina.",
+        "Contar con espacio o elegir uno del festival."
+      ],
+      "documentacion": [
+        "Registro en línea.",
+        "Descripción del evento.",
+        "Pago de la tasa de registro."
+      ],
+      "beneficios": [
+        "Inclusión en la programación y venta de entradas.",
+        "Premios del Fringe."
+      ],
+      "apertura": null,
+      "cierre": "2027-06-06",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.melbournefringe.com.au/festival-info/for-artists/",
+      "urlBases": null,
+      "palabrasClave": [
+        "fringe",
+        "australia",
+        "independiente",
+        "festival abierto"
+      ],
+      "verificado": "2026-10-11"
+    },
+    {
+      "id": "bundanon-artists-in-residence",
+      "titulo": "Bundanon – Programa de artistas en residencia",
+      "organizacion": "Bundanon Trust",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "TEATRO",
+        "DANZA",
+        "MUSICA",
+        "ARTES_VISUALES",
+        "CINE"
+      ],
+      "pais": "AU",
+      "paisNombre": "Australia",
+      "ciudad": "Illaroo",
+      "continente": "OCEANIA",
+      "lat": -34.87,
+      "lng": 150.48,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO",
+        "GESTOR"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Residencias en el campus de Bundanon (Nueva Gales del Sur) para artistas de todas las disciplinas y etapas. La convocatoria 2027 abrió el 20 de abril y cerró el 9 de junio de 2026. Sin costo para el artista (hay un depósito de garantía de 250 AUD).",
+      "requisitos": [
+        "Artistas profesionales, curadores o investigadores.",
+        "No haber hecho residencia en Bundanon en los últimos cinco años."
+      ],
+      "documentacion": [
+        "Solicitud en SmartyGrants.",
+        "Proyecto.",
+        "Portfolio y CV."
+      ],
+      "beneficios": [
+        "Alojamiento y estudio en Bundanon."
+      ],
+      "apertura": "2027-04-20",
+      "cierre": "2027-06-09",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.bundanon.com.au",
+      "urlBases": null,
+      "palabrasClave": [
+        "residencia",
+        "australia",
+        "naturaleza",
+        "creación"
+      ],
+      "verificado": "2026-10-11"
+    }
+  ]
+}
