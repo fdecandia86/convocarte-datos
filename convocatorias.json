@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-11",
+  "actualizado": "2026-10-12",
   "convocatorias": [
     {
       "id": "int-subsidios-ventanilla-permanente",
@@ -2617,7 +2617,7 @@
         "danza",
         "circo"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-12"
     },
     {
       "id": "fira-tarrega-programa-oficial",
@@ -2758,7 +2758,7 @@
         "festival",
         "dirección escénica"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-12"
     },
     {
       "id": "festival-de-malaga-inscripcion",
@@ -3751,7 +3751,7 @@
         "venecia",
         "biennale college"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-12"
     },
     {
       "id": "biennale-college-danza",
@@ -4695,7 +4695,7 @@
         "atelier",
         "artes vivas"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-12"
     },
     {
       "id": "pro-helvetia-residencias",
@@ -5894,7 +5894,7 @@
         "documental",
         "pitch"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-12"
     },
     {
       "id": "national-arts-festival-makhanda-curated",
@@ -6036,7 +6036,7 @@
         "premio",
         "arte y sociedad"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-12"
     },
     {
       "id": "ouaga-stories-lab",
@@ -15048,6 +15048,817 @@
         "festival de cine"
       ],
       "verificado": "2026-10-11"
+    },
+    {
+      "id": "es-punto-de-vista-2027",
+      "titulo": "Punto de Vista 2027 – Sección Oficial (festival de cine documental de Navarra)",
+      "organizacion": "Gobierno de Navarra / NICDO",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Pamplona",
+      "provincia": "Navarra",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 42.8125,
+      "lng": -1.6458,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": 10000,
+      "moneda": "EUR",
+      "costoInscripcion": 5,
+      "idiomas": [
+        "es",
+        "en"
+      ],
+      "resumen": "Convocatoria de la Sección Oficial de la 21ª edición, del 9 al 14 de marzo de 2027 en Pamplona. Recibe documentales de cualquier nacionalidad, sin límite de tema, duración ni idioma, terminados después del 1 de agosto de 2025. Cierra el 15 de octubre de 2026 a las 23:59. Gran Premio de 10.000 € y Premio Jean Vigo de 5.000 €.",
+      "requisitos": [
+        "Documentales terminados después del 1 de agosto de 2025.",
+        "Quedan afuera la ficción, las piezas institucionales o publicitarias y los reportajes periodísticos.",
+        "No pueden haberse estrenado en cines comerciales ni en televisión de España."
+      ],
+      "documentacion": [
+        "Formulario en la web del festival.",
+        "Pago de 5 € de inscripción."
+      ],
+      "beneficios": [
+        "Gran Premio Punto de Vista: 10.000 €.",
+        "Premio Jean Vigo a la mejor dirección: 5.000 €."
+      ],
+      "apertura": null,
+      "cierre": "2026-10-15",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://puntodevistafestival.com/en/news/2026/call-for-entries-punto-de-vista-2027",
+      "urlBases": "https://www.puntodevistafestival.com/en/rules-2027",
+      "palabrasClave": [
+        "Punto de Vista",
+        "documental",
+        "Pamplona",
+        "Navarra",
+        "Jean Vigo"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "ch-visions-du-reel-2027",
+      "titulo": "Visions du Réel 2027 – Convocatoria de películas",
+      "organizacion": "Visions du Réel – Festival internacional de cine de Nyon",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "CH",
+      "paisNombre": "Suiza",
+      "ciudad": "Nyon",
+      "provincia": "Vaud",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 46.3833,
+      "lng": 6.2398,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en",
+        "fr"
+      ],
+      "resumen": "Festival de cine documental y de lo real, del 9 al 18 de abril de 2027. La convocatoria abrió el 8 de septiembre de 2026, con plazo temprano el 2 de noviembre y cierre final el 15 de diciembre de 2026. Tiene competencias de largometraje y de medio y cortometraje (hasta 70 minutos), ambas habilitantes para los Oscar.",
+      "requisitos": [
+        "Estreno mundial, internacional o europeo para las competencias.",
+        "Declarar el uso de inteligencia artificial y qué elementos afectó."
+      ],
+      "documentacion": [
+        "Inscripción en línea en visionsdureel.ch.",
+        "Enlace de visionado."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las competencias, habilitantes para los Oscar."
+      ],
+      "apertura": "2026-09-08",
+      "cierre": "2026-12-15",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://www.visionsdureel.ch/en/call-for-entries/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Visions du Réel",
+        "Nyon",
+        "documental",
+        "Suiza"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "fi-tampere-film-festival-2027",
+      "titulo": "Tampere Film Festival 2027 – Competencias de cortometraje",
+      "organizacion": "Tampere Film Festival",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "FI",
+      "paisNombre": "Finlandia",
+      "ciudad": "Tampere",
+      "provincia": "Pirkanmaa",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 61.4978,
+      "lng": 23.761,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": "EUR",
+      "costoInscripcion": 20,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Festival de cortometrajes del 10 al 14 de marzo de 2027. Las competencias Internacional y de Género cierran el 3 de noviembre de 2026; la Nacional (Finlandia), el 1 de diciembre. La tarifa final es de 20 € por película.",
+      "requisitos": [
+        "Cortometrajes de hasta 30 minutos con créditos.",
+        "Terminados después del 1 de enero de 2025.",
+        "Solo obras terminadas; no se aceptan películas ya presentadas antes."
+      ],
+      "documentacion": [
+        "Inscripción por FilmFreeway o Shortfilmdepot."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las competencias."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-03",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://tamperefilmfestival.fi/en/call-for-entries-submissions-for-the-2027-competitions-now-open/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Tampere",
+        "cortometraje",
+        "Finlandia",
+        "festival de cine"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "de-oberhausen-kurzfilmtage-2027",
+      "titulo": "73ª Kurzfilmtage Oberhausen – Convocatoria de cortometrajes",
+      "organizacion": "Internationale Kurzfilmtage Oberhausen",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "DE",
+      "paisNombre": "Alemania",
+      "ciudad": "Oberhausen",
+      "provincia": "Renania del Norte-Westfalia",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 51.4963,
+      "lng": 6.8638,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "en",
+        "de"
+      ],
+      "resumen": "Festival de cortometrajes del 27 de abril al 2 de mayo de 2027. El cierre general es el 18 de enero de 2027, sin prórroga; los videoclips para el MuVi Award cierran el 22 de febrero. Las cinco primeras inscripciones por persona son gratis y desde la sexta se pagan 20 €.",
+      "requisitos": [
+        "Cortometrajes según el reglamento de la 73ª edición."
+      ],
+      "documentacion": [
+        "Inscripción en kurzfilmtage.de."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las competencias."
+      ],
+      "apertura": null,
+      "cierre": "2027-01-18",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://www.kurzfilmtage.de/en/festival/submission",
+      "urlBases": "https://www.kurzfilmtage.de/fileadmin/Kurzfilmtage/Kurzfilmtage_2027/Reglement/Reglement-73-Kurzfilmtage-Oberhausen.pdf",
+      "palabrasClave": [
+        "Oberhausen",
+        "Kurzfilmtage",
+        "cortometraje",
+        "Alemania",
+        "MuVi"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "nl-iffr-inscripcion-peliculas",
+      "titulo": "International Film Festival Rotterdam (IFFR) – Inscripción de películas",
+      "organizacion": "International Film Festival Rotterdam",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "NL",
+      "paisNombre": "Países Bajos",
+      "ciudad": "Rotterdam",
+      "provincia": "Holanda Meridional",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 51.9244,
+      "lng": 4.4777,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": "EUR",
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Inscripción de largos, medios y cortometrajes para el IFFR. Para la edición 2027 abrió el 1 de mayo y cerró el 15 de septiembre de 2026, con tarifas escalonadas (largos de 65 a 110 €, cortos de 40 a 70 €). Las fechas de la edición 2028 están proyectadas.",
+      "requisitos": [
+        "La Tiger Competition es para primeras, segundas o terceras películas de 64 minutos o más, con estreno mundial en Rotterdam.",
+        "No se aceptan películas de estudiantes, salvo trabajos de máster."
+      ],
+      "documentacion": [
+        "Inscripción en iffr.com/en/film-entry."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las competencias."
+      ],
+      "apertura": "2027-05-01",
+      "cierre": "2027-09-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://iffr.com/en/film-entry",
+      "urlBases": null,
+      "palabrasClave": [
+        "IFFR",
+        "Rotterdam",
+        "Tiger Competition",
+        "festival de cine",
+        "Países Bajos"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "fr-cinema-du-reel-2027",
+      "titulo": "Cinéma du Réel 2027 – Convocatoria de películas para las competencias",
+      "organizacion": "Cinéma du Réel – Bibliothèque publique d'information",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "FR",
+      "paisNombre": "Francia",
+      "ciudad": "París",
+      "provincia": "Isla de Francia",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "fr",
+        "en"
+      ],
+      "resumen": "Festival internacional de cine documental, 49ª edición del 19 al 27 de marzo de 2027 en salas de la orilla izquierda de París. En el ciclo anterior el cierre final fue el 3 de noviembre de 2025, con tarifas de 10 a 50 € según la fecha; las fechas de 2026 están proyectadas, revisá el reglamento 2027.",
+      "requisitos": [
+        "Estreno en Francia para entrar en competencia.",
+        "Prioridad a estrenos mundiales."
+      ],
+      "documentacion": [
+        "Formulario en línea en cinemadureel.org."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las competencias."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-03",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.cinemadureel.org/en/competition-regulations-2027/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Cinéma du Réel",
+        "documental",
+        "París",
+        "Francia"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "es-cenit-sevilla",
+      "titulo": "CENIT – Certamen de Nuevos Investigadores Teatrales",
+      "organizacion": "Teatro TNT / Atalaya",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "TEATRO",
+        "PERFORMANCE"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Sevilla",
+      "provincia": "Andalucía",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 37.3891,
+      "lng": -5.9845,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "COLECTIVO",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "PRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Certamen de investigación escénica del Teatro TNT de Sevilla, que funciona desde 2009. La XVIII edición se hace del 6 al 8 de noviembre de 2026 y recibió propuestas hasta el 11 de septiembre. Las fechas de la próxima edición están proyectadas.",
+      "requisitos": [
+        "Compañías que cumplan los requisitos de las bases publicadas en la web del TNT."
+      ],
+      "documentacion": [
+        "Propuesta según las bases del certamen."
+      ],
+      "beneficios": [
+        "Participación en el certamen en el Teatro TNT."
+      ],
+      "apertura": null,
+      "cierre": "2027-09-11",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.atalaya-tnt.com",
+      "urlBases": "https://www.atalaya-tnt.com/wp-content/uploads/2026/05/BASES-CENIT-2026.pdf",
+      "palabrasClave": [
+        "CENIT",
+        "TNT",
+        "Atalaya",
+        "Sevilla",
+        "investigación escénica"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "at-danceweb-impulstanz",
+      "titulo": "Becas danceWEB – ImPulsTanz Viena",
+      "organizacion": "danceWEB / ImPulsTanz Vienna International Dance Festival",
+      "tipo": "BECA",
+      "disciplinas": [
+        "DANZA",
+        "PERFORMANCE"
+      ],
+      "pais": "AT",
+      "paisNombre": "Austria",
+      "ciudad": "Viena",
+      "provincia": "Viena",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 48.2082,
+      "lng": 16.3738,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Programa de becas para artistas de danza contemporánea durante el festival ImPulsTanz. Para 2026 la postulación fue del 8 de octubre a principios de diciembre de 2025 y los resultados salieron a mediados de febrero. Las fechas de la ronda 2027 están proyectadas y el cierre no está confirmado.",
+      "requisitos": [
+        "Artistas de danza contemporánea según las bases de cada ronda."
+      ],
+      "documentacion": [
+        "Postulación en línea en la web de danceWEB."
+      ],
+      "beneficios": [
+        "Beca para participar en el programa danceWEB en Viena."
+      ],
+      "apertura": "2026-10-08",
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.impulstanz.com",
+      "urlBases": null,
+      "palabrasClave": [
+        "danceWEB",
+        "ImPulsTanz",
+        "Viena",
+        "beca",
+        "danza contemporánea"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "es-feria-teatro-danza-huesca",
+      "titulo": "Feria Internacional de Teatro y Danza de Huesca – Convocatoria de compañías",
+      "organizacion": "Diputación Provincial de Huesca",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "CIRCO"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Huesca",
+      "provincia": "Aragón",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 42.1401,
+      "lng": -0.4089,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Feria profesional que programa entre 25 y 30 espectáculos por edición. Para la 40ª (27 de septiembre al 1 de octubre de 2026) la convocatoria fue del 4 de febrero al 31 de marzo. Las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Compañías profesionales con espectáculo de teatro, danza o circo."
+      ],
+      "documentacion": [
+        "Propuesta en feriadeteatroydanza.com."
+      ],
+      "beneficios": [
+        "Programación en la feria ante programadores.",
+        "Opción del formato Feria Sin Condiciones para artes escénicas rurales."
+      ],
+      "apertura": "2027-02-04",
+      "cierre": "2027-03-31",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://feriadeteatroydanza.com/index.php/companias/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Huesca",
+        "feria",
+        "mercado",
+        "Aragón",
+        "danza",
+        "teatro"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "es-premi-angel-guimera-2027",
+      "titulo": "Premi Àngel Guimerà de Literatura Dramàtica 2027",
+      "organizacion": "Diputació de Barcelona",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "DRAMATURGIA",
+        "TEATRO"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Barcelona",
+      "provincia": "Cataluña",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 41.3874,
+      "lng": 2.1686,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": 15000,
+      "moneda": "EUR",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "ca"
+      ],
+      "resumen": "Premio de literatura dramática de la Diputació de Barcelona, que en 2026 reemplazó al Premi Frederic Roda. Da 15.000 € y la Diputació edita la obra ganadora en catalán. El plazo cierra el 16 de noviembre de 2026; revisá en las bases el idioma exigido y los requisitos de la obra.",
+      "requisitos": [
+        "Obra dramática según las bases de la convocatoria 2027."
+      ],
+      "documentacion": [
+        "Formulario de solicitud de la Diputació de Barcelona.",
+        "Obra y documentos que piden las bases."
+      ],
+      "beneficios": [
+        "15.000 € (con retenciones fiscales).",
+        "Edición en catalán de la obra ganadora."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-16",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://info-cemical.diba.cat/documents/d/cultura/anunci-bopb_extracte_premi-angel-guimera_2027",
+      "urlBases": "https://info-cemical.diba.cat/documents/d/cultura/bases_premi-angel-guimera_2027_definitiva",
+      "palabrasClave": [
+        "Àngel Guimerà",
+        "Diputació de Barcelona",
+        "dramaturgia",
+        "premio",
+        "catalán"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "jujuy-festival-cine-de-las-alturas",
+      "titulo": "Festival Internacional de Cine de las Alturas – Convocatoria de películas",
+      "organizacion": "Festival Internacional de Cine de las Alturas",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "San Salvador de Jujuy",
+      "provincia": "Jujuy",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -24.1858,
+      "lng": -65.2995,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival de cine de Jujuy con competencias de largometraje de ficción y documental de la región andina, cortos del NOA y Work in Progress nacional (según ediciones anteriores). La 11ª edición fue del 8 al 16 de mayo de 2026 y su reglamento se publicó en septiembre de 2025. Las fechas de inscripción para la 12ª edición no están publicadas: revisá la web del festival.",
+      "requisitos": [
+        "Películas según el reglamento de cada edición."
+      ],
+      "documentacion": [
+        "Formulario en línea en cinedelasalturas.com.ar."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las competencias."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://cinedelasalturas.com.ar",
+      "urlBases": "https://cinedelasalturas.com.ar/wp-content/uploads/2025/09/Festival_Reglamento2026.pdf",
+      "palabrasClave": [
+        "Cine de las Alturas",
+        "Jujuy",
+        "NOA",
+        "festival de cine",
+        "andino"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "sde-santiago-del-estero-film-fest",
+      "titulo": "Santiago del Estero Film Fest – Festival Internacional de Cine",
+      "organizacion": "Santiago del Estero Film Fest",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Santiago del Estero",
+      "provincia": "Santiago del Estero",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -27.7834,
+      "lng": -64.2642,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival internacional de cine en la ciudad de Santiago del Estero. Para la edición de junio de 2026 la inscripción de largos, cortos y trabajos académicos fue del 10 de diciembre de 2025 al 10 de febrero de 2026. Las fechas de la próxima edición están proyectadas; confirmalas con la organización.",
+      "requisitos": [
+        "Largometrajes de más de 61 minutos o cortometrajes de hasta 25 minutos.",
+        "Producidos o estrenados dentro del período que fijen las bases (en 2026, desde enero de 2025)."
+      ],
+      "documentacion": [
+        "Ficha de inscripción en línea."
+      ],
+      "beneficios": [
+        "Competencia o muestra Panorama, según decida el festival."
+      ],
+      "apertura": "2026-12-10",
+      "cierre": "2027-02-10",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://festhome.com/festival/santiago-del-estero-film-festival",
+      "urlBases": null,
+      "palabrasClave": [
+        "Santiago del Estero",
+        "festival de cine",
+        "cortometraje",
+        "largometraje"
+      ],
+      "verificado": "2026-10-12"
+    },
+    {
+      "id": "red-federal-de-teatros",
+      "titulo": "Red Federal de Teatros – Inscripción de salas",
+      "organizacion": "Secretaría de Cultura de la Nación",
+      "tipo": "SUBSIDIO",
+      "disciplinas": [
+        "TEATRO",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Buenos Aires",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "INSTITUCION",
+        "GESTOR"
+      ],
+      "etapas": [
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Registro nacional para salas de gestión provincial, municipal, gremial, universitaria o de colectividades que no estén bajo la Ley Nacional del Teatro. La inscripción se hace en el Registro Federal de Cultura y está abierta de forma continua. Las salas adheridas acceden a capacitaciones y a líneas de apoyo que se anuncian por separado.",
+      "requisitos": [
+        "Sala de una persona jurídica sin fines de lucro, de gestión provincial, municipal, gremial, universitaria o de colectividades.",
+        "No estar amparada por la Ley 24.800."
+      ],
+      "documentacion": [
+        "Alta de la persona y del espacio en el Registro Federal de Cultura.",
+        "Datos técnicos de la sala y documentación respaldatoria."
+      ],
+      "beneficios": [
+        "Capacitaciones.",
+        "Acceso a líneas de equipamiento, adecuación, formación técnica y producción cuando se abren."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": false,
+      "periodicidad": "PERMANENTE",
+      "url": "https://www.argentina.gob.ar/cultura/convocatorias/14128",
+      "urlBases": "https://www.cultura.gob.ar/media/uploads/redfederalteatros__preguntasfrecuentes.pdf",
+      "palabrasClave": [
+        "Red Federal de Teatros",
+        "salas",
+        "Registro Federal de Cultura",
+        "espacios teatrales"
+      ],
+      "verificado": "2026-10-12"
     }
   ]
 }
