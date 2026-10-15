@@ -45,4 +45,4 @@ Estos términos pueden actualizarse. La versión vigente se publica en esta mism
 
 Estos términos se rigen por las leyes de la República Argentina. Para cualquier conflicto son competentes los tribunales ordinarios de la Ciudad Autónoma de Buenos Aires, sin perjuicio de los derechos que la ley de defensa del consumidor te reconozca.
 
-Contacto: **[COMPLETAR: email de contacto]**.
+Contacto: corderosproducciones@gmail.com.

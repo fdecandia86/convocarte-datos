@@ -2,7 +2,7 @@
 
 Vigente desde el 11 de octubre de 2026.
 
-Convocarte es una app para Android que reúne convocatorias culturales (festivales, concursos, subsidios, residencias, becas y otras) para artistas, productores y gestores. La desarrolla y la publica Fernando De Candia, en la Ciudad Autónoma de Buenos Aires, Argentina. Contacto para cualquier consulta sobre tus datos: **[COMPLETAR: email de contacto]**.
+Convocarte es una app para Android que reúne convocatorias culturales (festivales, concursos, subsidios, residencias, becas y otras) para artistas, productores y gestores. La desarrolla y la publica Fernando De Candia, en la Ciudad Autónoma de Buenos Aires, Argentina. Contacto para cualquier consulta sobre tus datos: corderosproducciones@gmail.com.
 
 ## Qué datos usa la app y dónde quedan
 
