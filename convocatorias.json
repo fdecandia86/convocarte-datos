@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-19",
+  "actualizado": "2026-10-26",
   "convocatorias": [
     {
       "id": "int-subsidios-ventanilla-permanente",
@@ -3620,7 +3620,7 @@
     },
     {
       "id": "biennale-danza-2027-creaciones-coreograficas",
-      "titulo": "Biennale Danza 2027 – Convocatoria de nuevas creaciones coreográficas",
+      "titulo": "Biennale Danza – Convocatoria de nuevas creaciones coreográficas",
       "organizacion": "La Biennale di Venezia",
       "tipo": "COPRODUCCION",
       "disciplinas": [
@@ -3656,7 +3656,7 @@
         "en",
         "it"
       ],
-      "resumen": "Convocatoria italiana e internacional para dos obras coreográficas nuevas que se estrenarán en la Biennale Danza 2027. Cada proyecto elegido recibe hasta 30.000 euros. Abierta del 15 de septiembre al 20 de octubre de 2026.",
+      "resumen": "La Biennale di Venezia abre cada año dos convocatorias (italiana e internacional) para nuevas creaciones coreográficas que se estrenan en el festival del año siguiente. La de la edición 2027 (15 al 31 de julio, dirigida por Wayne McGregor) estuvo abierta del 15 de septiembre al 20 de octubre de 2026, con una beca de producción de hasta 30.000 €. Las fechas de la próxima convocatoria están proyectadas.",
       "requisitos": [
         "Coreógrafas, coreógrafos o compañías de danza.",
         "Obra sin estreno previo."
@@ -3671,9 +3671,9 @@
         "Hasta 30.000 EUR de producción.",
         "Estreno en la Biennale Danza 2027."
       ],
-      "apertura": "2026-09-15",
-      "cierre": "2026-10-20",
-      "fechasEstimadas": false,
+      "apertura": "2027-09-15",
+      "cierre": "2027-10-20",
+      "fechasEstimadas": true,
       "periodicidad": "ANUAL",
       "url": "https://www.labiennale.org/en/news/national-and-international-calls-two-new-choreographic-works-1",
       "urlBases": null,
@@ -3684,7 +3684,7 @@
         "venecia",
         "danza contemporánea"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-26"
     },
     {
       "id": "biennale-college-teatro-regia-drammaturgia",
@@ -4356,7 +4356,7 @@
         "inmersivo",
         "festival"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-26"
     },
     {
       "id": "mifa-pitches-annecy",
@@ -4422,7 +4422,7 @@
         "mercado",
         "desarrollo"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-26"
     },
     {
       "id": "clermont-ferrand-inscripcion",
@@ -7627,7 +7627,7 @@
         "arte generativo",
         "FNA"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-26"
     },
     {
       "id": "fna-concurso-diseno-arte-cultura",
@@ -8397,7 +8397,7 @@
         "teatro",
         "Estrella de Mar"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-26"
     },
     {
       "id": "pba-fiesta-provincial-teatro-buenos-aires",
@@ -11015,7 +11015,7 @@
       "idiomas": [
         "es"
       ],
-      "resumen": "Selectivo provincial del INT en Catamarca; la obra elegida representa a la provincia en la Fiesta Nacional del Teatro. Para la 30ª edición (dedicada a la actriz Blanca Gaete) los grupos catamarqueños se inscribían hasta el 25 de octubre en inteatro.ar/convocatorias. El año de esa convocatoria no está claro en la fuente: confirmá la vigencia en la web del INT.",
+      "resumen": "Selectivo provincial del INT en Catamarca; la obra elegida representa a la provincia en la Fiesta Nacional del Teatro. Para la 30ª edición (dedicada a la actriz Blanca Gaete) los grupos catamarqueños se inscribían hasta el 25 de octubre en inteatro.ar/convocatorias. El año de esa convocatoria no está claro en la fuente: confirmá la vigencia en la web del INT. La fecha de la próxima edición está proyectada a dos años porque la fiesta es bienal.",
       "requisitos": [
         "Grupos teatrales de Catamarca.",
         "Residencia en la provincia según bases del INT (en ediciones anteriores, 75% del elenco con al menos dos años).",
@@ -11031,7 +11031,7 @@
         "Posibilidad de representar a Catamarca en la Fiesta Nacional del Teatro."
       ],
       "apertura": null,
-      "cierre": "2026-10-25",
+      "cierre": "2028-10-25",
       "fechasEstimadas": true,
       "periodicidad": "BIENAL",
       "url": "https://www.elancasti.com.ar/edicion-impresa/convocatoria-la-30-fiesta-del-teatro-n565461",
@@ -11043,7 +11043,7 @@
         "selectivo",
         "Blanca Gaete"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-26"
     },
     {
       "id": "rionegro-festival-audiovisual-bariloche-fab",
@@ -11389,7 +11389,7 @@
         "Neuquén",
         "concurso"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-26"
     },
     {
       "id": "misiones-iaavim-fomento-audiovisual",
@@ -14415,7 +14415,7 @@
         "cine costarricense",
         "fondo audiovisual"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-10-26"
     },
     {
       "id": "ibermusicas-circulacion-profesionales",
@@ -16354,6 +16354,499 @@
         "Australia"
       ],
       "verificado": "2026-10-19"
+    },
+    {
+      "id": "nl-rijksakademie-residencia",
+      "titulo": "Rijksakademie van beeldende kunsten – Residencia internacional",
+      "organizacion": "Rijksakademie van beeldende kunsten",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "ARTES_VISUALES",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "NL",
+      "paisNombre": "Países Bajos",
+      "ciudad": "Ámsterdam",
+      "provincia": "Holanda Septentrional",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Residencia de un año en Ámsterdam para artistas visuales de cualquier país. La convocatoria para la residencia 2028 abre el 1 de enero de 2027, según la web oficial; el cierre está proyectado al 1 de febrero, como en la ronda anterior.",
+      "requisitos": [
+        "En general, formación de grado o máster terminada.",
+        "Al menos 2 o 3 años de práctica profesional independiente."
+      ],
+      "documentacion": [
+        "Formulario en línea de la Rijksakademie."
+      ],
+      "beneficios": [
+        "Taller y residencia de un año en Ámsterdam."
+      ],
+      "apertura": "2027-01-01",
+      "cierre": "2027-02-01",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://rijksakademie.nl/en/residency-apply/apply",
+      "urlBases": null,
+      "palabrasClave": [
+        "Rijksakademie",
+        "Ámsterdam",
+        "residencia",
+        "artes visuales"
+      ],
+      "verificado": "2026-10-26"
+    },
+    {
+      "id": "de-daad-artists-in-berlin",
+      "titulo": "DAAD Artists-in-Berlin Program – Becas de residencia en Berlín (cine, literatura, música y sonido)",
+      "organizacion": "DAAD – Servicio Alemán de Intercambio Académico",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "CINE",
+        "MUSICA"
+      ],
+      "pais": "DE",
+      "paisNombre": "Alemania",
+      "ciudad": "Berlín",
+      "provincia": "Berlín",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 52.52,
+      "lng": 13.405,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Programa de residencias en Berlín para artistas consolidados de cine, literatura y música y sonido. Las artes visuales entran solo por nominación. En los últimos ciclos la postulación abrió a mediados de octubre y cerró el 15 de diciembre; la fecha de este ciclo está proyectada.",
+      "requisitos": [
+        "Artistas con trayectoria; quedan afuera emergentes y estudiantes.",
+        "No pueden volver a postular quienes ya fueron becarios."
+      ],
+      "documentacion": [
+        "Postulación en línea en la web del DAAD."
+      ],
+      "beneficios": [
+        "Residencia en Berlín con apoyo del DAAD."
+      ],
+      "apertura": null,
+      "cierre": "2026-12-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.berliner-kuenstlerprogramm.de/en/",
+      "urlBases": null,
+      "palabrasClave": [
+        "DAAD",
+        "Berlín",
+        "residencia",
+        "cine",
+        "música"
+      ],
+      "verificado": "2026-10-26"
+    },
+    {
+      "id": "gb-raindance-film-festival-2027",
+      "titulo": "Raindance Film Festival 2027 – Inscripción de películas y obras inmersivas",
+      "organizacion": "Raindance",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "GB",
+      "paisNombre": "Reino Unido",
+      "ciudad": "Londres",
+      "provincia": "Inglaterra",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Festival de cine independiente de Londres, con premios Raindance Immersive. La 35ª edición está anunciada para el 16 al 25 de junio de 2027. En FilmFreeway figuran plazos el 7 de diciembre de 2026 (temprano), el 18 de enero de 2027 (regular) y el 8 de marzo de 2027 (final). Las fuentes difieren en la fecha de terminación exigida: revisá las bases.",
+      "requisitos": [
+        "Películas terminadas dentro del período que fijen las bases."
+      ],
+      "documentacion": [
+        "Inscripción por FilmFreeway."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios Raindance, incluidos los Immersive Awards."
+      ],
+      "apertura": null,
+      "cierre": "2027-03-08",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://filmfreeway.com/Raindance",
+      "urlBases": null,
+      "palabrasClave": [
+        "Raindance",
+        "Londres",
+        "cine independiente",
+        "inmersivo"
+      ],
+      "verificado": "2026-10-26"
+    },
+    {
+      "id": "es-casa-de-velazquez-artistas-residentes",
+      "titulo": "Académie de France à Madrid (Casa de Velázquez) – Artistas residentes",
+      "organizacion": "Casa de Velázquez",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "MULTIDISCIPLINA",
+        "ARTES_VISUALES",
+        "CINE",
+        "MUSICA"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Madrid",
+      "provincia": "Comunidad de Madrid",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "fr",
+        "es"
+      ],
+      "resumen": "Residencia de 11 meses en Madrid desde septiembre, con 12 plazas en la última ronda. No hay requisito de nacionalidad, pero el proyecto tiene que vincularse con la Península Ibérica. Para 2026-2027 el plazo cerró el 28 de noviembre de 2025; la fecha de la ronda 2027-2028 está proyectada.",
+      "requisitos": [
+        "Proyecto artístico vinculado con la Península Ibérica.",
+        "Quienes pasan la preselección van a una audición en francés en París."
+      ],
+      "documentacion": [
+        "CV.",
+        "Portfolio.",
+        "Descripción del proyecto."
+      ],
+      "beneficios": [
+        "Residencia de 11 meses en la Casa de Velázquez."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-28",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.casadevelazquez.org/en/creation-artistique/appels/artists-in-residence-at-the-french-academy-in-madrid",
+      "urlBases": null,
+      "palabrasClave": [
+        "Casa de Velázquez",
+        "Académie de France",
+        "Madrid",
+        "residencia"
+      ],
+      "verificado": "2026-10-26"
+    },
+    {
+      "id": "nl-jan-van-eyck-academie-2028",
+      "titulo": "Jan van Eyck Academie – Convocatoria de residencias 2028",
+      "organizacion": "Jan van Eyck Academie",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "ARTES_VISUALES",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "NL",
+      "paisNombre": "Países Bajos",
+      "ciudad": "Maastricht",
+      "provincia": "Limburgo",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 50.8514,
+      "lng": 5.691,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Residencia de investigación y producción en Maastricht, del 15 de enero al 15 de diciembre de 2028, para artistas, diseñadores, arquitectos, curadores, escritores e investigadores. La postulación va del 5 de octubre al 1 de diciembre de 2026 (23:59 CET) y la selección se conoce en mayo de 2027. En el ciclo anterior había tarifa de postulación de 65 € y estipendio mensual.",
+      "requisitos": [
+        "Práctica artística, de diseño, curatorial, de escritura o de investigación.",
+        "No pueden postular exparticipantes de tiempo completo de otras dos post-academias neerlandesas."
+      ],
+      "documentacion": [
+        "Postulación en línea en janvaneyck.nl."
+      ],
+      "beneficios": [
+        "Residencia de casi un año con estudio y programa de investigación."
+      ],
+      "apertura": "2026-10-05",
+      "cierre": "2026-12-01",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://www.e-flux.com/announcements/6788336/call-for-applications-2028",
+      "urlBases": null,
+      "palabrasClave": [
+        "Jan van Eyck",
+        "Maastricht",
+        "residencia",
+        "investigación artística"
+      ],
+      "verificado": "2026-10-26"
+    },
+    {
+      "id": "gb-gasworks-residencia-argentina-2027",
+      "titulo": "Gasworks – Residencia 2027 para artistas residentes en Argentina",
+      "organizacion": "Gasworks, con ERA Foundation y URRA",
+      "tipo": "RESIDENCIA",
+      "disciplinas": [
+        "ARTES_VISUALES"
+      ],
+      "pais": "GB",
+      "paisNombre": "Reino Unido",
+      "ciudad": "Londres",
+      "provincia": "Inglaterra",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 51.4826,
+      "lng": -0.1236,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": "GBP",
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Residencia de 11 semanas en Gasworks (Londres), del 7 de abril al 22 de junio de 2027, para artistas con base en Argentina. Incluye estudio, alojamiento, pasajes, visado, estipendio semanal de 175 £ y hasta 800 £ para materiales. La postulación cierra el 16 de noviembre de 2026 a la 13 (hora del Reino Unido).",
+      "requisitos": [
+        "Artista contemporáneo con base en Argentina.",
+        "Revisá en la convocatoria los requisitos de trayectoria."
+      ],
+      "documentacion": [
+        "Postulación según la convocatoria de Gasworks."
+      ],
+      "beneficios": [
+        "Estudio y alojamiento en Londres.",
+        "Pasajes de ida y vuelta y apoyo de visado.",
+        "Estipendio de 175 £ por semana y hasta 800 £ para materiales."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-16",
+      "fechasEstimadas": false,
+      "periodicidad": "UNICA",
+      "url": "https://www.gasworks.org.uk",
+      "urlBases": null,
+      "palabrasClave": [
+        "Gasworks",
+        "Londres",
+        "URRA",
+        "residencia",
+        "Argentina"
+      ],
+      "verificado": "2026-10-26"
+    },
+    {
+      "id": "it-venice-gap-financing-market",
+      "titulo": "Venice Gap-Financing Market – Proyectos de cine e inmersivos",
+      "organizacion": "La Biennale di Venezia – Venice Production Bridge",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "CINE",
+        "INMERSIVO"
+      ],
+      "pais": "IT",
+      "paisNombre": "Italia",
+      "ciudad": "Venecia",
+      "provincia": "Véneto",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 45.4408,
+      "lng": 12.3155,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "PRODUCTOR",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "PRODUCCION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Mercado de cierre de financiación del Festival de Venecia, con largos de ficción y documental y entre 10 y 12 proyectos inmersivos de todo el mundo. En 2026 la convocatoria abrió el 2 de febrero y cerró el 8 de mayo, tras una prórroga. Las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Proyectos con parte de la financiación asegurada, según las bases de cada año."
+      ],
+      "documentacion": [
+        "Postulación en la web de Venice Production Bridge."
+      ],
+      "beneficios": [
+        "Reuniones con financiadores y coproductores durante el festival."
+      ],
+      "apertura": "2027-02-02",
+      "cierre": "2027-05-08",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://veniceproductionbridge.org",
+      "urlBases": null,
+      "palabrasClave": [
+        "Venice Gap-Financing Market",
+        "Venecia",
+        "inmersivo",
+        "coproducción"
+      ],
+      "verificado": "2026-10-26"
+    },
+    {
+      "id": "gr-agora-xr-lab-thessaloniki",
+      "titulo": "AGORA XR Lab – Laboratorio de narrativa inmersiva (Festival de Cine de Tesalónica)",
+      "organizacion": "Thessaloniki International Film Festival – Agora",
+      "tipo": "LABORATORIO",
+      "disciplinas": [
+        "INMERSIVO",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "GR",
+      "paisNombre": "Grecia",
+      "ciudad": "Tesalónica",
+      "provincia": "Macedonia Central",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 40.6401,
+      "lng": 22.9444,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "en"
+      ],
+      "resumen": "Laboratorio para proyectos de narrativa inmersiva que se hace del 6 al 11 de marzo de 2027. Los proyectos tienen que tener al menos dos integrantes creativos. La postulación cierra el 25 de noviembre de 2026.",
+      "requisitos": [
+        "Proyecto inmersivo con al menos dos integrantes creativos."
+      ],
+      "documentacion": [
+        "Postulación según la convocatoria de la Agora."
+      ],
+      "beneficios": [
+        "Participación en el laboratorio en Tesalónica."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-25",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://www.filmfestival.gr",
+      "urlBases": null,
+      "palabrasClave": [
+        "AGORA",
+        "Tesalónica",
+        "XR",
+        "inmersivo",
+        "laboratorio"
+      ],
+      "verificado": "2026-10-26"
     }
   ]
 }
