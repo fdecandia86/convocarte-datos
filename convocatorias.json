@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-26",
+  "actualizado": "2026-11-02",
   "convocatorias": [
     {
       "id": "int-subsidios-ventanilla-permanente",
@@ -2617,7 +2617,7 @@
         "danza",
         "circo"
       ],
-      "verificado": "2026-10-12"
+      "verificado": "2026-11-02"
     },
     {
       "id": "fira-tarrega-programa-oficial",
@@ -4944,7 +4944,7 @@
       "idiomas": [
         "fr"
       ],
-      "resumen": "Espacio OFF colectivo durante el Festival Mundial de Marionetas de Charleville-Mézières (24ª edición: 17 al 26 de septiembre de 2027). Es para compañías de la región Hauts-de-France con espectáculos de títeres. Cierra el 31 de octubre de 2026. El festival oficial dejó de tener convocatoria abierta desde 2027.",
+      "resumen": "Espacio OFF colectivo durante el Festival Mundial de Marionetas de Charleville-Mézières (24ª edición: 17 al 26 de septiembre de 2027). Es para compañías de la región Hauts-de-France con espectáculos de títeres. Cierra el 31 de octubre de 2026. El festival oficial dejó de tener convocatoria abierta desde 2027. La convocatoria para 2027 cerró el 31 de octubre de 2026; la fecha de la próxima edición del festival bienal está proyectada.",
       "requisitos": [
         "Compañía con sede en la región Hauts-de-France.",
         "Espectáculo con títeres u objetos."
@@ -4958,8 +4958,8 @@
         "Funciones en el OFF del festival (13 al 29 de septiembre de 2027)."
       ],
       "apertura": null,
-      "cierre": "2026-10-31",
-      "fechasEstimadas": false,
+      "cierre": "2028-10-31",
+      "fechasEstimadas": true,
       "periodicidad": "BIENAL",
       "url": "https://www.artcena.fr/annonces/appels-a-projets/appel-a-candidature-tadam-2027-espace-collectif-off-sur-le-festival",
       "urlBases": null,
@@ -4969,7 +4969,7 @@
         "off",
         "festival mundial"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-02"
     },
     {
       "id": "bogliasco-fellowships",
@@ -6147,7 +6147,7 @@
       "idiomas": [
         "en"
       ],
-      "resumen": "Segundo fringe más grande del mundo (19 de febrero al 21 de marzo de 2027). El registro de artistas de todas las disciplinas ya está abierto. Quien se registre hasta el 30 de octubre de 2026 entra en la guía impresa oficial.",
+      "resumen": "Segundo fringe más grande del mundo (19 de febrero al 21 de marzo de 2027). El registro de artistas de todas las disciplinas ya está abierto. Quien se registre hasta el 30 de octubre de 2026 entra en la guía impresa oficial. El plazo para la edición 2027 venció el 30 de octubre de 2026; la fecha de la edición 2028 está proyectada.",
       "requisitos": [
         "Conseguir sala o espacio registrado.",
         "Registrar el evento en la plataforma AVR."
@@ -6161,8 +6161,8 @@
         "Programa de giras y contacto con delegados de la industria."
       ],
       "apertura": null,
-      "cierre": "2026-10-30",
-      "fechasEstimadas": false,
+      "cierre": "2027-10-30",
+      "fechasEstimadas": true,
       "periodicidad": "ANUAL",
       "url": "https://adelaidefringe.com.au",
       "urlBases": null,
@@ -6172,7 +6172,7 @@
         "gira",
         "festival abierto"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-02"
     },
     {
       "id": "melbourne-fringe-registro",
@@ -7600,7 +7600,7 @@
       "idiomas": [
         "es"
       ],
-      "resumen": "Concurso para obras que usan nuevas tecnologías: realidad virtual y aumentada, instalaciones interactivas, arte generativo o robótica. En la edición 2025 se recibieron obras hasta el 28 de octubre y las premiadas se exhiben en el Palacio Libertad en 2026. No hay convocatoria 2026 confirmada.",
+      "resumen": "Concurso para obras que usan nuevas tecnologías: realidad virtual y aumentada, instalaciones interactivas, arte generativo o robótica. En la edición 2025 se recibieron obras hasta el 28 de octubre y las premiadas se exhiben en el Palacio Libertad en 2026. No hay convocatoria 2026 confirmada. En 2026 no se encontró una nueva edición; la fecha de 2027 está proyectada.",
       "requisitos": [
         "Artistas o colectivos argentinos o residentes.",
         "Obra que use tecnología de forma central."
@@ -7615,7 +7615,7 @@
         "Exhibición de obras seleccionadas en el Palacio Libertad."
       ],
       "apertura": null,
-      "cierre": "2026-10-28",
+      "cierre": "2027-10-28",
       "fechasEstimadas": true,
       "periodicidad": "ANUAL",
       "url": "https://fnartes.gob.ar",
@@ -7627,7 +7627,7 @@
         "arte generativo",
         "FNA"
       ],
-      "verificado": "2026-10-26"
+      "verificado": "2026-11-02"
     },
     {
       "id": "fna-concurso-diseno-arte-cultura",
@@ -11963,7 +11963,7 @@
         "Río Negro",
         "teatro independiente"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-02"
     },
     {
       "id": "neuquen-fiesta-provincial-teatro-int",
@@ -12960,7 +12960,7 @@
         "festival",
         "México"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-02"
     },
     {
       "id": "mx-ficm-morelia-inscripcion",
@@ -13062,7 +13062,7 @@
       "idiomas": [
         "es"
       ],
-      "resumen": "El FICG 42 será del 6 al 13 de marzo de 2027. La convocatoria de largometrajes está abierta del 20 de julio al 31 de octubre de 2026; algunas secciones de cortometraje cierran antes. La inscripción se hace por Eventival.",
+      "resumen": "El FICG 42 será del 6 al 13 de marzo de 2027. La convocatoria de largometrajes está abierta del 20 de julio al 31 de octubre de 2026; algunas secciones de cortometraje cierran antes. La inscripción se hace por Eventival. La convocatoria para el FICG 42 cerró el 31 de octubre de 2026; las fechas de la siguiente edición están proyectadas.",
       "requisitos": [
         "Películas que cumplan el reglamento de cada sección (iberoamericana, mexicana, internacional).",
         "Inscripción por Eventival.",
@@ -13077,9 +13077,9 @@
         "Exhibición en el FICG.",
         "Premios Mayahuel de las competencias."
       ],
-      "apertura": "2026-07-20",
-      "cierre": "2026-10-31",
-      "fechasEstimadas": false,
+      "apertura": "2027-07-20",
+      "cierre": "2027-10-31",
+      "fechasEstimadas": true,
       "periodicidad": "ANUAL",
       "url": "https://www.ficg.mx",
       "urlBases": "https://vp.eventival.com/ficg/2027/custom-page/regulations_for_participants_ficgg_42/show",
@@ -13090,7 +13090,7 @@
         "largometraje",
         "Iberoamérica"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-02"
     },
     {
       "id": "mx-cervantino-convocatoria-guanajuato",
@@ -15423,7 +15423,7 @@
         "París",
         "Francia"
       ],
-      "verificado": "2026-10-12"
+      "verificado": "2026-11-02"
     },
     {
       "id": "es-cenit-sevilla",
@@ -16153,7 +16153,7 @@
         "Premios del HAF."
       ],
       "apertura": null,
-      "cierre": "2026-10-31",
+      "cierre": "2027-10-31",
       "fechasEstimadas": true,
       "periodicidad": "ANUAL",
       "url": "https://industry.hkiff.org.hk/en/haf/idp/eligibility-and-selection-criteria",
@@ -16165,7 +16165,7 @@
         "coproducción",
         "cine asiático"
       ],
-      "verificado": "2026-10-19"
+      "verificado": "2026-11-02"
     },
     {
       "id": "us-creative-capital-award",
@@ -16847,6 +16847,518 @@
         "laboratorio"
       ],
       "verificado": "2026-10-26"
+    },
+    {
+      "id": "larioja-salon-nacional-artes-visuales",
+      "titulo": "Salón Nacional de Artes Visuales La Rioja",
+      "organizacion": "Secretaría de Culturas de La Rioja",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "ARTES_VISUALES"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "La Rioja",
+      "provincia": "La Rioja",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -29.4131,
+      "lng": -66.8558,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Salón de artes visuales del gobierno de La Rioja. La edición 2026 fue de alcance nacional, con tema, materiales y técnicas libres, e inscripción del 6 de mayo al 6 de agosto de 2026. El jurado elige las obras que compiten por los premios. Las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Artistas visuales de todo el país (en la edición 2026).",
+        "Obra de cualquier disciplina de las artes visuales."
+      ],
+      "documentacion": [
+        "Formulario de inscripción según las bases."
+      ],
+      "beneficios": [
+        "Exhibición de las obras seleccionadas.",
+        "Premios del salón."
+      ],
+      "apertura": "2027-05-06",
+      "cierre": "2027-08-06",
+      "fechasEstimadas": true,
+      "periodicidad": null,
+      "url": "https://www.recursosculturales.com/salon-regional-de-artes-visuales-la-rioja-noa/",
+      "urlBases": null,
+      "palabrasClave": [
+        "La Rioja",
+        "salón",
+        "artes visuales",
+        "NOA"
+      ],
+      "verificado": "2026-11-02"
+    },
+    {
+      "id": "catamarca-salon-artes-visuales",
+      "titulo": "Salón de Artes Visuales Catamarca (regional NOA)",
+      "organizacion": "Ministerio de Cultura, Turismo y Deporte de Catamarca",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "ARTES_VISUALES"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "San Fernando del Valle de Catamarca",
+      "provincia": "Catamarca",
+      "provinciasElegibles": [
+        "Catamarca",
+        "Jujuy",
+        "Salta",
+        "Tucumán",
+        "Santiago del Estero",
+        "La Rioja"
+      ],
+      "continente": "AMERICA_LATINA",
+      "lat": -28.4696,
+      "lng": -65.7795,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": 1700000,
+      "moneda": "ARS",
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Salón con premios adquisición por $5 millones en total (primer premio de $1.700.000 en 2026). La 3ª edición fue la primera de alcance regional para artistas del NOA y estuvo abierta del 19 de enero al 6 de abril de 2026; la muestra se hizo en el Museo Provincial de Bellas Artes Laureano Brizuela. Las fechas de 2027 están proyectadas: confirmá en las bases qué provincias entran.",
+      "requisitos": [
+        "Artistas visuales del NOA, según las bases de cada edición."
+      ],
+      "documentacion": [
+        "Postulación según las bases del salón."
+      ],
+      "beneficios": [
+        "Premios adquisición.",
+        "Exhibición en el Museo Provincial de Bellas Artes Laureano Brizuela."
+      ],
+      "apertura": "2027-01-19",
+      "cierre": "2027-04-06",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.elancasti.com.ar/cultura/catamarca-lanza-el-3-salon-artes-visuales-catamarca-2026-n603667",
+      "urlBases": null,
+      "palabrasClave": [
+        "Catamarca",
+        "salón",
+        "artes visuales",
+        "NOA",
+        "premio adquisición"
+      ],
+      "verificado": "2026-11-02"
+    },
+    {
+      "id": "entrerios-salon-provincial-artes-visuales",
+      "titulo": "Salón Provincial de Artes Visuales de Entre Ríos",
+      "organizacion": "Museo Provincial de Bellas Artes «Dr. Pedro E. Martínez» – Secretaría de Cultura de Entre Ríos",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "ARTES_VISUALES"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Paraná",
+      "provincia": "Entre Ríos",
+      "provinciasElegibles": [
+        "Entre Ríos"
+      ],
+      "continente": "AMERICA_LATINA",
+      "lat": -31.7413,
+      "lng": -60.5115,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": "ARS",
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Salón clásico para artistas visuales entrerrianos. La LXIII edición (2026) recibió postulaciones en línea del 6 de julio al 10 de agosto. En 2025 los primeros premios eran de $1.200.000 y los segundos de $950.000. Las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Haber nacido en Entre Ríos o tener al menos tres años de residencia en la provincia (según la edición 2025)."
+      ],
+      "documentacion": [
+        "Postulación en línea según el reglamento."
+      ],
+      "beneficios": [
+        "Premios por disciplina.",
+        "Exhibición en el Museo Provincial de Bellas Artes."
+      ],
+      "apertura": "2027-07-06",
+      "cierre": "2027-08-10",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.entrerios.gov.ar/cultura/abren-la-convocatoria-para-el-lxiii-salon-provincial-de-artes-visuales-de-entre-rios-2026/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Entre Ríos",
+        "salón provincial",
+        "artes visuales",
+        "Paraná"
+      ],
+      "verificado": "2026-11-02"
+    },
+    {
+      "id": "santafe-unl-foro-abierto-escenicas",
+      "titulo": "Foro Abierto – Convocatoria a producciones escénicas locales (UNL)",
+      "organizacion": "Secretaría de Cultura y Medios – Universidad Nacional del Litoral",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "PERFORMANCE"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Santa Fe",
+      "provincia": "Santa Fe",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -31.6333,
+      "lng": -60.7,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "PRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Convocatoria de la UNL para que artistas y grupos de Santa Fe y la región programen teatro, danza y otras formas escénicas en el Foro Cultural, en las líneas «Viernes de Estrenos» y «Viernes de Escénicas». La de 2026 se publicó el 20 de diciembre de 2025 y la de 2025 cerró el 14 de marzo. Las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Artistas y grupos escénicos de la ciudad y la región.",
+        "Proyectos individuales o colectivos."
+      ],
+      "documentacion": [
+        "Formulario en línea según las bases."
+      ],
+      "beneficios": [
+        "Funciones en las salas del Foro Cultural UNL."
+      ],
+      "apertura": "2026-12-20",
+      "cierre": "2027-03-14",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.unl.edu.ar/noticias/news/view/unl_abre_la_convocatoria_2026_a_producciones_escénicas_locales",
+      "urlBases": "https://www.unl.edu.ar/agendacultural/wp-content/uploads/sites/53/2020/06/foro_abierto_escenicas_2026_bases.pdf",
+      "palabrasClave": [
+        "UNL",
+        "Foro Cultural",
+        "Santa Fe",
+        "teatro",
+        "danza"
+      ],
+      "verificado": "2026-11-02"
+    },
+    {
+      "id": "santafe-comedia-unl",
+      "titulo": "Comedia UNL – Convocatoria a proyectos teatrales",
+      "organizacion": "Secretaría de Cultura y Medios – Universidad Nacional del Litoral",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "TEATRO"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Santa Fe",
+      "provincia": "Santa Fe",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -31.6333,
+      "lng": -60.7,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COMPANIA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "La UNL elige un proyecto teatral para producir con acompañamiento y estrenar en mayo, con veinte funciones los sábados en el Foro Cultural UNL y otros espacios. La convocatoria para la Comedia UNL 2027 estuvo abierta del 1 al 30 de septiembre de 2026. Las fechas de la próxima están proyectadas.",
+      "requisitos": [
+        "Proyecto teatral según las bases de cada convocatoria."
+      ],
+      "documentacion": [
+        "Formulario en línea."
+      ],
+      "beneficios": [
+        "Acompañamiento en el proceso creativo.",
+        "Estreno y veinte funciones."
+      ],
+      "apertura": "2027-09-01",
+      "cierre": "2027-09-30",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.unl.edu.ar/noticias/news/view/convocatoria_abierta_para_la_comedia_unl_2027",
+      "urlBases": "https://www.unl.edu.ar/agendacultural/wp-content/uploads/sites/53/2020/06/convocatoria_ComediaUNL2027_bases.pdf",
+      "palabrasClave": [
+        "Comedia UNL",
+        "Santa Fe",
+        "teatro",
+        "producción"
+      ],
+      "verificado": "2026-11-02"
+    },
+    {
+      "id": "mendoza-vendimia-concurso-acto-central",
+      "titulo": "Fiesta Nacional de la Vendimia – Concurso de guion y puesta en escena del Acto Central",
+      "organizacion": "Gobierno de Mendoza",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "MUSICA",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Mendoza",
+      "provincia": "Mendoza",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -32.8895,
+      "lng": -68.8458,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": "ARS",
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Concurso público anual para elegir guion, escenografía, dirección, puesta en escena y equipo artístico del Acto Central de la Vendimia en el Teatro Griego Frank Romero Day. En 2026 el premio total fue de $48.000.000. La convocatoria para la Vendimia 2027 ya cerró (se presentaron cuatro propuestas); en ediciones anteriores el llamado abrió en agosto. Las fechas de la próxima no están publicadas.",
+      "requisitos": [
+        "Propuesta integral de guion, escenografía, dirección y equipo artístico según las bases de cada año."
+      ],
+      "documentacion": [
+        "Bases y anexos publicados por el Gobierno de Mendoza."
+      ],
+      "beneficios": [
+        "Realización del Acto Central de la Vendimia.",
+        "Premio en dinero (en 2026, $48.000.000 en total)."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.mendoza.gov.ar/prensa/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Vendimia",
+        "Mendoza",
+        "Teatro Griego",
+        "guion",
+        "puesta en escena"
+      ],
+      "verificado": "2026-11-02"
+    },
+    {
+      "id": "mendoza-salon-regional-artes-visuales-vendimia",
+      "titulo": "Salón Regional de Artes Visuales Vendimia",
+      "organizacion": "Subsecretaría de Cultura de Mendoza",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "ARTES_VISUALES"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "Mendoza",
+      "provincia": "Mendoza",
+      "provinciasElegibles": [
+        "Mendoza",
+        "San Juan",
+        "San Luis",
+        "La Rioja"
+      ],
+      "continente": "AMERICA_LATINA",
+      "lat": -32.8895,
+      "lng": -68.8458,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Salón para artistas y colectivos de Mendoza, San Juan, San Luis y La Rioja. La edición 2024-2025 recibió 250 postulaciones, eligió 102 y se expuso en el Espacio Contemporáneo de Arte Eliana Molinelli. No encontré las fechas de la próxima convocatoria.",
+      "requisitos": [
+        "Artistas o colectivos de Mendoza, San Juan, San Luis o La Rioja."
+      ],
+      "documentacion": [
+        "Formulario de inscripción en el sitio de Cultura de Mendoza."
+      ],
+      "beneficios": [
+        "Exhibición en el ECA Eliana Molinelli.",
+        "Premios del salón."
+      ],
+      "apertura": null,
+      "cierre": null,
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.mendoza.gov.ar/prensa/convocatoria-al-salon-regional-de-artes-visuales-vendimia-2024-2025/",
+      "urlBases": "https://www.mendoza.gov.ar/wp-content/uploads/sites/17/2024/09/SALON-REGIONAL-DE-ARTES-VISUALES-VENDIMIA-2024-2025.pdf",
+      "palabrasClave": [
+        "Vendimia",
+        "Mendoza",
+        "San Luis",
+        "La Rioja",
+        "artes visuales"
+      ],
+      "verificado": "2026-11-02"
+    },
+    {
+      "id": "sanjuan-teatro-bicentenario-chalet-cantoni-ciclos",
+      "titulo": "Teatro del Bicentenario y Chalet Cantoni – Convocatoria de proyectos para la programación anual",
+      "organizacion": "Ministerio de Turismo, Cultura y Deporte de San Juan",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "MUSICA",
+        "MULTIDISCIPLINA"
+      ],
+      "pais": "AR",
+      "paisNombre": "Argentina",
+      "ciudad": "San Juan",
+      "provincia": "San Juan",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -31.5375,
+      "lng": -68.5364,
+      "alcance": "REGIONAL",
+      "paisesElegibles": [
+        "AR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "GESTOR",
+        "COLECTIVO",
+        "COMPANIA"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Llamado a artistas, gestores y colectivos de distintas disciplinas para sumar proyectos a la programación de dos espacios culturales de San Juan. Para la temporada 2026 se recibieron propuestas hasta el 23 de febrero por correo (asunto «CONVOCATORIA CICLOS 2026»). La fecha de 2027 está proyectada.",
+      "requisitos": [
+        "Proyectos de distintas disciplinas para la programación de los espacios."
+      ],
+      "documentacion": [
+        "Propuesta por correo electrónico según la convocatoria."
+      ],
+      "beneficios": [
+        "Programación en el Teatro del Bicentenario o el Chalet Cantoni."
+      ],
+      "apertura": null,
+      "cierre": "2027-02-23",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.diariodecuyo.com.ar/espectaculos/puertas-abiertas-en-el-teatro-del-bicentenario-y-el-chalet-cantoni-convocan-a-artistas-y-gestores-a-presentar-propuestas-1826460.html",
+      "urlBases": null,
+      "palabrasClave": [
+        "Teatro del Bicentenario",
+        "Chalet Cantoni",
+        "San Juan",
+        "programación"
+      ],
+      "verificado": "2026-11-02"
     }
   ]
 }
