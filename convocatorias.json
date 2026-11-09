@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-02",
+  "actualizado": "2026-11-09",
   "convocatorias": [
     {
       "id": "int-subsidios-ventanilla-permanente",
@@ -277,7 +277,7 @@
     },
     {
       "id": "fna-becas-movilidad",
-      "titulo": "Becas Movilidad del Fondo Nacional de las Artes (segunda convocatoria 2026)",
+      "titulo": "Becas Movilidad del Fondo Nacional de las Artes",
       "organizacion": "Fondo Nacional de las Artes (FNA)",
       "tipo": "BECA",
       "disciplinas": [
@@ -315,7 +315,7 @@
       "idiomas": [
         "es"
       ],
-      "resumen": "Ayuda del FNA para viajar a festivales, residencias, encuentros o capacitaciones en el país o el exterior. Esta convocatoria cubre actividades que ocurren entre el 1 de enero y el 1 de junio de 2027.",
+      "resumen": "Ayuda del FNA para viajar a festivales, residencias, encuentros o capacitaciones en el país o el exterior. Esta convocatoria cubre actividades que ocurren entre el 1 de enero y el 1 de junio de 2027. El segundo llamado 2026 cerró el 4 de noviembre; en 2026 el primer llamado fue del 14 de abril al 19 de mayo, y las fechas de 2027 están proyectadas desde ese ciclo.",
       "requisitos": [
         "Ser artista o gestor cultural argentino o residente en el país.",
         "Tener una invitación o aceptación a la actividad.",
@@ -330,9 +330,9 @@
       "beneficios": [
         "Aporte para pasajes y gastos de viaje."
       ],
-      "apertura": "2026-10-02",
-      "cierre": "2026-11-04",
-      "fechasEstimadas": false,
+      "apertura": "2027-04-14",
+      "cierre": "2027-05-19",
+      "fechasEstimadas": true,
       "periodicidad": "SEMESTRAL",
       "url": "https://fnartes.gob.ar",
       "urlBases": null,
@@ -343,7 +343,7 @@
         "residencia",
         "circulación internacional"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-09"
     },
     {
       "id": "fna-concurso-dramaturgia",
@@ -4554,7 +4554,7 @@
         "ia",
         "premio"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-09"
     },
     {
       "id": "akademie-schloss-solitude-becas",
@@ -5697,7 +5697,7 @@
         "desarrollo",
         "postproducción"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-09"
     },
     {
       "id": "red-sea-fund-postproduccion",
@@ -5761,7 +5761,7 @@
         "asia",
         "fondo"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-09"
     },
     {
       "id": "afac-performing-arts-grant",
@@ -12407,7 +12407,7 @@
         "It's All True",
         "gratis"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-09"
     },
     {
       "id": "br-mostra-sp-inscricao-filmes",
@@ -13576,7 +13576,7 @@
         "animación",
         "documental"
       ],
-      "verificado": "2026-10-11"
+      "verificado": "2026-11-09"
     },
     {
       "id": "colombia-idartes-pde",
@@ -15212,7 +15212,7 @@
       "idiomas": [
         "en"
       ],
-      "resumen": "Festival de cortometrajes del 10 al 14 de marzo de 2027. Las competencias Internacional y de Género cierran el 3 de noviembre de 2026; la Nacional (Finlandia), el 1 de diciembre. La tarifa final es de 20 € por película.",
+      "resumen": "Festival de cortometrajes del 10 al 14 de marzo de 2027. Las competencias Internacional y de Género cierran el 3 de noviembre de 2026; la Nacional (Finlandia), el 1 de diciembre. La tarifa final es de 20 € por película. Las fechas de la edición 2028 están proyectadas.",
       "requisitos": [
         "Cortometrajes de hasta 30 minutos con créditos.",
         "Terminados después del 1 de enero de 2025.",
@@ -15226,8 +15226,8 @@
         "Premios de las competencias."
       ],
       "apertura": null,
-      "cierre": "2026-11-03",
-      "fechasEstimadas": false,
+      "cierre": "2027-11-03",
+      "fechasEstimadas": true,
       "periodicidad": "ANUAL",
       "url": "https://tamperefilmfestival.fi/en/call-for-entries-submissions-for-the-2027-competitions-now-open/",
       "urlBases": null,
@@ -15237,7 +15237,7 @@
         "Finlandia",
         "festival de cine"
       ],
-      "verificado": "2026-10-12"
+      "verificado": "2026-11-09"
     },
     {
       "id": "de-oberhausen-kurzfilmtage-2027",
@@ -15399,7 +15399,7 @@
         "fr",
         "en"
       ],
-      "resumen": "Festival internacional de cine documental, 49ª edición del 19 al 27 de marzo de 2027 en salas de la orilla izquierda de París. En el ciclo anterior el cierre final fue el 3 de noviembre de 2025, con tarifas de 10 a 50 € según la fecha; las fechas de 2026 están proyectadas, revisá el reglamento 2027.",
+      "resumen": "Festival internacional de cine documental, 49ª edición del 19 al 27 de marzo de 2027 en salas de la orilla izquierda de París. En el ciclo anterior el cierre final fue el 3 de noviembre de 2025, con tarifas de 10 a 50 € según la fecha; las fechas de 2026 están proyectadas, revisá el reglamento 2027. El plazo proyectado para 2027 ya pasó; la fecha de la edición 2028 también está proyectada.",
       "requisitos": [
         "Estreno en Francia para entrar en competencia.",
         "Prioridad a estrenos mundiales."
@@ -15412,7 +15412,7 @@
         "Premios de las competencias."
       ],
       "apertura": null,
-      "cierre": "2026-11-03",
+      "cierre": "2027-11-03",
       "fechasEstimadas": true,
       "periodicidad": "ANUAL",
       "url": "https://www.cinemadureel.org/en/competition-regulations-2027/",
@@ -15423,7 +15423,7 @@
         "París",
         "Francia"
       ],
-      "verificado": "2026-11-02"
+      "verificado": "2026-11-09"
     },
     {
       "id": "es-cenit-sevilla",
@@ -17359,6 +17359,539 @@
         "programación"
       ],
       "verificado": "2026-11-02"
+    },
+    {
+      "id": "es-premios-quirino-2027",
+      "titulo": "Premios Quirino 2027 – Inscripción de obras de animación iberoamericana",
+      "organizacion": "Premios Quirino de la Animación Iberoamericana",
+      "tipo": "PREMIO",
+      "disciplinas": [
+        "CINE",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "ES",
+      "paisNombre": "España",
+      "ciudad": "Santa Cruz de Tenerife",
+      "provincia": "Canarias",
+      "provinciasElegibles": [],
+      "continente": "EUROPA",
+      "lat": 28.4636,
+      "lng": -16.2518,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "AR",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "DO",
+        "EC",
+        "SV",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PT",
+        "PR",
+        "ES",
+        "UY",
+        "VE",
+        "AD"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Décima edición de los premios de animación de 23 países iberoamericanos, con gala el 23 de abril de 2027 en Santa Cruz de Tenerife. La inscripción de obras se hace solo por Festhome y cierra el 25 de noviembre de 2026. Las obras preseleccionadas se anuncian el 2 de febrero de 2027. La animación de videojuegos tiene un comité de preselección propio.",
+      "requisitos": [
+        "Obras de animación de países iberoamericanos, según las bases de la décima edición."
+      ],
+      "documentacion": [
+        "Inscripción en Festhome."
+      ],
+      "beneficios": [
+        "Premios Quirino en sus categorías.",
+        "Exhibición y difusión en el mercado de coproducción de los premios."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-25",
+      "fechasEstimadas": false,
+      "periodicidad": "ANUAL",
+      "url": "https://rtvc.es/premios-quirino-abren-convocatoria-decima-edicion-24-octubre-2026/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Quirino",
+        "animación",
+        "Iberoamérica",
+        "Tenerife",
+        "videojuegos"
+      ],
+      "verificado": "2026-11-09"
+    },
+    {
+      "id": "br-mostra-tiradentes-inscricao",
+      "titulo": "Mostra de Cinema de Tiradentes – Inscripción de cortos y largos brasileños",
+      "organizacion": "Universo Produção",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "BR",
+      "paisNombre": "Brasil",
+      "ciudad": "Tiradentes",
+      "provincia": "Minas Gerais",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -21.1103,
+      "lng": -44.1782,
+      "alcance": "NACIONAL",
+      "paisesElegibles": [
+        "BR"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": 0,
+      "idiomas": [
+        "pt"
+      ],
+      "resumen": "Muestra de cine brasileño independiente en Tiradentes (Minas Gerais). Para la 30ª edición (22 al 30 de enero de 2027) la inscripción, gratuita, cerró el 28 de octubre de 2026 a las 23:59 (hora de Brasilia). Las fechas de la próxima edición están proyectadas.",
+      "requisitos": [
+        "Cortos y largos brasileños en formato digital.",
+        "Terminados a partir del año anterior a la muestra y no inscriptos en ediciones anteriores."
+      ],
+      "documentacion": [
+        "Inscripción en el sitio de Universo Produção."
+      ],
+      "beneficios": [
+        "Exhibición en la Mostra de Tiradentes."
+      ],
+      "apertura": null,
+      "cierre": "2027-10-28",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://diariodonordeste.verdesmares.com.br/verso/30-mostra-de-cinema-de-tiradentes-segue-com-inscricoes-abertas-1.3799654",
+      "urlBases": null,
+      "palabrasClave": [
+        "Tiradentes",
+        "cine brasileño",
+        "Minas Gerais",
+        "cortometraje"
+      ],
+      "verificado": "2026-11-09"
+    },
+    {
+      "id": "cl-chilemonos-festival-animacion",
+      "titulo": "Chilemonos – Festival Internacional de Animación: convocatoria de obras",
+      "organizacion": "Fundación Chilemonos",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Santiago",
+      "provincia": "Región Metropolitana",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -33.4489,
+      "lng": -70.6693,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival de animación de Santiago, habilitante para los Oscar, organizado por una fundación sin fines de lucro. La edición 2027 está anunciada en forma tentativa para el 26 al 28 de mayo. En 2025 la convocatoria cerró el 28 de febrero; el cierre de 2027 está proyectado y la convocatoria todavía no abrió.",
+      "requisitos": [
+        "Obras de animación según las bases de cada edición."
+      ],
+      "documentacion": [
+        "Inscripción por FilmFreeway."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las competencias."
+      ],
+      "apertura": null,
+      "cierre": "2027-02-28",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://filmfreeway.com/Chilemonos",
+      "urlBases": null,
+      "palabrasClave": [
+        "Chilemonos",
+        "animación",
+        "Santiago",
+        "Chile"
+      ],
+      "verificado": "2026-11-09"
+    },
+    {
+      "id": "cl-conecta-encuentro-documental",
+      "titulo": "Conecta – Encuentro Internacional de la Industria Documental",
+      "organizacion": "Corporación Chilena del Documental (CCDoc)",
+      "tipo": "MERCADO",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Santiago",
+      "provincia": "Región Metropolitana",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -33.4489,
+      "lng": -70.6693,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "DESARROLLO",
+        "POSTPRODUCCION",
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Encuentro de industria documental en Santiago, con espacios para proyectos en desarrollo, montaje, posproducción o terminados sin estreno comprometido. Para la edición 2026 (9 al 12 de diciembre) hubo dos ventanas: del 8 de junio al 3 de agosto y del 17 de agosto al 24 de septiembre. Las fechas de 2027 están proyectadas.",
+      "requisitos": [
+        "Proyectos documentales según la línea a la que se postula."
+      ],
+      "documentacion": [
+        "Postulación según las bases de cada línea."
+      ],
+      "beneficios": [
+        "Reuniones con la industria, pitchings y premios de las líneas."
+      ],
+      "apertura": "2027-06-08",
+      "cierre": "2027-09-24",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.latercera.com/culto/2024/11/08/una-cumbre-para-los-documentales-latinoamericanos-que-vienen-como-sera-la-edicion-2024-de-conecta/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Conecta",
+        "CCDoc",
+        "documental",
+        "Santiago",
+        "pitching"
+      ],
+      "verificado": "2026-11-09"
+    },
+    {
+      "id": "mx-pixelatl-ideatoon",
+      "titulo": "Ideatoon – Convocatoria de proyectos de series animadas (Pixelatl)",
+      "organizacion": "Pixelatl",
+      "tipo": "CONCURSO",
+      "disciplinas": [
+        "CINE",
+        "ARTES_DIGITALES"
+      ],
+      "pais": "MX",
+      "paisNombre": "México",
+      "ciudad": "Cuernavaca",
+      "provincia": "Morelos",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": 18.9242,
+      "lng": -99.2216,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA"
+      ],
+      "etapas": [
+        "IDEA",
+        "DESARROLLO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Convocatoria de Pixelatl para creadores latinoamericanos con ideas de series animadas. La edición 2026 cerró el 15 de junio a las 23:59 (hora de Ciudad de México), después de una prórroga. La fecha de 2027 está proyectada; confirmala en ideatoon.com.",
+      "requisitos": [
+        "Proyecto de serie animada según las bases de cada edición."
+      ],
+      "documentacion": [
+        "Postulación en línea."
+      ],
+      "beneficios": [
+        "Presentación ante estudios y canales durante el festival Pixelatl."
+      ],
+      "apertura": null,
+      "cierre": "2027-06-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://elfestival.mx/en/bitacora/fa82c408-42f5-4ab5-b58d-efdd6871b28d/Produce_el_piloto_de_tu_proyecto",
+      "urlBases": null,
+      "palabrasClave": [
+        "Pixelatl",
+        "Ideatoon",
+        "animación",
+        "series",
+        "México"
+      ],
+      "verificado": "2026-11-09"
+    },
+    {
+      "id": "uy-festival-cine-punta-del-este",
+      "titulo": "Festival Internacional de Cine de Punta del Este – Inscripción de películas",
+      "organizacion": "Intendencia de Maldonado",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "CINE"
+      ],
+      "pais": "UY",
+      "paisNombre": "Uruguay",
+      "ciudad": "Punta del Este",
+      "provincia": "Maldonado",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -34.9627,
+      "lng": -54.9506,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "ARTISTA",
+        "PRODUCTOR"
+      ],
+      "etapas": [
+        "ESTRENADO"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival de cine que se hace en febrero en Punta del Este. Para la 28ª edición (2026) la inscripción cerró el 30 de noviembre de 2025. La página de trámites de la 29ª edición (2027) ya está publicada, pero sin fechas: el cierre está proyectado.",
+      "requisitos": [
+        "Películas terminadas dentro del período que fijen las bases (en ediciones anteriores, desde el 1 de enero del año anterior)."
+      ],
+      "documentacion": [
+        "Formulario en línea según el reglamento."
+      ],
+      "beneficios": [
+        "Exhibición en el festival.",
+        "Premios de las competencias."
+      ],
+      "apertura": null,
+      "cierre": "2026-11-30",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://www.gub.uy/tramites/festival-internacional-cine-punta-este-2027-inscripciones-maldonado",
+      "urlBases": "https://cinepunta.uy/sites/default/files/2025-10/Reglamento%2028%20Festival%20Internacional%20de%20Cine%20de%20Punta%20del%20Este.pdf",
+      "palabrasClave": [
+        "Punta del Este",
+        "Maldonado",
+        "festival de cine",
+        "Uruguay"
+      ],
+      "verificado": "2026-11-09"
+    },
+    {
+      "id": "cl-fintdaz-iquique",
+      "titulo": "FINTDAZ – Festival Internacional de Teatro y Danza (Iquique): convocatoria de compañías",
+      "organizacion": "FINTDAZ",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA"
+      ],
+      "pais": "CL",
+      "paisNombre": "Chile",
+      "ciudad": "Iquique",
+      "provincia": "Tarapacá",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": -20.2133,
+      "lng": -70.1503,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "*"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "COLECTIVO"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival autogestionado de teatro y danza del norte de Chile, con sede en Iquique. La convocatoria para la 19ª edición (2026) se lanzó en noviembre de 2025 con cierre el 15 de diciembre, y se postularon más de 400 compañías. La fecha de la próxima convocatoria está proyectada.",
+      "requisitos": [
+        "Compañías de teatro o danza según las bases de cada edición."
+      ],
+      "documentacion": [
+        "Postulación en fintdaz.cl."
+      ],
+      "beneficios": [
+        "Funciones en el festival."
+      ],
+      "apertura": null,
+      "cierre": "2026-12-15",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://fintdaz.cl/convocatoria/",
+      "urlBases": null,
+      "palabrasClave": [
+        "FINTDAZ",
+        "Iquique",
+        "Tarapacá",
+        "teatro",
+        "danza"
+      ],
+      "verificado": "2026-11-09"
+    },
+    {
+      "id": "mx-festival-mientras-tanto",
+      "titulo": "Festival Mientras Tanto (Ciudad de México) – Convocatoria internacional",
+      "organizacion": "Festival Mientras Tanto",
+      "tipo": "FESTIVAL",
+      "disciplinas": [
+        "TEATRO",
+        "DANZA",
+        "PERFORMANCE"
+      ],
+      "pais": "MX",
+      "paisNombre": "México",
+      "ciudad": "Ciudad de México",
+      "provincia": "Ciudad de México",
+      "provinciasElegibles": [],
+      "continente": "AMERICA_LATINA",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "alcance": "INTERNACIONAL",
+      "paisesElegibles": [
+        "AR",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "DO",
+        "EC",
+        "SV",
+        "GT",
+        "HN",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PT",
+        "ES",
+        "UY",
+        "VE"
+      ],
+      "edadMin": null,
+      "edadMax": null,
+      "perfiles": [
+        "COMPANIA",
+        "COLECTIVO",
+        "ARTISTA"
+      ],
+      "etapas": [
+        "ESTRENADO",
+        "CIRCULACION"
+      ],
+      "montoMax": null,
+      "moneda": null,
+      "costoInscripcion": null,
+      "idiomas": [
+        "es"
+      ],
+      "resumen": "Festival de artes escénicas en Ciudad de México, que en 2026 se hizo del 8 de noviembre al 13 de diciembre. La convocatoria internacional está dirigida a compañías de países miembros de Iberescena, excepto México, y cerró el 30 de agosto de 2026. La fecha de 2027 está proyectada; revisá en las bases la lista exacta de países.",
+      "requisitos": [
+        "Compañías de países miembros de Iberescena, salvo México."
+      ],
+      "documentacion": [
+        "Postulación según la convocatoria del festival."
+      ],
+      "beneficios": [
+        "Funciones en el festival."
+      ],
+      "apertura": null,
+      "cierre": "2027-08-30",
+      "fechasEstimadas": true,
+      "periodicidad": "ANUAL",
+      "url": "https://kioskoteatral.com/convocatorias/convocatoria-internacional-festival-mientras-tanto-mexico-30-de-agosto-de-2026/",
+      "urlBases": null,
+      "palabrasClave": [
+        "Mientras Tanto",
+        "Ciudad de México",
+        "Iberescena",
+        "festival",
+        "artes escénicas"
+      ],
+      "verificado": "2026-11-09"
     }
   ]
 }
